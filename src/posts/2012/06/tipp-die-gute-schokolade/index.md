@@ -1,6 +1,8 @@
 ---
 title: "Tipp: die \"Gute Schokolade\""
-date: "2012-06-19"
+date: "2012-06-19" 
+tags:
+- Rezept
 ---
 
 [![](images/img_20120616_174918.jpg "Die gute Schokolade")](http://apfeleimer.wordpress.com/2012/06/19/tipp-die-gute-schokolade/img_20120616_174918/)

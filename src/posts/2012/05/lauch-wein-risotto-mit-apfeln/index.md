@@ -1,6 +1,11 @@
 ---
 title: "Lauch-Wein-Risotto mit Äpfeln"
-date: "2012-05-02"
+date: "2012-05-02" 
+tags:
+- Rezept
+- Lauch
+- Reis
+- Apfel
 ---
 
 [![](images/imgp8865.jpg "lauchrisotto")](http://apfeleimer.wordpress.com/2012/05/02/lauch-wein-risotto-mit-apfeln/imgp8865/)

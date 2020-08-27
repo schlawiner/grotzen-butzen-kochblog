@@ -1,13 +1,17 @@
 ---
 title: "Fladenbrote und Nilgansküken"
-date: "2012-05-13"
+date: "2012-05-13" 
+tags:
+- Rezept
 ---
 
 [![](images/fladen.jpg "fladen")](http://apfeleimer.wordpress.com/2012/05/13/fladenbrote-und-nilganskuken/fladen/)
 
-Endlich komme ich mal dazu die Fladenbrote von neulich zu posten.
+Endlich komme ich mal dazu, die Fladenbrote von neulich zu posten.
 
-Ich habe die Rezepte aus zwei Kochbüchern kombiniert, ([Marokkanische Küche](http://www.amazon.de/gp/product/3895081329/ref=as_li_ss_tl?ie=UTF8&tag=apfeleimer09-21&linkCode=as2&camp=1638&creative=19454&creativeASIN=3895081329) und das [Arm aber Bio-Kochbuch](http://www.amazon.de/gp/product/3981346912/ref=as_li_ss_tl?ie=UTF8&tag=apfeleimer09-21&linkCode=as2&camp=1638&creative=19454&creativeASIN=3981346912)). Aus dem ersten habe ich den marokkanischen Hauch übernommen, der von Paprikapulver im Teig und Bestreichen mit Ei (bei uns Eiweiß, war übrig) und Bestreuen mit Sesam kommt - für "normale" Fladenbrote kann man diese Zutaten also einfach weglassen. Aus dem anderen das Backen der Fladen in der Pfanne statt im Ofen - spart Energie.
+Ich habe die Rezepte aus zwei Kochbüchern kombiniert, ([Marokkanische Küche](http://www.amazon.de/gp/product/3895081329/ref=as_li_ss_tl?ie=UTF8&tag=apfeleimer09-21&linkCode=as2&camp=1638&creative=19454&creativeASIN=3895081329) und dem [Arm-aber-Bio-Kochbuch](http://www.amazon.de/gp/product/3981346912/ref=as_li_ss_tl?ie=UTF8&tag=apfeleimer09-21&linkCode=as2&camp=1638&creative=19454&creativeASIN=3981346912)). 
+
+Aus dem ersten habe ich den marokkanischen Hauch übernommen, der von Paprikapulver im Teig und Bestreichen mit Ei (bei uns Eiweiß, war übrig) und Bestreuen mit Sesam kommt - für "normale" Fladenbrote kann man diese Zutaten also einfach weglassen. Aus dem anderen das Backen der Fladen in der Pfanne statt im Ofen - spart Energie.
 
 ## Zutaten
 

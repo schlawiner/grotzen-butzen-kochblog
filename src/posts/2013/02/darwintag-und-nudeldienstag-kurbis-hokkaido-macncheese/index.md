@@ -1,6 +1,8 @@
 ---
 title: "Darwintag und Nudeldienstag: Kürbis (Hokkaido)-Mac’n'Cheese"
-date: "2013-02-12"
+date: "2013-02-12" 
+tags:
+- Rezept
 ---
 
 [![Makkaroni mit Käse und Hokkaidokürbis](images/makkaroni-mit-kc3a4se-und-hokkaidokc3bcrbis.jpg)](http://apfeleimer.wordpress.com/2013/02/12/darwintag-und-nudeldienstag-kurbis-hokkaido-macncheese/makkaroni-mit-kase-und-hokkaidokurbis/)

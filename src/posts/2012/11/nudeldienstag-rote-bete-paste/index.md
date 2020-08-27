@@ -1,6 +1,8 @@
 ---
 title: "Nudeldienstag: Rote-Bete-Paste"
-date: "2012-11-30"
+date: "2012-11-30" 
+tags:
+- Rezept
 ---
 
 [![pasta_mit_roter_bete](images/pasta_mit_roter_bete.jpg)](http://apfeleimer.wordpress.com/2012/12/01/nudeldienstag-rote-bete-paste/pasta_mit_roter_bete/)

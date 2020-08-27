@@ -1,11 +1,15 @@
 ---
 title: "Schnelle Nudelsoßen"
-date: "2012-05-24"
+date: "2012-05-24" 
+tags:
+- Rezept
+- Nudeln
+- Nudelsoße
 ---
 
 [![](images/imgp9003.jpg "Spaghetti mit Buttergemüse und geriebenem Gouda")](http://apfeleimer.wordpress.com/2012/05/24/schnelle-nudelsosen/spaghetti-mit-buttergema%c2%bcse-und-geriebenem-gouda/)
 
-Dienstag ist bei uns Nudeltag; da haben wir nämlich alle zwei Wochen abendlichen Spieletreff und nicht viel Zeit zum Abendessenkochen. Wir haben es uns angewöhnt, auch an den anderen Dienstagabenden Nudeln zu machen, weil es ein schönes "Ritual" ist.
+Dienstag ist bei uns Nudeltag; da haben wir nämlich alle zwei Wochen unseren abendlichen Spieletreff und nicht viel Zeit zum Abendessenkochen. Wir haben es uns angewöhnt, auch an den anderen Dienstagabenden Nudeln zu machen, weil es ein schönes "Ritual" ist.
 
 Diese Woche gab es Spaghetti mit Buttergemüse, oben im Bild. Das Gemüse war aus der Tiefkühlabteilung; wer hätte gedacht, dass da eigentlich kein Scheiß dran ist? Wirklich fast nur Butter und Gemüse, echte Kräuter und Gewürze und etwas Stärke. Obendrauf gab es noch etwas grob geriebenen Gouda.
 

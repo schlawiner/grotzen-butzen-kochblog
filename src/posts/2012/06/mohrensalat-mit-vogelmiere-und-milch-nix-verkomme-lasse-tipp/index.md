@@ -1,6 +1,8 @@
 ---
 title: "Möhrensalat mit Vogelmiere und Milch-Nix-Verkomme-Lasse-Tipp"
-date: "2012-06-26"
+date: "2012-06-26" 
+tags:
+- Rezept
 ---
 
 [![](images/mc3b6hrensalatbrot.jpg "möhrensalatbrot")](http://apfeleimer.wordpress.com/2012/06/26/mohrensalat-mit-vogelmiere-und-milch-nix-verkomme-lasse-tipp/mohrensalatbrot/)

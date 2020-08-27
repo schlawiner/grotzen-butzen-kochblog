@@ -1,6 +1,8 @@
 ---
 title: "Türkischer Bohnen-Tomateneintopf (Yesil-Fasulye)"
-date: "2012-08-16"
+date: "2012-08-16" 
+tags:
+- Rezept
 ---
 
 [![](images/bohnentopf.jpg "bohnentopf")](http://apfeleimer.wordpress.com/2012/08/16/turkischer-bohnen-tomateneintopf-yesil-fasulye/bohnentopf/)

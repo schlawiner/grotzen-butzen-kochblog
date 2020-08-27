@@ -1,6 +1,8 @@
 ---
 title: "Lesefreu(n)de zum Welttag des Buches - wer will ein Buch?"
-date: "2012-04-23"
+date: "2012-04-23" 
+tags:
+- Lesen
 ---
 
 Puh, gerade noch rechtzeitig gepostet: heute ist (noch) **Welttag des Buches**, und ich hab mich vor ein paar Monaten als ["Lesefreundin"](http://www.welttag-des-buches.de/de/470021) angemeldet. Letzte Woche konnte ich dann meine Bücherkiste im Buchladen abholen:

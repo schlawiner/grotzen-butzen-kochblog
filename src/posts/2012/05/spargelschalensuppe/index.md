@@ -1,6 +1,10 @@
 ---
 title: "Spargelschalensuppe"
-date: "2012-05-03"
+date: "2012-05-03" 
+tags:
+- Rezept
+- Spargel
+- Suppe
 ---
 
 [![](images/imgp8884.jpg "Spargelschalensuppe")](http://apfeleimer.wordpress.com/2012/05/03/spargelschalensuppe/spargelschalensuppe/)

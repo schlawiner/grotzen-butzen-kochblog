@@ -1,6 +1,8 @@
 ---
 title: "Bananen-Eiskonfekt voraus!"
-date: "2012-07-25"
+date: "2012-07-25" 
+tags:
+- Rezept
 ---
 
 **Update**: es ist geschafft! Das Voting ist beendet und ich habe es tatsächlich auf Platz fünf geschafft und mein Rezept und Name kommt im Spiel vor (Jack Keane 2). Danke an alle Helfer.

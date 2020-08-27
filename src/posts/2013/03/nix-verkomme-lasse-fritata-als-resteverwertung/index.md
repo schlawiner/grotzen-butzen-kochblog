@@ -1,6 +1,8 @@
 ---
 title: "Nix verkomme lasse: Fritata als Resteverwertung"
-date: "2013-03-23"
+date: "2013-03-23" 
+tags:
+- Rezept
 ---
 
 [![Fritata mit Reis vom Vortag, grünen Bohnen, Mangold](images/fritata.jpg)](http://apfeleimer.wordpress.com/2013/03/23/nix-verkomme-lasse-fritata-als-resteverwertung/fritata/) Von den wunderbaren Resteverwertungsmöglichkeiten der Fritata habe ich [das erste mal bei Katy vom Non-consumer Advocate gelesen](http://thenonconsumeradvocate.com/2009/10/cheap-eats-hakuna-frittata/). Was auch immer noch im Kühlschrank ist, sei es gekochter Reis, Nudeln, oder gekochte Kartoffeln vom Vortag, zusammen mit ein paar Eiern und etwas Gemüse (zB aus dem Gefrierfach), und wenn man hat, noch etwas Käse, hat man schnell eine vollständige Mahlzeit. Die abgebildete Fritata ist aus Reis, grünen Bohnen, einem Blatt Mangold und zerbröseltem Feta, der noch offen im Kühlschrank war. Als Flüssigkeit zum Verdünnen der Eier (ohne wird die Fritata sehr fest) habe ich einen Rest Steaksoße genommen. Die stand noch von Silvester im Kühlschrank und war nie besonders gut angekommen. Ich habe sogar die Flasche mit Wasser ausgespült, um den letzten Rest rauszubekommen und das Ei noch etwas zu verdünnen.

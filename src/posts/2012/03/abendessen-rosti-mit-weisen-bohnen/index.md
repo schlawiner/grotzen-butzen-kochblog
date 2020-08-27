@@ -1,6 +1,8 @@
 ---
 title: "Abendessen: Rösti mit weißen Bohnen"
-date: "2012-03-05"
+date: "2012-03-05" 
+tags:
+- Bericht
 ---
 
 [![](http://apfeleimer.files.wordpress.com/2012/03/imgp8634.jpg?w=540 "IMGP8634")](http://apfeleimer.wordpress.com/2012/03/05/abendessen-rosti-mit-weisen-bohnen/imgp8634/)

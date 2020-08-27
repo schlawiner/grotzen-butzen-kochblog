@@ -1,6 +1,8 @@
 ---
 title: "Basilikumpesto mit brauner Butter zu Spargel"
-date: "2012-06-04"
+date: "2012-06-04" 
+tags:
+- Rezept
 ---
 
 [![](images/imgp9085.jpg "Spargel mit Pesto")](http://apfeleimer.wordpress.com/2012/06/04/basilikumpesto-mit-brauner-butter-zu-spargel/imgp9085/)

@@ -1,6 +1,8 @@
 ---
 title: "Gebratene Schupfnudeln mit Apfel-Wein-Kraut (nicht sauer)"
-date: "2012-04-22"
+date: "2012-04-22" 
+tags:
+- Rezept
 ---
 
 [![Bubespitzle](images/imgp8831.jpg "Schupfnudeln mit Apfel-Wein-Kraut")](http://apfeleimer.wordpress.com/2012/04/22/gebratene-schupfnudeln-mit-apfel-wein-kraut-nicht-sauer/imgp8831/)
@@ -9,9 +11,9 @@ Heute mal ein ganz schön einfaches Rezept.
 
 Immer wenn es Kohlköpfe im Angebot gibt, kauf ich von jeder Farbe einen und natürlich am besten einen großen, ist schließlich im Angebot!
 
-Jedesmal koche ich dann was damit und braucht nur ein Viertel oder Drittel, weil der gekauft Kohl so riesig war. Roher Kohl ist ganz schön voluminös, wenn man ihn hobelt, ich bin jedesmal von neuem verwundert, das selbt das kleine Stück kaum in den Topf passt.
+Jedesmal koche ich dann was damit und braucht nur ein Viertel oder Drittel, weil der gekauft Kohl so riesig war. Roher Kohl ist ganz schön voluminös, wenn man ihn hobelt, ich bin jedesmal von neuem verwundert, dass selbt _das_ kleine Stück kaum in den Topf passt.
 
-Und danach liegt der Rest vom Kohl ewig im Kühlschrank, weil es dann erstmal mit Kohl reicht. Jetzt hab ich mal ein Rezept erdacht, um so einen Rest aufzubrauchen. Meine [Flavor Bible](http://www.amazon.de/The-Flavor-Bible-Creativity-Imaginative/dp/0316118400) sagt, dass Kohl ganz gut angebraten schmeckt, und auch dass er zu Calvados passt. Das passte jetzt wieder mir, weil gerade angebrochener Apfelsaft im Haus war und noch ein bisschen Wein. Das ist doch fast das gleiche wie Calvados, oder ;)?
+Und danach liegt der Rest vom Kohl ewig im Kühlschrank, weil es dann erstmal reicht mit dem Kohl. Jetzt hab ich mal ein Rezept erdacht, um so einen Rest aufzubrauchen. Meine [Flavor Bible](http://www.amazon.de/The-Flavor-Bible-Creativity-Imaginative/dp/0316118400) sagt, dass Kohl ganz gut angebraten schmeckt, und auch, dass er zu Calvados passt. Das passte jetzt wieder mir, weil gerade angebrochener Apfelsaft im Haus war und noch ein bisschen Wein. Das ist doch fast das gleiche wie Calvados, oder ;)?
 
 ## Zutaten
 

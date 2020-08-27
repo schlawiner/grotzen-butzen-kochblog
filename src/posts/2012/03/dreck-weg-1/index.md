@@ -1,6 +1,8 @@
 ---
 title: "Dreck Weg 1"
-date: "2012-03-17"
+date: "2012-03-17" 
+tags:
+- Bericht
 ---
 
 Heute war Dreck-Weg-Tag 2012 in Koblenz. Früh um Acht kam schonmal unser Lunchpaket:

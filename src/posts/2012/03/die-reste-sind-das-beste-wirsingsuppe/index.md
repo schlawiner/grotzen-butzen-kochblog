@@ -1,6 +1,9 @@
 ---
 title: "Die Reste sind das Beste: Wirsingsuppe"
-date: "2012-03-21"
+date: "2012-03-21" 
+tags:
+- Rezept
+- Wirsing
 ---
 
 [![](images/imgp8740.jpg "Wirsingsuppe")](http://apfeleimer.wordpress.com/2012/03/21/die-reste-sind-das-beste-wirsingsuppe/imgp8740/)

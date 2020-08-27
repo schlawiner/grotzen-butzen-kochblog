@@ -1,6 +1,8 @@
 ---
 title: "Mayonnaise ohne Ei (mit Milch oder Sojamilch)"
-date: "2012-07-09"
+date: "2012-07-09" 
+tags:
+- Rezept
 ---
 
 [![](images/mayonnaise.jpg "mayonnaise eifrei")](http://apfeleimer.wordpress.com/2012/07/09/mayonnaise-ohne-ei-mit-milch-oder-sojamilch/mayonnaise/)

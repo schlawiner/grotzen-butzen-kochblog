@@ -1,13 +1,19 @@
 ---
 title: "Brokkoli-Nudelsalat"
-date: "2012-05-06"
+date: "2012-05-06" 
+tags:
+- Rezept
+- Nudeln
+- Brokkoli
+- Salate
+- Tofu
 ---
 
 ## [![](images/imgp8911.jpg "Brokkoli-Nudelsalat")](http://apfeleimer.wordpress.com/2012/05/06/brokkoli-nudelsalat/brokkoli-nudelsalat/)
 
 **Edit:** Haben den Salat inzwischen auch mit gerösteten Mandeln statt Sonnenblumenkernen gemacht. Auch den Räuchertofu haben wir schon mit vegetarischen Würstchen ersetzt und die Nudeln komplett weggelassen.
 
-\----
+---
 
 Das war ja mal ein leckerer Salat! Nicht ganz alltäglich, aber alles passte wirklich sehr gut zusammen. Auf jeden Fall eine Empfehlung wert. Das Rezept habe ich mir bei einem beliebten [amerikanischen Rezept für Brokkolisalat](http://allrecipes.com/recipe/fresh-broccoli-salad/) abgeguckt und neben der Zugabe der Nudeln noch ein bisschen abgewandelt. Zum Beispiel waren keine Rosinen im Haus, die müssen aber nicht unbedingt sein, finde ich; ich könnte mir aber auch ganz gut Cranberries oder Apfelwürfel vorstellen, wenn man die da hat. Statt der Mandeln habe ich Sonnenblumenkerne genommen, waren gerade im Schrank und passen auch gut. Natürlich ist auch kein Bacon dran, sondern gebratener Räuchertofu.
 
@@ -17,7 +23,7 @@ Im Nachhinein würde ich den Brokkoli vielleicht nicht wieder roh in den Salat g
 
 für 6 große Portionen
 
-- etwa 1 Tasse **Mayonnaise** (kleines Glas oder etwa 300 ml wenn selbstgemacht)
+- etwa 1 Tasse **Mayonnaise** (kleines Glas oder etwa 300 ml, wenn selbstgemacht)
 - 4-5 EL **Zucker**
 - 3-4 EL **Essig**
 - 4-5 EL Rosinen/**Sultaninen** oder Cranberries

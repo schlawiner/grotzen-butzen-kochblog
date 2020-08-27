@@ -1,6 +1,8 @@
 ---
 title: "Nudeldienstag: Wirsingnudeln mit Zitronen-Walnusspesto"
-date: "2013-02-19"
+date: "2013-02-19" 
+tags:
+- Rezept
 ---
 
 [![Wirsingnudeln-Walnusspesto](images/wirsingnudeln-walnusspesto.jpg)](http://apfeleimer.wordpress.com/2013/02/19/nudeldienstag-wirsingnudeln-mit-zitronen-walnusspesto/wirsingnudeln-walnusspesto/)

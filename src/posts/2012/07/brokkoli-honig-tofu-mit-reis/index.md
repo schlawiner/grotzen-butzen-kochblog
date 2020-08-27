@@ -1,6 +1,8 @@
 ---
 title: "Brokkoli-Honig-Tofu mit Reis"
-date: "2012-07-07"
+date: "2012-07-07" 
+tags:
+- Rezept
 ---
 
 [![](images/tofu_brokkoli.jpg "Brokkoli mit Tofu, Sesam, Honig...")](http://apfeleimer.wordpress.com/2012/07/07/brokkoli-honig-tofu-mit-reis/brokkoli-mit-tofu-sesam-honig/)

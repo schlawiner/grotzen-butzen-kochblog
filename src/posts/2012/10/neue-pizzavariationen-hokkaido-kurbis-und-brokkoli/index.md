@@ -1,6 +1,8 @@
 ---
 title: "Neue Pizzavariationen: Hokkaido-Kürbis und Brokkoli"
-date: "2012-10-07"
+date: "2012-10-07" 
+tags:
+- Rezept
 ---
 
 Hach, hab ich lang nichts übers Essen gepostet - ich taste mich mal mit etwas Einfachem wieder heran: ein paar neue Variationen **aufgemotzter Tiefkühlpizza**. Manchmal braucht man auch mal was schnelles. Beide Versionen basieren auf gekaufter Pizza Margherita, die kurz vor Ende der Backzeit mit einem Spezialbelag veredelt wird.

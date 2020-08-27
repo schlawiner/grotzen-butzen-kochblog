@@ -1,6 +1,8 @@
 ---
 title: "Lange nicht gesehen, zum Trost tolle Tipps!"
-date: "2013-11-12"
+date: "2013-11-12" 
+tags:
+- Rezept
 ---
 
 Ich habe ja ewig nichts mehr hier im Blog geschrieben, das tut mir leid. Aber die gute Nachricht ist, daß ich einige **neue Rezepte** in der Pipeline habe, die nur noch ein bisschen Arbeit brauchen (Fotos, nochmal probekochen, ...). Um die Zeit bis dahin zu überbrücken, habe ich heute noch **ein paar Tipps und Links** parat.

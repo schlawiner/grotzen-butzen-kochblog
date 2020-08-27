@@ -1,6 +1,8 @@
 ---
 title: "Die Leonardobrücke ist die Lösung"
-date: "2012-09-30"
+date: "2012-09-30" 
+tags:
+- Rezept
 ---
 
 Ok, ich löse [das Rätsel](http://apfeleimer.wordpress.com/2012/09/07/ratsel-der-woche-was-ist-das-mitmachen-kommentieren-los/ "Rätsel der Woche: Was ist das? Mitmachen! Kommentieren! Los!") auf, damit ich auch endlich mal wieder über Essen schreiben kann ;). Ich merke schon, es ist nicht jeder so ein eifriger Googler wie ich.

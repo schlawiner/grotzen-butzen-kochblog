@@ -1,6 +1,11 @@
 ---
 title: "Geröstete Zucchini mit Kartoffelsalat"
-date: "2012-04-15"
+date: "2012-04-15" 
+tags:
+- Rezept
+- Zucchini
+- Kartoffeln
+- Salate
 ---
 
 [![](images/imgp8778.jpg "Zucchini und Kartoffelsalat")](http://apfeleimer.wordpress.com/2012/04/15/gerostete-zucchini-mit-kartoffelsalat/imgp8778/)

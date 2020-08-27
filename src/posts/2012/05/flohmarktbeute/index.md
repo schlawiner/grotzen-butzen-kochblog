@@ -1,6 +1,8 @@
 ---
 title: "Flohmarktbeute"
-date: "2012-05-31"
+date: "2012-05-31" 
+tags:
+- Spielen
 ---
 
 [![](images/schaeppchenspiele.jpg "schaeppchenspiele")](http://apfeleimer.wordpress.com/2012/05/31/flohmarktbeute/schaeppchenspiele/)

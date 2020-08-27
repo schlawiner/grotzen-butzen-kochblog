@@ -1,6 +1,8 @@
 ---
 title: "Zucchini-Kartoffelsuppe mit geriebenem Käse"
-date: "2012-07-20"
+date: "2012-07-20" 
+tags:
+- Rezept
 ---
 
 [![](images/igp9359.jpg "Zucchinisuppe mit Kartoffeln und Käse")](http://apfeleimer.wordpress.com/2012/07/20/zucchini-kartoffelsuppe-mit-geriebenem-kase/zucchinisuppe-mit-kartoffeln-und-ka%c2%a4se/)

@@ -1,6 +1,9 @@
 ---
 title: "Abendbrot mit Gurkensalat"
-date: "2012-03-10"
+date: "2012-03-10" 
+tags:
+- Bericht
+- Gurke
 ---
 
 [![](images/imgp8681.jpg "IMGP8681")](http://apfeleimer.wordpress.com/2012/03/10/abendbrot-mit-gurkensalat/imgp8681/)

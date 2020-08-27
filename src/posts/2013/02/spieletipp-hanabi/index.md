@@ -1,6 +1,8 @@
 ---
 title: "Spieletipp: Hanabi"
-date: "2013-02-08"
+date: "2013-02-08" 
+tags:
+- Rezept
 ---
 
 Mensch, ich hab ja lange keinen Spieletipp mehr gegeben - und das, obwohl es doch jetzt Hanabi gibt!

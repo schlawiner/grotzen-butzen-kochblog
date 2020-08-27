@@ -1,6 +1,10 @@
 ---
 title: "Sonntagssemmeln"
-date: "2012-03-11"
+date: "2012-03-11" 
+tags:
+- Rezept
+- Backen
+- Brötchen
 ---
 
 [![](images/imgp8685.jpg "Sonntagssemmel")](http://apfeleimer.wordpress.com/2012/03/11/sonntagssemmeln/imgp8685/)

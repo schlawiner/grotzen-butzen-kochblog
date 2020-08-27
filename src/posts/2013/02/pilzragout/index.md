@@ -1,6 +1,8 @@
 ---
 title: "Pilzragout"
-date: "2013-02-17"
+date: "2013-02-17" 
+tags:
+- Rezept
 ---
 
 [![Pilzragout](images/pilzragout.jpg)](http://apfeleimer.wordpress.com/2013/02/17/pilzragout/pilzragout/)

@@ -1,6 +1,8 @@
 ---
 title: "Quittenlikör aus Schalen"
-date: "2013-12-03"
+date: "2013-12-03" 
+tags:
+- Rezept
 ---
 
 Ein schneller Tipp, der vielleicht noch als Weihnachtsgeschenk taugt: Quittenlikör aus den abgeschälten Schalen, gefunden im [Hummelstein-Blog](http://hummelstein.wordpress.com/2013/11/06/quittenwoche-rezept-quittengelee-2/).

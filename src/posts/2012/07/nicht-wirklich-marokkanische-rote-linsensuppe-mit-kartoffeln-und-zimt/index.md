@@ -1,6 +1,8 @@
 ---
 title: "Nicht wirklich marokkanische rote Linsensuppe mit Kartoffeln und Zimt"
-date: "2012-07-08"
+date: "2012-07-08" 
+tags:
+- Rezept
 ---
 
 [![](images/linsensuppe.jpg "Rote-Linsen-Kartoffelsuppe")](http://apfeleimer.wordpress.com/2012/07/08/nicht-wirklich-marokkanische-rote-linsensuppe-mit-kartoffeln-und-zimt/rote-linsen-kartoffelsuppe/)

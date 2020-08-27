@@ -1,6 +1,8 @@
 ---
 title: "Dreckwegtag 2014 - überraschend sauber!"
-date: "2014-05-01"
+date: "2014-05-01" 
+tags:
+- Rezept
 ---
 
 Auch dieses Jahr haben wir wieder beim städtischen Dreckweg-Tag mitgemacht. Leider gibt es keine Bilder vom Vorher und Nachher, aber die wären wohl auch nicht sehr aussagekräftig - denn **dieses Jahr lag viel weniger herum** als sonst. Seltsam. Ob es am milden Wetter diesen Winter lag? Eigentlich unwahrscheinlich, aber wer weiß.

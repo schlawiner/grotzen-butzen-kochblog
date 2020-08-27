@@ -1,6 +1,8 @@
 ---
 title: "Wieder mal: Giersch-Rösti"
-date: "2012-08-18"
+date: "2012-08-18" 
+tags:
+- Rezept
 ---
 
 [![](images/gierschroestiteller.jpg "gierschroestiteller")](http://apfeleimer.wordpress.com/2012/08/18/wieder-mal-giersch-rosti/gierschroestiteller/)

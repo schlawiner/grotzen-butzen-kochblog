@@ -1,6 +1,8 @@
 ---
 title: "Waldmeistersirup"
-date: "2012-06-20"
+date: "2012-06-20" 
+tags:
+- Rezept
 ---
 
 [![](images/imgp9173.jpg "Waldmeistersirup, in etikettierten Flaschen")](http://apfeleimer.wordpress.com/2012/06/20/waldmeistersirup-2/imgp9173/)

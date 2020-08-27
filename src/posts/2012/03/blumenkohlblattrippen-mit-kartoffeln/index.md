@@ -1,6 +1,8 @@
 ---
 title: "Blumenkohlblattrippen mit Kartoffeln"
-date: "2012-03-11"
+date: "2012-03-11" 
+tags:
+- Bericht
 ---
 
 [![](images/imgp8687.jpg "IMGP8687")](http://apfeleimer.wordpress.com/2012/03/11/blumenkohlblattrippen-mit-kartoffeln/imgp8687/)

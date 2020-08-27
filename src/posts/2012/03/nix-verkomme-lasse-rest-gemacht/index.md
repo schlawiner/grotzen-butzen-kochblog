@@ -1,6 +1,11 @@
 ---
 title: "Nix verkomme lasse: Rest gemacht"
-date: "2012-03-12"
+date: "2012-03-12" 
+tags:
+- Rezept
+- Blumenkohl
+- Kartoffeln
+- Mayonnaise
 ---
 
 [![](images/imgp8688.jpg "IMGP8688")](http://apfeleimer.wordpress.com/2012/03/12/nix-verkomme-lasse-rest-gemacht/imgp8688/)

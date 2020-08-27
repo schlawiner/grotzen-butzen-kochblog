@@ -1,6 +1,8 @@
 ---
 title: "Eis machen"
-date: "2012-06-07"
+date: "2012-06-07" 
+tags:
+- Rezept
 ---
 
 [![](images/imgp8944.jpg "Vanilleeis selbstgemacht")](http://apfeleimer.wordpress.com/2012/06/07/eis-machen/vanilleeis-selbstgemacht/)

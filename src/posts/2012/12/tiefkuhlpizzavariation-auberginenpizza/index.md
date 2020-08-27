@@ -1,6 +1,8 @@
 ---
 title: "Tiefkühlpizzavariation: Auberginenpizza"
-date: "2012-12-02"
+date: "2012-12-02" 
+tags:
+- Rezept
 ---
 
 [![auberginenpizza](images/auberginenpizza.jpg)](http://apfeleimer.wordpress.com/2012/12/02/tiefkuhlpizzavariation-auberginenpizza/auberginenpizza/)

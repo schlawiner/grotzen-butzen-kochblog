@@ -1,6 +1,8 @@
 ---
 title: "Nudeldienstag: Möhrensugo"
-date: "2013-05-08"
+date: "2013-05-08" 
+tags:
+- Rezept
 ---
 
 [![Möhrensugo](images/mc3b6hrensugo.jpg)](http://apfeleimer.files.wordpress.com/2013/05/mc3b6hrensugo.jpg)

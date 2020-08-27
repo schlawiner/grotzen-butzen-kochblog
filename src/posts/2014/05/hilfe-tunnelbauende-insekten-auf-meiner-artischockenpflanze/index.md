@@ -1,6 +1,8 @@
 ---
 title: "Hilfe, tunnelbauende Insekten auf meiner Artischockenpflanze!"
-date: "2014-05-08"
+date: "2014-05-08" 
+tags:
+- Rezept
 ---
 
 [![](images/wpid-wp-1399562755932.jpeg)](http://apfeleimer.files.wordpress.com/2014/05/wpid-wp-1399562755932.jpeg)

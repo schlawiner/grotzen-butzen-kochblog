@@ -1,6 +1,8 @@
 ---
 title: "Nudeldienstag: Spinatsoße mit Knoblauch"
-date: "2013-07-03"
+date: "2013-07-03" 
+tags:
+- Rezept
 ---
 
 [![spinatsauce_nudeln](images/spinatsauce_nudeln.jpg)](http://apfeleimer.files.wordpress.com/2013/07/spinatsauce_nudeln.jpg)

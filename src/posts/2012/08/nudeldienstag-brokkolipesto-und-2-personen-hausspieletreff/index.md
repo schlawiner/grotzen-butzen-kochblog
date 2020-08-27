@@ -1,6 +1,8 @@
 ---
 title: "Nudeldienstag: Brokkolipesto und 2-Personen-Hausspieletreff"
-date: "2012-08-15"
+date: "2012-08-15" 
+tags:
+- Rezept
 ---
 
 [![](images/igp9438.jpg "brokkolipesto")](http://apfeleimer.wordpress.com/2012/08/15/nudeldienstag-brokkolipesto-und-2-personen-hausspieletreff/_igp9438/)

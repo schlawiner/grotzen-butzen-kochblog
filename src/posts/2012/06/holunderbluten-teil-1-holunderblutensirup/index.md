@@ -1,6 +1,8 @@
 ---
 title: "Holunderblüten Teil 1: Holunderblütensirup"
-date: "2012-06-12"
+date: "2012-06-12" 
+tags:
+- Rezept
 ---
 
 [![](http://apfeleimer.files.wordpress.com/2012/06/imgp9028.jpg?w=199 "HolunderblÃ¼ten putzen")](http://apfeleimer.wordpress.com/2012/06/12/holunderbluten-teil-1-holunderblutensirup/holunderbla%c2%bcten-putzen/) [![](http://apfeleimer.files.wordpress.com/2012/06/imgp9076.jpg?w=220 "HolunderblÃ¼ten als Sirup und Gelee")](http://apfeleimer.wordpress.com/2012/06/12/holunderbluten-teil-1-holunderblutensirup/holunderbla%c2%bcten-als-sirup-und-gelee/)

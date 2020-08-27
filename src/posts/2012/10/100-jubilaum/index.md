@@ -1,6 +1,8 @@
 ---
 title: "100. Jubiläum"
-date: "2012-10-26"
+date: "2012-10-26" 
+tags:
+- Rezept
 ---
 
 Wow, wer hätte gedacht, dass ich das so lange durchhalte, aber das hier ist tatsächlich das 100. Posting auf diesem Blog.

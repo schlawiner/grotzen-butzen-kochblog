@@ -1,6 +1,8 @@
 ---
 title: "Lauchsuppe mit Käse, Sahne und Schwarzbrotwürfeln"
-date: "2013-12-06"
+date: "2013-12-06" 
+tags:
+- Rezept
 ---
 
 [![lauchsuppe](images/lauchsuppe.jpg)](http://apfeleimer.files.wordpress.com/2013/12/lauchsuppe.jpg)

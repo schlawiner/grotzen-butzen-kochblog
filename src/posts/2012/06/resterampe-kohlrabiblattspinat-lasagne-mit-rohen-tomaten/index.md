@@ -1,6 +1,8 @@
 ---
 title: "Resterampe: Kohlrabiblattspinat-Lasagne mit rohen Tomaten"
-date: "2012-06-05"
+date: "2012-06-05" 
+tags:
+- Rezept
 ---
 
 [![](images/imgp8984.jpg "Kohlrabiblattlasagne mit frischen Tomaten")](http://apfeleimer.wordpress.com/2012/06/05/resterampe-kohlrabiblattspinat-lasagne-mit-rohen-tomaten/imgp8984/)

@@ -1,6 +1,8 @@
 ---
 title: "Nudeldienstag: Mangoldnudeln"
-date: "2013-02-05"
+date: "2013-02-05" 
+tags:
+- Rezept
 ---
 
  

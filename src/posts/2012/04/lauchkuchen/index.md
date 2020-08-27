@@ -1,15 +1,22 @@
 ---
 title: "Lauchkuchen"
-date: "2012-04-21"
+date: "2012-04-21" 
+tags:
+- Rezept
+- Backen
+- Lauch
+- Kuchen
+- Pizza
+- Tofu
 ---
 
 [![](images/lauchkuchen.jpg "lauchkuchen")](http://apfeleimer.wordpress.com/2012/04/21/lauchkuchen/lauchkuchen/)
 
-Eigentlich ist das das gleiche Rezept wie kürzlich die [Lauchpizza](http://apfeleimer.wordpress.com/2012/03/19/lauchpizza), aber diesmal ist es ein Kuchen in der Springform, das ist dann schon ein bisschen anders. Außerdem hatte ich damals das Rezept nicht gepostet, und das ist wirklich gut und zudem supereinfach. Quelle muss ich diesmal auch keine angeben, das ist ein eigenes Rezept :).
+Eigentlich ist das das gleiche Rezept wie kürzlich die [Lauchpizza](http://apfeleimer.wordpress.com/2012/03/19/lauchpizza), aber diesmal ist es ein Kuchen in der Springform, das ist dann schon ein bisschen anders. Außerdem hatte ich damals das Rezept nicht gepostet, und das ist wirklich gut und zudem supereinfach. Quelle muss ich diesmal auch keine angeben, denn es ist ein eigenes Rezept :).
 
 ## Zutaten
 
-**Belag**:
+### **Belag**:
 
 - 750g - 1 kg **Lauch**stangen
 - **Öl** zum Braten
@@ -22,7 +29,7 @@ Eigentlich ist das das gleiche Rezept wie kürzlich die [Lauchpizza](http://apfe
 - **optional**: **Rauchsalz** (ich nehme das von der Norma, aber zur Verfeinerung ist auch das schicke teure dänische echt geräucherte Salz gut)
 - **optional**: geriebenen **Käse** zum Überbacken
 
-**Teig:**
+### **Teig:**
 
 - **Pizzateig** (Hefeteig) wie gewohnt zubereiten - braucht jemand da noch ein Rezept?
 - **oder** einen gekauften Filoteig, oder Strudelteig, **oder irgendeinen anderen Teig**, den es gerade mit Rotpreis im lokalen Supermarkt gab (ich bin da nicht so, jeder nicht süße Teig geht, auch Blätterteig).

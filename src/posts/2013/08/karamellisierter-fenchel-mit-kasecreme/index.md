@@ -1,6 +1,8 @@
 ---
 title: "Karamellisierter Fenchel mit Käsecreme"
-date: "2013-08-31"
+date: "2013-08-31" 
+tags:
+- Rezept
 ---
 
 [![fenchel](images/fenchel2-bearbeitet.jpg)](http://apfeleimer.files.wordpress.com/2013/08/fenchel2-bearbeitet.jpg)

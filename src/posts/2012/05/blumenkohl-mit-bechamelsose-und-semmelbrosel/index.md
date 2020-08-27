@@ -1,6 +1,9 @@
 ---
 title: "Blumenkohl mit Bechamelsoße und Semmelbrösel"
-date: "2012-05-04"
+date: "2012-05-04" 
+tags:
+- Rezept
+- Blumenkohl
 ---
 
 [![](images/imgp8905.jpg "Blumenkohl, Bechamel, Brösel")](http://apfeleimer.wordpress.com/2012/05/04/blumenkohl-mit-bechamelsose-und-semmelbrosel/imgp8905/)

@@ -1,6 +1,11 @@
 ---
 title: "Abendessen: Nudeln mit Auberginen und Paprika"
-date: "2012-03-21"
+date: "2012-03-21" 
+tags:
+- Bericht
+- Nudeln
+- Aubergine
+- Paprika
 ---
 
 ... gebraten mit Knoblauch und Walnüssen als Spaghettisoße:

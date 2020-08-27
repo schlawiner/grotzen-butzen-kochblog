@@ -1,6 +1,8 @@
 ---
 title: "Shakshuka"
-date: "2013-07-18"
+date: "2013-07-18" 
+tags:
+- Rezept
 ---
 
 [![shakshuka](images/shakshuka.jpg)](http://apfeleimer.files.wordpress.com/2013/07/shakshuka.jpg)

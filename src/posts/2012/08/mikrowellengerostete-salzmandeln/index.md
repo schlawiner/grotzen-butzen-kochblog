@@ -1,6 +1,8 @@
 ---
 title: "Mikrowellengeröstete Salzmandeln"
-date: "2012-08-08"
+date: "2012-08-08" 
+tags:
+- Rezept
 ---
 
 [![](images/roestmandeln.jpg "roestmandeln")](http://apfeleimer.wordpress.com/2012/08/08/mikrowellengerostete-salzmandeln/roestmandeln/)

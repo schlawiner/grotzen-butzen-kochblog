@@ -1,6 +1,8 @@
 ---
 title: "Brokkolisuppe mit Käse und geriebenen Kartoffeln"
-date: "2012-07-15"
+date: "2012-07-15" 
+tags:
+- Rezept
 ---
 
 [![](images/brokkolisuppe.jpg "Brokkolisuppe mit geriebenen Kartoffeln, obendrauf Käse und Petersilie")](http://apfeleimer.wordpress.com/2012/07/15/brokkolisuppe-mit-kase-und-geriebenen-kartoffeln/brokkolisuppe-mit-geriebenen-kartoffeln-obendrauf-ka%c2%a4se-und-petersilie/)

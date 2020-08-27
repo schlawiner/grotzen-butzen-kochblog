@@ -1,6 +1,8 @@
 ---
 title: "Hanabi ist Spiel des Jahres!"
-date: "2013-07-08"
+date: "2013-07-08" 
+tags:
+- Rezept
 ---
 
 Schon vor Eeeewigkeiten habe ich ja schon das Potential des kooperativen Kartenspiels Hanabi entdeckt und [es hier vorgestellt](http://apfeleimer.wordpress.com/2013/02/09/spieletipp-hanabi/ "Spieletipp: Hanabi"). Auch auf unserer Silvesterfeier habe ich es jedem aufgedrängt, weil ich es einfach superdupertoll finde. Jetzt hat das auch [die SdJ-Jury erkannt und Hanabi zum Spiel des Jahres 2013 gekürt](http://www.spiel-des-jahres.com/cms/front_content.php?idcatart=1228&id=828), yeah... äh.

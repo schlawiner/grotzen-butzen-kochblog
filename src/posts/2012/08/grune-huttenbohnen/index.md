@@ -1,6 +1,8 @@
 ---
 title: "Grüne Hüttenbohnen"
-date: "2012-08-20"
+date: "2012-08-20" 
+tags:
+- Rezept
 ---
 
 [![](images/huettenbohnen.jpg "huettenbohnen")](http://apfeleimer.wordpress.com/2012/08/20/grune-huttenbohnen/huettenbohnen/)

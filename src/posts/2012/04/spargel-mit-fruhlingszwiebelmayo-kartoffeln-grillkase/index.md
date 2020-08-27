@@ -1,11 +1,17 @@
 ---
 title: "Spargel mit Frühlingszwiebelmayo, Kartoffeln, Grillkäse"
-date: "2012-04-30"
+date: "2012-04-30" 
+tags:
+- Rezept
+- Spargel
+- Mayonnaise
 ---
 
 [![](images/spargel_bratkc3a4se.jpg "spargel_bratkäse")](http://apfeleimer.wordpress.com/2012/04/30/spargel-mit-fruhlingszwiebelmayo-kartoffeln-grillkase/spargel_bratkase/)
 
 Das Rezept ist ganz knapp, weil einfach:
+
+## Zubereitung
 
 1. **Spargel schälen** und Enden abbrechen. Wer die nächsten Tage noch Spargelsuppe machen will, sollte die Spargelstangen vor dem Schälen waschen und die Schalen aufheben - die kocht man dann im Spargelkochwasser aus. (Das Rezept für **Spargelschalensuppe** poste ich die Tage.)
 2. Geschälten Spargel mit Wasser bedeckt 15-20 Minuten **kochen**. Das Kochwasser würzt man zuvor kräftig mit **Salz, Zitronensaft und Zucker**. (Kochwasser aufbewahren und die Spargelschalen drin auskochen, wenn man noch Suppe machen will)
@@ -17,6 +23,6 @@ Bei uns gab es Kartoffeln und gebratenen Grillkäse dazu.
 
 ![](images/rotpreisspargel.jpg "Rotpreisspargel")
 
-Jetzt mal etwas ganz anderes: Kürzlich fand ich in meinm Balkonkasten diese beiden eng umschlungenen Mangoldpflänzchen. Ob die kuscheln, oder ist das eine in Wirklichkeit ein Meuchelmördermangold, der dem anderen die Schlinge um den Hals zieht?
+Jetzt mal etwas ganz anderes: Kürzlich fand ich in meinm Balkonkasten diese beiden eng umschlungenen Mangoldpflänzchen. Ob die kuscheln, oder ist die eine in Wirklichkeit ein Meuchelmördermangold, der dem anderen die Schlinge um den Hals zieht?
 
 [![](images/meuchelmangold.jpg "meuchelmangold")](http://apfeleimer.wordpress.com/2012/04/30/spargel-mit-fruhlingszwiebelmayo-kartoffeln-grillkase/meuchelmangold/)

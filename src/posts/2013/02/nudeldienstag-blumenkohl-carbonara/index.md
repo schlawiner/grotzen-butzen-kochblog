@@ -1,6 +1,8 @@
 ---
 title: "Nudeldienstag: Blumenkohl-Carbonara"
-date: "2013-02-26"
+date: "2013-02-26" 
+tags:
+- Rezept
 ---
 
 [![Blumenkohl-Carbonara](images/blumenkohl-carbonara.jpg)](http://apfeleimer.wordpress.com/?attachment_id=973)

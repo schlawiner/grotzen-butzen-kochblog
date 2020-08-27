@@ -1,6 +1,8 @@
 ---
 title: "Briegel-Sub-Seele"
-date: "2012-07-21"
+date: "2012-07-21" 
+tags:
+- Rezept
 ---
 
 Solche Sandwiches machen wir nicht oft, wir essen ja meistens warm. Irgendwie ist es dann wie ein Fest; ein erfrischendes.

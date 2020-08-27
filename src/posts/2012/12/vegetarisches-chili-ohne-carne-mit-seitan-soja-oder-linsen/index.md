@@ -1,6 +1,8 @@
 ---
 title: "Vegetarisches Chili ohne Carne mit Seitan, Soja oder Linsen"
-date: "2012-12-29"
+date: "2012-12-29" 
+tags:
+- Rezept
 ---
 
 [![Chili mit Brot](images/chiliteller_brot.jpg)](http://apfeleimer.wordpress.com/2012/12/29/vegetarisches-chili-ohne-carne-mit-seitan-soja-oder-linsen/chiliteller_brot/)

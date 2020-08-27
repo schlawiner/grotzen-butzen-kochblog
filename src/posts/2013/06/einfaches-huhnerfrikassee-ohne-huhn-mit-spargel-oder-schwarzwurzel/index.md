@@ -1,6 +1,8 @@
 ---
 title: "Einfaches Hühnerfrikassee ohne Huhn (mit Spargel oder Schwarzwurzel)"
-date: "2013-06-29"
+date: "2013-06-29" 
+tags:
+- Rezept
 ---
 
 [![Hier mit Schwarzwurzel aus dem Glas.](images/frikassee.jpg)](http://apfeleimer.files.wordpress.com/2013/06/frikassee.jpg)

@@ -1,6 +1,8 @@
 ---
 title: "Westafrikanischer Kürbis-Erdnuss-Eintopf mit Paprika und Seitan"
-date: "2013-09-10"
+date: "2013-09-10" 
+tags:
+- Rezept
 ---
 
 [![Afrikanischer Paprika-Erdnuss-Eintopf](images/afrikanischer-paprika-erdnuss-eintopf.jpg)](http://apfeleimer.files.wordpress.com/2013/09/afrikanischer-paprika-erdnuss-eintopf.jpg)

@@ -1,9 +1,13 @@
 ---
 title: "Wieder neue Sonntagssemmeln"
-date: "2012-03-18"
+date: "2012-03-18" 
+tags:
+- Rezept
+- Backen
+- Brötchen
 ---
 
-Wow vom Vorteigen, Kneten, Ruhenlassen, wieder Kneten, Ruhenlassen, Portionieren, Schleifen, Ruhenlassen und Backen bis zum Frühstück dauert es schon drei Stunden. Gut dass ich gleich Brötchen für drei oder vier Sonntage gemacht habe. Diesmal hab ich etwas variiert bei den Formen:
+Wow, vom Vorteigen, Kneten, Ruhenlassen, wieder Kneten, Ruhenlassen, Portionieren, Schleifen, Ruhenlassen und Backen bis zum Frühstück dauert es schon drei Stunden. Gut, dass ich gleich Brötchen für drei oder vier Sonntage gemacht habe. Diesmal hab ich etwas variiert bei den Formen:
 
 [![](images/imgp8702.jpg "Brötchenvariationen1")](http://apfeleimer.wordpress.com/2012/03/18/wieder-neue-sonntagssemmeln/imgp8702/)
 

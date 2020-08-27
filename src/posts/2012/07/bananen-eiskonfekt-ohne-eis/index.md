@@ -1,6 +1,8 @@
 ---
 title: "Bananen-Eiskonfekt ohne Eis"
-date: "2012-07-11"
+date: "2012-07-11" 
+tags:
+- Rezept
 ---
 
 [![](images/igp9259.jpg "_IGP9259")](http://apfeleimer.wordpress.com/2012/07/11/bananen-eiskonfekt-ohne-eis/_igp9259/)

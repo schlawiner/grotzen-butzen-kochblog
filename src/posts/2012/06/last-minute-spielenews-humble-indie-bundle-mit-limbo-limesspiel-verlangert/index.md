@@ -1,6 +1,8 @@
 ---
 title: "Last Minute-Spielenews: Humble Indie Bundle mit Limbo; Limesspiel verlängert"
-date: "2012-06-12"
+date: "2012-06-12" 
+tags:
+- Rezept
 ---
 
 ## Humble Indie Bundle mit Limbo

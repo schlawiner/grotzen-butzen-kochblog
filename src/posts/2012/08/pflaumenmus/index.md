@@ -1,6 +1,8 @@
 ---
 title: "Pflaumenmus"
-date: "2012-08-22"
+date: "2012-08-22" 
+tags:
+- Rezept
 ---
 
 [![](images/igp9448.jpg "Pflaumenmus")](http://apfeleimer.wordpress.com/2012/08/22/pflaumenmus/_igp9448/)

@@ -1,6 +1,10 @@
 ---
 title: "Pfannen-Fladenbrot und marokkanisch-inspirierte Auberginen mit Kichererbsen"
-date: "2012-05-08"
+date: "2012-05-08" 
+tags:
+- Rezept
+- Brot
+- Auberginen
 ---
 
 ## [![](images/imgp8941.jpg "IMGP8941")](http://apfeleimer.wordpress.com/2012/05/08/pfannen-fladenbrot-und-marokkanisch-inspirierte-auberginen-mit-kichererbsen/imgp8941/)

@@ -1,6 +1,8 @@
 ---
 title: "Gebratener Brokkoli mit altrömischem Moretum-Dipp"
-date: "2012-08-09"
+date: "2012-08-09" 
+tags:
+- Rezept
 ---
 
 [![](images/moretum_brokkoli.jpg "moretum_brokkoli")](http://apfeleimer.wordpress.com/2012/08/09/gebratener-brokkoli-mit-altromischem-moretum-dipp/moretum_brokkoli/)

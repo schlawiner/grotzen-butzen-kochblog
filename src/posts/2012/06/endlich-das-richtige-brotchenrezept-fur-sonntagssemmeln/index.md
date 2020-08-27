@@ -1,6 +1,8 @@
 ---
 title: "Endlich das richtige Brötchenrezept für Sonntagssemmeln!"
-date: "2012-06-10"
+date: "2012-06-10" 
+tags:
+- Rezept
 ---
 
 [![](images/imgp9133.jpg "IMGP9133")](http://apfeleimer.wordpress.com/2012/06/10/endlich-das-richtige-brotchenrezept-fur-sonntagssemmeln/imgp9133/)

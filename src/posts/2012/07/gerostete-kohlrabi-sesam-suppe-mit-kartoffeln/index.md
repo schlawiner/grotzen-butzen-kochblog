@@ -1,6 +1,8 @@
 ---
 title: "Geröstete Kohlrabi-Sesam-Suppe mit Kartoffeln"
-date: "2012-07-18"
+date: "2012-07-18" 
+tags:
+- Rezept
 ---
 
 [![](images/imgp9102.jpg "Kohlrabisuppe")](http://apfeleimer.wordpress.com/2012/07/18/gerostete-kohlrabi-sesam-suppe-mit-kartoffeln/kohlrabisuppe/)

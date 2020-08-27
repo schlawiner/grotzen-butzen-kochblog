@@ -1,6 +1,9 @@
 ---
 title: "Der Limes als Startup"
-date: "2012-04-18"
+date: "2012-04-18" 
+tags:
+- Leben
+- Spielen
 ---
 
 Über den Limes haben wir hier ja noch nie gesprochen, und das, obwohl er durch alle vier relevanten Bundesländer geht: Hessen, Rheinland-Pfalz, Baden-Württemberg und Bayern (ok, relevant für die Autoren und Leser dieses Blogs).

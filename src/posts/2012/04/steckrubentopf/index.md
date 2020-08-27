@@ -1,6 +1,9 @@
 ---
 title: "Steckrübentopf"
-date: "2012-04-08"
+date: "2012-04-08" 
+tags:
+- Steckrüben
+- Suppe
 ---
 
 [![](images/imgp8881-dng.jpg "Steckrübentopf")](http://apfeleimer.wordpress.com/2012/04/08/steckrubentopf/steckra%c2%bcbentopf/)

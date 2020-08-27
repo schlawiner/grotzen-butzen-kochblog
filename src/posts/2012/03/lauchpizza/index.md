@@ -1,6 +1,11 @@
 ---
 title: "Lauchpizza"
-date: "2012-03-19"
+date: "2012-03-19" 
+tags:
+- Rezept
+- Lauch
+- Tofu
+- Schmand
 ---
 
 [![](images/imgp8736.jpg "Lauchpizza")](http://apfeleimer.wordpress.com/2012/03/19/lauchpizza/imgp8736/)

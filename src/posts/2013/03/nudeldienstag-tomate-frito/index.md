@@ -1,6 +1,8 @@
 ---
 title: "Nudeldienstag: Tomate Frito"
-date: "2013-03-07"
+date: "2013-03-07" 
+tags:
+- Rezept
 ---
 
 [![Nudeln mit Tomate Frito](images/nudeln-mit-tomate-frito.jpg)](http://apfeleimer.wordpress.com/2013/03/07/nudeldienstag-tomate-frito/nudeln-mit-tomate-frito/)

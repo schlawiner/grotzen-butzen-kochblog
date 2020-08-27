@@ -1,6 +1,8 @@
 ---
 title: "Rätsel der Woche: Was ist das? Mitmachen! Kommentieren! Los!"
-date: "2012-09-07"
+date: "2012-09-07" 
+tags:
+- Rezept
 ---
 
 Ich habe gewonnen!

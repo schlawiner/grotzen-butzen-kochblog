@@ -1,6 +1,8 @@
 ---
 title: "Nudeldienstag: Lasagne mit Fenchelbolognese"
-date: "2013-03-17"
+date: "2013-03-17" 
+tags:
+- Rezept
 ---
 
 Bevor schon wieder der nächste Nudeldienstag ist, poste ich jetzt endlich mal das Rezept vom letzten Dienstag. Eigentlich sind es aber eher Verweise auf andere Rezepte, denn diese Lasagne basiert auf ein paar, die es schon mal gab - und zwar auf der [Fenchelbolognese](http://apfeleimer.wordpress.com/2012/04/18/fenchelbolognese/ "Nudeln mit Fenchelbolognese") als rote Soße und [Bechamelsoße](http://apfeleimer.wordpress.com/2012/05/04/blumenkohl-mit-bechamelsose-und-semmelbrosel/ "Blumenkohl mit Bechamelsoße und Semmelbrösel") als weiße Soße[![fenchellasagne](images/fenchellasagne.jpg)](http://apfeleimer.wordpress.com/2013/03/17/nudeldienstag-lasagne-mit-fenchelbolognese/fenchellasagne/).

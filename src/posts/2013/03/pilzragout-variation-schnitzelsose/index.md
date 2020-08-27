@@ -1,6 +1,8 @@
 ---
 title: "Pilzragout-Variation: Schnitzelsoße"
-date: "2013-03-02"
+date: "2013-03-02" 
+tags:
+- Rezept
 ---
 
 [![Pilzsoße zum Schnitzel, Pommes](images/pilzsoc39fe_schnitzel.jpg)](http://apfeleimer.wordpress.com/2013/03/02/pilzragout-variation-schnitzelsose/pilzsose_schnitzel/)

@@ -1,13 +1,17 @@
 ---
 title: "Neu: Jetzt mit Rezept - Kohlrabifritten"
-date: "2012-04-26"
+date: "2012-04-26" 
+tags:
+- Rezept
+- Kohlrabi
+- Pommes
 ---
 
-[![](images/imgp8859.jpg "Kohlrabifritten")](http://apfeleimer.wordpress.com/2012/04/26/kohlrabifritten/imgp8859/) Hmmm, also die sind echt mal sehr gut! Durchdas Braten genau richtig innen - zart und leicht knackig. Leider nicht gut aufwärmbar, da sind sie nicht mehr so knusprig. Trotzdem lohnt es sich auf jeden Fall.
+[![](images/imgp8859.jpg "Kohlrabifritten")](http://apfeleimer.wordpress.com/2012/04/26/kohlrabifritten/imgp8859/) Hmmm, also die sind echt mal sehr gut! Durch das Braten genau richtig innen - zart und leicht knackig. Leider nicht gut aufwärmbar, da sind sie dann nicht mehr so knusprig. Trotzdem lohnt es sich auf jeden Fall.
 
 Wir haben die Kohlrabifritten (paniert mit Semmelbröseln und Sesam) mit Salzkartoffeln und einer Tomaten-Knoblauchmayonnaise serviert. Neben den Fritten ist auch noch ein halbes Panadeschnitzel zu sehen, nix verkomme lasse!
 
-Rezept (abgewandelt aus ["Was gibt´s heute?"](http://www.amazon.de/gp/product/3833810459/ref=as_li_ss_tl?ie=UTF8&tag=apfeleimer09-21&linkCode=as2&camp=1638&creative=19454&creativeASIN=3833810459)![](http://www.assoc-amazon.de/e/ir?t=apfeleimer09-21&l=as2&o=3&a=3833810459)) für 2-4 Portionen (je nachdem, wie viele Beilagen man hat, bei uns ergab es 4)
+Rezept (abgewandelt aus ["Was gibt´s heute?"](http://www.amazon.de/gp/product/3833810459/ref=as_li_ss_tl?ie=UTF8&tag=apfeleimer09-21&linkCode=as2&camp=1638&creative=19454&creativeASIN=3833810459)![](http://www.assoc-amazon.de/e/ir?t=apfeleimer09-21&l=as2&o=3&a=3833810459)) für 2-4 Portionen (je nachdem, wie viele Beilagen man hat, bei uns ergab es 4).
 
 ## Zutaten
 

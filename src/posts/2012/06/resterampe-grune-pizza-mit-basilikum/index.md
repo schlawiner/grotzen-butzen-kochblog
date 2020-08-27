@@ -1,6 +1,8 @@
 ---
 title: "Resterampe: Grüne Pizza mit Basilikum"
-date: "2012-06-04"
+date: "2012-06-04" 
+tags:
+- Rezept
 ---
 
 [![mit Mangold, Radieschenblättern, Blumenkohlblättern](images/imgp9079.jpg "Grünzeugpizza mit Basilikum")](http://apfeleimer.wordpress.com/2012/06/04/resterampe-grune-pizza-mit-basilikum/gra%c2%bcnzeugpizza-mit-basilikum/)

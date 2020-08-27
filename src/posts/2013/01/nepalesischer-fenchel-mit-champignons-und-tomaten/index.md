@@ -1,6 +1,8 @@
 ---
 title: "Nepalesischer Fenchel mit Champignons und Tomaten"
-date: "2013-01-20"
+date: "2013-01-20" 
+tags:
+- Rezept
 ---
 
 [![fenchel_nepal](images/fenchel_nepal.jpg)](http://apfeleimer.wordpress.com/2013/01/20/nepalesischer-fenchel-mit-champignons-und-tomaten/fenchel_nepal/)

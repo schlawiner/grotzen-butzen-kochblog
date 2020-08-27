@@ -1,6 +1,8 @@
 ---
 title: "Tiefkühlpizzavariation: Rucolapizza"
-date: "2013-02-10"
+date: "2013-02-10" 
+tags:
+- Rezept
 ---
 
 [![rucolapizza](images/rucolapizza.jpg)](http://apfeleimer.wordpress.com/2013/02/10/tiefkuhlpizzavariation-rucolapizza/rucolapizza/)

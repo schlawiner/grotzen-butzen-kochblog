@@ -1,6 +1,8 @@
 ---
 title: "Gemüsebrühe-Paste / eingemachtes Suppengewürz und inoffizieller Dreckwegtag"
-date: "2012-10-14"
+date: "2012-10-14" 
+tags:
+- Rezept
 ---
 
 [![](images/im_glas.jpg "im_glas")](http://apfeleimer.wordpress.com/2012/10/14/gemusebruhe-paste-eingemachtes-suppengewurz-und-inoffizieller-dreckwegtag/im_glas/)

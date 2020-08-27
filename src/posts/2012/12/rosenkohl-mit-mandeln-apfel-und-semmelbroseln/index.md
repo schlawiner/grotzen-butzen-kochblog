@@ -1,6 +1,8 @@
 ---
 title: "Rosenkohl mit Mandeln, Apfel und Semmelbröseln"
-date: "2012-12-06"
+date: "2012-12-06" 
+tags:
+- Rezept
 ---
 
 Neulich, als ich dieses Blog mal wieder als meinen persönlichen Rezeptezettelkasten benutzt habe und eine Idee für Rosenkohl suchte, fiel mir auf, dass ich zu diesem Thema noch nie etwas geschrieben habe. Kein Rezept, keinen Link, kein Foto. **Dabei ist Rosenkohl ja wohl im Winter total wichtig, oder?!** Es gibt ja nicht so viel anderes. Apfel ist auch ein Riesenfan (kleiner Scherz, haha; dabei passen Äpfel und Rosenkohl eigentlich geschmacklich gut zueinander).

@@ -1,6 +1,11 @@
 ---
 title: "Pfannengerührter Rot- und Weißkohl mit Walnüssen"
-date: "2012-04-02"
+date: "2012-04-02" 
+tags:
+- Rezept
+- Kohl
+- Walnuss
+- Tofu
 ---
 
 Unsere drei Leser haben entschieden und deshalb folgt heute das erste Rezept!

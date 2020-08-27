@@ -1,6 +1,8 @@
 ---
 title: "2 Miniprojekte: Eistee mit Sirup und scharfe Soße"
-date: "2012-06-27"
+date: "2012-06-27" 
+tags:
+- Rezept
 ---
 
 [![](images/imgp9218.jpg "Grüner Eistee Holunder")](http://apfeleimer.wordpress.com/2012/06/27/2-miniprojekte-eistee-mit-sirup-und-scharfe-sose/gra%c2%bcner-eistee-holunder/)

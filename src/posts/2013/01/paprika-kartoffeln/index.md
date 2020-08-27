@@ -1,6 +1,8 @@
 ---
 title: "Paprika-Kartoffeln"
-date: "2013-01-04"
+date: "2013-01-04" 
+tags:
+- Rezept
 ---
 
 [![paprika-kartoffeln](images/paprika-kartoffeln.jpg)](http://apfeleimer.wordpress.com/2013/01/05/paprika-kartoffeln/paprika-kartoffeln/)

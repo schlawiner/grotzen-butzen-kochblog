@@ -1,6 +1,10 @@
 ---
 title: "Abendbrot"
-date: "2012-03-16"
+date: "2012-03-16" 
+tags:
+- Bericht
+- Brot
+- Tomate
 ---
 
 [![](images/imgp8695.jpg "Abendbrot")](http://apfeleimer.wordpress.com/2012/03/16/abendbrot/imgp8695/)

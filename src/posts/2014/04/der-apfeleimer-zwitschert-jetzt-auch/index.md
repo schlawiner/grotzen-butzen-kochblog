@@ -1,6 +1,8 @@
 ---
 title: "Der Apfeleimer zwitschert jetzt auch."
-date: "2014-04-29"
+date: "2014-04-29" 
+tags:
+- Rezept
 ---
 
 Um besser twitterhafte Buchstücke und Links zu neuen Postings an den Mann zu bringen.

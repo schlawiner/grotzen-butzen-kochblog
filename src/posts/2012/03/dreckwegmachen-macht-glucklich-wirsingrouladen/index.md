@@ -1,6 +1,11 @@
 ---
 title: "Dreckwegmachen macht glücklich & Wirsingrouladen"
-date: "2012-03-19"
+date: "2012-03-19" 
+tags:
+- Bericht
+- Leben
+- Wirsing
+- Nudeln
 ---
 
 Es gibt anscheinend noch mehr Leute, die das Wegräumen anderer Leute Dreck gut finden und tatsächlich auch anpacken:
@@ -13,7 +18,7 @@ Ein paar haben auch gesagt, "das ist doch morgen alles wieder da", wohl um (sich
 
 [![](images/imgp8713.jpg "Wirsingrouladen")](http://apfeleimer.wordpress.com/2012/03/19/dreckwegmachen-macht-glucklich-wirsingrouladen/imgp8713/)
 
-Gestern abend und heute mittag gab es bei uns Wirsingrouladen, das Rezept hab ich aus einer Broschüre der Kohlindustrie, die neulich unserem Chinakohl beilag. Das Das Hackfleisch in der Füllung hab ich durch gebratene Linsen ersetzt.
+Gestern abend und heute mittag gab es bei uns Wirsingrouladen, das Rezept hab ich aus einer Broschüre der Kohlindustrie, die neulich unserem Chinakohl beilag. Das Hackfleisch in der Füllung hab ich durch gebratene Linsen ersetzt.
 
 Manchmal essen wir übrigens auch mal Fastfood, zum Beispiel gestern mittag diese asiatische Instantnudelsuppe aus dem quadratischen Beutel (die Ecken der Nudelpakete da drin sind übrigens jetzt benutzerfreundlich abgerundet, damit sie besser in eine runde Schüssel passen).
 

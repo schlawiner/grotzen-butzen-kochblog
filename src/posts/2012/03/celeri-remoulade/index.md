@@ -1,6 +1,14 @@
 ---
 title: "Céleri Rémoulade"
-date: "2012-03-13"
+date: "2012-03-13" 
+tags:
+- Bericht
+- Sellerie
+- Möhren
+- Karotten
+- Majonnaise
+- Walnuss
+- Apfel
 ---
 
 [![](images/imgp8691.jpg "Selleriesalat")](http://apfeleimer.wordpress.com/2012/03/13/celeri-remoulade/imgp8691/)

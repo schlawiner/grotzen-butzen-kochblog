@@ -1,6 +1,8 @@
 ---
 title: "Vegetarischer Gulasch mit Seitan (oder extrudierten Sojaproteinwürfeln)"
-date: "2012-07-12"
+date: "2012-07-12" 
+tags:
+- Rezept
 ---
 
 [![](images/igp9247.jpg "_IGP9247")](http://apfeleimer.wordpress.com/2012/07/12/vegetarischer-gulasch-mit-seitan-oder-extrudierten-sojaproteinwurfeln/_igp9247/)

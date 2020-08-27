@@ -1,6 +1,10 @@
 ---
 title: "Blitva, Kroatische Mangoldkartoffeln"
-date: "2012-03-22"
+date: "2012-03-22" 
+tags:
+- Rezept
+- Kartoffeln
+- Mangold
 ---
 
 [![](images/imgp8747.jpg "Blitva")](http://apfeleimer.wordpress.com/2012/03/22/kroatisch/imgp8747/)

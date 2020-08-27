@@ -1,6 +1,8 @@
 ---
 title: "Duck Tales als R&B Slow Jam"
-date: "2014-04-29"
+date: "2014-04-29" 
+tags:
+- Rezept
 ---
 
 Leser A. hat mich kürlich darauf aufmerksam gemacht, daß mein Blog hier kaputt ist - oder ich schon seit Monaten nichts mehr geschrieben habe. Tja, es ist natürlich - äh, das Zweite Erste. Aber keine Sorge, ich habe mit meiner umfangreichen Blogexpertise den Fehler gefunden und behoben (und er hat graue Haare!? Verrückt.) Daher gibt es jetzt gleich einen neuen Beitrag.

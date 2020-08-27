@@ -1,6 +1,8 @@
 ---
 title: "Die verbotene Insel"
-date: "2012-05-03"
+date: "2012-05-03" 
+tags:
+- Spielen
 ---
 
 [![](images/imgp8894.jpg "forbidden island")](http://apfeleimer.wordpress.com/2012/05/03/die-verbotene-insel/imgp8894/)

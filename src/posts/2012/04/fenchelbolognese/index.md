@@ -1,6 +1,13 @@
 ---
 title: "Nudeln mit Fenchelbolognese"
-date: "2012-04-18"
+date: "2012-04-18" 
+tags:
+- Rezept
+- Nudeln
+- Fenchel
+- Bolognese
+- Möhren
+- Karotten
 ---
 
 [![](images/imgp8787.jpg "Fenchelbolognese")](http://apfeleimer.wordpress.com/2012/04/18/fenchelbolognese/imgp8787/)

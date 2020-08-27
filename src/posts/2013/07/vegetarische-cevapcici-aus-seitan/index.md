@@ -1,6 +1,8 @@
 ---
 title: "Vegetarische Cevapcici aus Seitan"
-date: "2013-07-07"
+date: "2013-07-07" 
+tags:
+- Rezept
 ---
 
 [![cevapcici](images/cevapcici.jpg)](http://apfeleimer.files.wordpress.com/2013/07/cevapcici.jpg)

@@ -1,6 +1,8 @@
 ---
 title: "Ofengeröstetes Wurzelgemüse"
-date: "2012-07-27"
+date: "2012-07-27" 
+tags:
+- Rezept
 ---
 
 [![](images/wurzelgemuese.jpg "wurzelgemuese")](http://apfeleimer.wordpress.com/2012/07/27/ofengerostetes-wurzelgemuse/wurzelgemuese/)

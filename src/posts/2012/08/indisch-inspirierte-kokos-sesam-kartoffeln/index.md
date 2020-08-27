@@ -1,6 +1,8 @@
 ---
 title: "Indisch-inspirierte Kokos-Sesam-Kartoffeln"
-date: "2012-08-11"
+date: "2012-08-11" 
+tags:
+- Rezept
 ---
 
 [![](images/kokos-sesam-kartoffeln.jpg "Kokos-Sesam-Kartoffeln")](http://apfeleimer.wordpress.com/2012/08/11/indisch-inspirierte-kokos-sesam-kartoffeln/kokos-sesam-kartoffeln/)

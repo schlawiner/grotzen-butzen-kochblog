@@ -1,6 +1,8 @@
 ---
 title: "Erste Erdbeere und Resterampe: Kohlrabiblattnudeln"
-date: "2012-06-03"
+date: "2012-06-03" 
+tags:
+- Rezept
 ---
 
 [![](images/imgp9049.jpg "Spaghetti mit KohlrabiblÃ¤ttern")](http://apfeleimer.wordpress.com/2012/06/03/erste-erdbeere-und-resterampe-kohlrabiblattnudeln/spaghetti-mit-kohlrabibla%c2%a4ttern/)

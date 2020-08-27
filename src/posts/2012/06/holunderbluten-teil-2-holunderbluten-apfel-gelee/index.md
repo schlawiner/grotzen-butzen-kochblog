@@ -1,6 +1,8 @@
 ---
 title: "Holunderblüten Teil 2: Holunderblüten-Apfel-Gelee"
-date: "2012-06-17"
+date: "2012-06-17" 
+tags:
+- Rezept
 ---
 
 [![](images/imgp9162.jpg "Holunderblütengelee")](http://apfeleimer.wordpress.com/2012/06/17/holunderbluten-teil-2-holunderbluten-apfel-gelee/imgp9162/)

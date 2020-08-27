@@ -1,6 +1,8 @@
 ---
 title: "Picknick zu Mittsommer und Welthumanistentag"
-date: "2012-06-21"
+date: "2012-06-21" 
+tags:
+- Rezept
 ---
 
 Schönen Mittsommer und Welthumanistentag allerseits!

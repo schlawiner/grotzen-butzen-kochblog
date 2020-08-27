@@ -1,6 +1,8 @@
 ---
 title: "Mal wieder Brokkolisalat"
-date: "2013-02-22"
+date: "2013-02-22" 
+tags:
+- Rezept
 ---
 
 [![Camera 360](images/brokkolisalat_wiener.jpg)](http://apfeleimer.wordpress.com/2013/02/22/mal-wieder-brokkolisalat/camera-360-4/)

@@ -1,6 +1,8 @@
 ---
 title: "Nasse Beute"
-date: "2012-06-24"
+date: "2012-06-24" 
+tags:
+- Rezept
 ---
 
 [![](images/tempimage-1.jpg "Regenschirm")](http://apfeleimer.wordpress.com/2012/06/24/nasse-beute/camera-360-2/)

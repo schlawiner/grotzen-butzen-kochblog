@@ -1,11 +1,19 @@
 ---
 title: "Neues Brötchenrezept und Rotkraut"
-date: "2012-04-23"
+date: "2012-04-23" 
+tags:
+- Rezept
+- Backen
+- Brötchen
 ---
 
 [![](images/imgp8833.jpg "neues Brötchenrezept")](http://apfeleimer.wordpress.com/2012/04/23/neues-brotchenrezept-und-rotkraut/imgp8833/)
 
-Sonntag früh vor unserer Firmenführung bei Canyon (kann da Apfel mal wieder was schreiben, zB da drüber? Hallo? Ist da jemand?) habe ich noch mal Brötchen gebacken, diesmal nach einem "**Universalteig**"-Rezept aus Apfels neuem [Lieblingsbuch über den **Brotbackautomaten**](http://www.amazon.de/Neues-aus-Brotbackautomaten-Richard-Ehrlich/dp/3809428612/ref=sr_1_1?ie=UTF8&qid=1335210776&sr=8-1) (auch hier wünsche ich mir wohl umsonst, dass er mal selber was drüber schreibt, seufz). Es soll angeblich auch für Brötchen geeignet sein, und da es ein bisschen weniger aufwändig als [mein anderes Rezept von Chefkoch](http://www.chefkoch.de/rezepte/1153991221641997/Kaisersemmeln-Kaiserbroetchen.html) war, habe ich es mal probiert. Statt wie sonst den Teig erst früh morgens anzusetzen, habe ich diesmal die Zutaten in den Brotbackautomaten geworfen - kein Problem, weil hier keine Butter oder Milch im Teig sind, die schlecht werden können - und eingestellt, dass am nächsten Morgen zum Aufstehen fertig ist mit Kneten und Gehen. War er dann auch, und er ging sehr gut auf, das kann man sagen; sogar bis hoch zum Deckelfenster. Die Brötchen selbst sind auch größer aufgegangen als beim anderen Rezept. Allerdings bräunen sie nicht so gut (vielleicht weil kein Honig oder Zucker dran ist), die Oberfläche reißt beim Backen tierisch auf wie man sieht, und, was ich ganz besonders schade finde, beim Formen ist der Teig nicht so schön geschmeidig wie der andere - der fühlte sich immer so schön glatt an wie ein Babypopo, ich freue mich da immer schon aufs Formen. Nun ja, ich weiß nicht, was ich nächstes mal mache, aber unverändert werde ich diesen neuen Teig nicht nochmal machen, ich werde wohl mal damit experimentieren, beide Rezepte zu kombinieren und dann kann ich ja irgendwann mal das Rezept posten.
+Sonntag früh vor unserer Firmenführung bei Canyon (kann da Apfel mal wieder was schreiben, zB da drüber? Hallo? Ist da jemand?) habe ich noch mal Brötchen gebacken, diesmal nach einem "**Universalteig**"-Rezept aus Apfels neuem [Lieblingsbuch über den **Brotbackautomaten**](http://www.amazon.de/Neues-aus-Brotbackautomaten-Richard-Ehrlich/dp/3809428612/ref=sr_1_1?ie=UTF8&qid=1335210776&sr=8-1) (auch hier wünsche ich mir wohl umsonst, dass er mal selber was drüber schreibt, seufz). 
+
+Es soll angeblich auch für Brötchen geeignet sein, und da es ein bisschen weniger aufwändig als [mein anderes Rezept von Chefkoch](http://www.chefkoch.de/rezepte/1153991221641997/Kaisersemmeln-Kaiserbroetchen.html) war, habe ich es mal probiert. Statt wie sonst den Teig erst früh morgens anzusetzen, habe ich diesmal die Zutaten in den Brotbackautomaten geworfen - kein Problem, weil hier keine Butter oder Milch im Teig sind, die schlecht werden können - und eingestellt, dass der Automat am nächsten Morgen zum Aufstehen fertig ist mit Kneten und Gehen. War er dann auch, und er ging sehr gut auf, das kann man sagen; sogar bis hoch zum Deckelfenster. 
+
+Die Brötchen selbst sind auch größer aufgegangen als beim anderen Rezept. Allerdings bräunen sie nicht so gut (vielleicht weil kein Honig oder Zucker dran ist), die Oberfläche reißt beim Backen tierisch auf wie man sieht, und, was ich ganz besonders schade finde, beim Formen ist der Teig nicht so schön geschmeidig wie der andere - der fühlte sich immer so schön glatt an wie ein Babypopo, ich freue mich da immer schon aufs Formen. Nun ja, ich weiß nicht, was ich nächstes mal mache, aber unverändert werde ich diesen neuen Teig nicht nochmal machen, ich werde wohl mal damit experimentieren, beide Rezepte zu kombinieren und dann kann ich ja irgendwann mal das Rezept posten.
 
 Mittags hat Apfel ein Rotkraut gemacht, das sehr lecker war.
 

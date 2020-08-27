@@ -1,6 +1,8 @@
 ---
 title: "Spieletipp: Bohnanza bzw. Wendy Pferdebasar von Uwe Rosenberg"
-date: "2012-08-09"
+date: "2012-08-09" 
+tags:
+- Rezept
 ---
 
 [![](images/igp9423.jpg "Wendy mit Bohnanza, vorne")](http://apfeleimer.wordpress.com/2012/08/09/spieletipp-bohnanza-bzw-wendy-pferdebasar-von-uwe-rosenberg/_igp9423/)

@@ -1,6 +1,8 @@
 ---
 title: "Pilzragout-Variation mit Sauerkraut"
-date: "2013-02-25"
+date: "2013-02-25" 
+tags:
+- Rezept
 ---
 
 [![Sauerkrautpilze](images/sauerkrautpilze.jpg)](http://apfeleimer.wordpress.com/2013/02/25/pilzragout-variation/sauerkrautpilze/)
