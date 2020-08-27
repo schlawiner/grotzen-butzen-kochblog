@@ -27,5 +27,6 @@ npm install @11ty/eleventy --save-dev
 TODO:
 - [ ] Add Tailwind and PostCSS for styling
 - [ ] Make a nice basic layout template for each recipe page
-- [ ] Think about navigation concept, create index page layout
+- [ ] Add or update all the recipe taxonoym tags 
+- [ ] Think about navigation concept (again with the tags), create index page layout
 - [ ] Add Alpine for reactivity
