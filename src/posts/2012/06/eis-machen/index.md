@@ -1,7 +1,7 @@
 ---
 title: "Eis machen"
 date: "2012-06-07" 
-author: Tina
+author: holehan
 tags:
 - Rezept
 ---

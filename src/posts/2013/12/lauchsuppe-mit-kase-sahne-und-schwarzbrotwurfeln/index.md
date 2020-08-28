@@ -44,4 +44,4 @@ für 4 Portionen
 1. **Lauch** waschen, putzen und in Ringe schneiden. In **Öl** anschwitzen
 2. Mit **Mehl** bestäuben und unter Rühren mit **Milch** angießen. Suppengemüse bzw. **Gemüsebrüh**pulver (oder Paste) und 1/2 Becher **Sahne** (100 ml) einrühren und mit **Wasser** aufgießen, bis die Konsistenz sämig, aber noch dünnflüssig ist – suppig eben.
 3. Einige Minuten köcheln lassen (8-10), währenddessen die **Brotwürfel** in einer Pfanne mit Öl knusprig anbraten und mit **Salz, Knoblauchpulver, Zucker und Pfeffer** würzen.
-4. **Käse** zerkleinern und in die Suppe einrühren. Wer Hart- oder Schnittkäse verwendet, kann auch einen Teil zurückbehalten und ihn beim Servieren über die Suppe reiben. Schmelzen lassen. Suppe noch mit Salz und Pfeffer nachwürzen und in tiefen Tellern, bestreut mit den gerösteten **Brotwürfen**, servieren.
+4. **Käse** zerkleinern und in die Suppe einrühren. Wer Hart- oder Schnittkäse verwendet, kann auch einen Teil zurückbehalten und ihn beim Servieren über die Suppe reiben. Schmelzen lassen. Suppe noch mit Salz und Pfeffer nachwürzen und in tiefen Tellern, bestreut mit den gerösteten **Brotwürfeln**, servieren.
