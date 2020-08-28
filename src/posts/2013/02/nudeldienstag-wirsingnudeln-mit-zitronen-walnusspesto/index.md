@@ -19,7 +19,7 @@ Ich hab noch nicht mal viel daran geändert, nur die Mengen etwas angepasst und 
 
 Also eigentlich heißt es ja Pesto, aber ich finde, bei Pesto gehört eigentlich immer etwas Grünes hinein. Hier handelt es sich eher um eine Walnuss-Zitronen-**Mayonnaise**, denn so etwas in der Art entsteht beim Pürieren, wohl durch das Eiweiß in den Nüssen und natürlich durch recht viel Öl.
 
-Noch was zu den **Flüssigkeitsmengen**: die benutze ich eigentlich eher als **Richtwerte**. Öl, Zitronensaft und ein wenig vom Nudelkochwasser gebe ich meistens ohne Abmessen dazu, sondern frei Schnautze. Hauptsache es ist insgesamt genug Flüssigkeit im Pürierbecher, damit die Nüsse bedeckt sind und mir beim Zerkleinern nicht um die Ohren fliegen.
+Noch was zu den **Flüssigkeitsmengen**: die benutze ich eigentlich eher als **Richtwerte**. Öl, Zitronensaft und ein wenig vom Nudelkochwasser gebe ich meistens ohne Abmessen dazu, sondern frei Schnautze. Hauptsache, es ist insgesamt genug Flüssigkeit im Pürierbecher, damit die Nüsse bedeckt sind und mir beim Zerkleinern nicht um die Ohren fliegen.
 
 Das oben ist übrigens mein erstes Essensfoto mit meinem Aufsteckblitz, gebounct an der seitlichen Wand.
 
