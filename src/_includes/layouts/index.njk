@@ -1,0 +1,25 @@
+
+{% extends "layouts/base.njk" %}}
+
+{% block main %}
+<article class="container max-w-3xl px-6 py-8 mx-auto my-4 font-serif bg-white border rounded-lg shadow">
+{{ content | safe }}
+
+<section>
+{#   <ul>
+{%- for post in collections.post -%}
+  <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+  {% else %}
+  <li>Oh, habe doch nichts gebloggt. Oder die Zettel irgendwie versiebt. Vielleicht finde ich sie später wieder...</li>
+{%- endfor -%}
+</ul> #}
+<ul>
+{%- for post in collections.post | reverse -%}
+  <li{% if page.url == post.url %} aria-current="page"{% endif %}><a class="underline" href="{{ post.url }}">{{ post.data.title }}</a> {{ post.data.date}}</li>
+{%- endfor -%}
+</ul>
+</section>
+</article>
+
+
+{% endblock %}

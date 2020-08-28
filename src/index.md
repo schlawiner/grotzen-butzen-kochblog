@@ -1,5 +1,6 @@
 ---
 title: Mein Kochblog
-layout: /layouts/base.njk
+layout: /layouts/index.njk
+eleventyExcludeFromCollections: true
 ---
 Inhalt der Startseite. Bisher leer.
