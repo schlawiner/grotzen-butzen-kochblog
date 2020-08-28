@@ -1,6 +1,7 @@
 ---
 title: "Möhrensuppe"
 date: "2012-03-08" 
+author: Tina
 tags:
 - Rezept
 - Möhren

@@ -1,6 +1,7 @@
 ---
 title: "Pizza Hawaii"
 date: "2012-07-30" 
+author: Tina
 tags:
 - Rezept
 ---

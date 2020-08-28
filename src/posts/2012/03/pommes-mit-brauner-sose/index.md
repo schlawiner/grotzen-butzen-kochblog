@@ -1,6 +1,7 @@
 ---
 title: "Pommes mit brauner Soße"
 date: "2012-03-14" 
+author: Tina
 tags:
 - Rezept
 - Poutine

@@ -1,6 +1,7 @@
 ---
 title: "Tipp: die \"Gute Schokolade\""
 date: "2012-06-19" 
+author: Tina
 tags:
 - Rezept
 ---
@@ -15,4 +16,4 @@ Kürzlich entdeckt, gibt es bis jetzt nur in ausgewählten Läden ... und bei dm
 
 **Wie sie schmeckt?** Dazu eine kleine Anekdote zu Kindern und Zucker: meine Nichte bekam mit 4 oder 5 Jahren ein Glas Kabafit (oder ähnliches süßes Milchgetränk) zubereitet. Nach dem ersten Schluck strahlte sie übers ganze Gesicht und sagte: **"mhhhhhh, süüüüüß!"**
 
-Passend dazu die gute Schokolade: man könnte meinen, **Kinder** hätten die entwickelt. Also zieeeemlich süß, wenn auch nicht schlecht. Ähnlich wie bei Milka (oder Nutella) ist für den guten Schmelz heimlich **Haselnuss** eingerührt worden (naja, in der Zutatenliste findet man es, so heimlich also auch wieder nicht) - das passt nicht jedem. Ich zum Beispiel habe Haselnussallergie, aber so geröstet, wie die Nuss hier zu sein scheint, geht es für mich. Außerdem Emulgatoren aus Soja und Aroma, auch das passt nicht jedem - mir auch nicht so ganz, denn es scheint ja auch ohne zu gehen (siehe die oben erwähnte Bioschokolade), oder zumindest können einige Hersteller es besser verstecken auf der Zutatenliste.
+Passend dazu die gute Schokolade: man könnte meinen, **Kinder** hätten die entwickelt. Also zieeeemlich süß, wenn auch nicht schlecht. Ähnlich wie bei Milka (oder Nutella) ist für den guten Schmelz heimlich **Haselnuss** eingerührt worden (naja, in der Zutatenliste findet man es, so heimlich also auch wieder nicht) – das passt nicht jedem. Ich zum Beispiel habe Haselnussallergie, aber so geröstet, wie die Nuss hier zu sein scheint, geht es für mich. Außerdem Emulgatoren aus Soja und Aroma, auch das passt nicht jedem – mir auch nicht so ganz, denn es scheint ja auch ohne zu gehen (siehe die oben erwähnte Bioschokolade), oder zumindest können einige Hersteller es besser verstecken auf der Zutatenliste.

@@ -1,6 +1,7 @@
 ---
 title: "Blitva, Kroatische Mangoldkartoffeln"
 date: "2012-03-22" 
+author: Tina
 tags:
 - Rezept
 - Kartoffeln

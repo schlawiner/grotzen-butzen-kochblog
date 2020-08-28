@@ -1,6 +1,7 @@
 ---
 title: "Blumenkohlblattrippen mit Kartoffeln"
 date: "2012-03-11" 
+author: Tina
 tags:
 - Bericht
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Schnelle Nudelsoßen"
 date: "2012-05-24" 
+author: Tina
 tags:
 - Rezept
 - Nudeln
@@ -13,7 +14,7 @@ Dienstag ist bei uns Nudeltag; da haben wir nämlich alle zwei Wochen unseren ab
 
 Diese Woche gab es Spaghetti mit Buttergemüse, oben im Bild. Das Gemüse war aus der Tiefkühlabteilung; wer hätte gedacht, dass da eigentlich kein Scheiß dran ist? Wirklich fast nur Butter und Gemüse, echte Kräuter und Gewürze und etwas Stärke. Obendrauf gab es noch etwas grob geriebenen Gouda.
 
-Letzte Woche haben wir frische Zucchini in Stücke geschnitten und leicht angebraten - nicht zu stark durchgegart, sonst werden sie so matschig - sie sollten noch Biss haben. Gewürzt mit etwas Pfeffer, Essig, Knoblauch und Olivenöl war das fast wie ein meditarraner Nudelsalat. Obendrauf, wie so oft, Käse, diesmal mit dem Kartoffelschäler geschnitten, weil das schick ist.
+Letzte Woche haben wir frische Zucchini in Stücke geschnitten und leicht angebraten – nicht zu stark durchgegart, sonst werden sie so matschig – sie sollten noch Biss haben. Gewürzt mit etwas Pfeffer, Essig, Knoblauch und Olivenöl war das fast wie ein meditarraner Nudelsalat. Obendrauf, wie so oft, Käse, diesmal mit dem Kartoffelschäler geschnitten, weil das schick ist.
 
  
 

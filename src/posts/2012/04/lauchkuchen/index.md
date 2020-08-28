@@ -1,6 +1,7 @@
 ---
 title: "Lauchkuchen"
 date: "2012-04-21" 
+author: Tina
 tags:
 - Rezept
 - Backen
@@ -18,7 +19,7 @@ Eigentlich ist das das gleiche Rezept wie kürzlich die [Lauchpizza](http://apfe
 
 ### **Belag**:
 
-- 750g - 1 kg **Lauch**stangen
+- 750g – 1 kg **Lauch**stangen
 - **Öl** zum Braten
 - 1 Becher **Schmand** (200g)
 - etwas **Wein**, weißer sieht besser aus, aber roter geht auch
@@ -31,13 +32,13 @@ Eigentlich ist das das gleiche Rezept wie kürzlich die [Lauchpizza](http://apfe
 
 ### **Teig:**
 
-- **Pizzateig** (Hefeteig) wie gewohnt zubereiten - braucht jemand da noch ein Rezept?
+- **Pizzateig** (Hefeteig) wie gewohnt zubereiten – braucht jemand da noch ein Rezept?
 - **oder** einen gekauften Filoteig, oder Strudelteig, **oder irgendeinen anderen Teig**, den es gerade mit Rotpreis im lokalen Supermarkt gab (ich bin da nicht so, jeder nicht süße Teig geht, auch Blätterteig).
 
 ## Zubereitung:
 
-1. **Lauch** waschen - längs Aufschlitzen macht es einfacher, den eingewachsenen Sand und Dreck rauszuspülen, der sonst immer so zwischen den Zähnen knirscht - dann in Ringe schneiden. Das nicht ganz so hellgrüne darf bei uns auch mit rein, wir sind da nicht so elegant. Ich reiße/schneide nur gammelige und ausgetrocknete Spitzen und Schalen ab.
+1. **Lauch** waschen - längs Aufschlitzen macht es einfacher, den eingewachsenen Sand und Dreck rauszuspülen, der sonst immer so zwischen den Zähnen knirscht – dann in Ringe schneiden. Das nicht ganz so hellgrüne darf bei uns auch mit rein, wir sind da nicht so elegant. Ich reiße/schneide nur gammelige und ausgetrocknete Spitzen und Schalen ab.
 2. Lauch in **Öl** kurz anbraten, bis er zusammenfällt, dann **Schmand** einrühren und mit **Salz** (wer hat Rauchsalz), **Essig, Wein, Zucker** abschmecken.
 3. Wer **Räuchertofu** hat, wirft in jetzt in Würfeln hinzu und rührt nochmal durch. Wer stattdessen normalen **Tofu** nehmen möchte, würfelt den und gibt eswas **Sojasoße** dran und brät ihn knusprig an, mit ordentlich **Fett**, wie Apfel mir gerade über die Schulter zuruft.
 4. Jetzt den Teig in die Backform (oder auf dem Blech verteilen/ausrollen) und die fertige Füllung drauf verteilen.
-5. Zuletzt kann man noch geriebenen **Käse** drüberstreuen - das haben wir auf dem oberen Bild auch gemacht; dann kommt er in den **Ofen**. Bei uns braucht er bei 1**80 Grad bei Umluft etwa 20-30 Minuten**.
+5. Zuletzt kann man noch geriebenen **Käse** drüberstreuen – das haben wir auf dem oberen Bild auch gemacht; dann kommt er in den **Ofen**. Bei uns braucht er bei 1**80 Grad bei Umluft etwa 20-30 Minuten**.

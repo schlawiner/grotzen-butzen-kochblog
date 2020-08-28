@@ -1,6 +1,7 @@
 ---
 title: "Pfannen-Fladenbrot und marokkanisch-inspirierte Auberginen mit Kichererbsen"
 date: "2012-05-08" 
+author: Tina
 tags:
 - Rezept
 - Brot
@@ -11,7 +12,7 @@ tags:
 
 Das war lecker, besonders der Zimt ist mal was anderes zu Auberginen; sonst machen wir die eher italienisch oder in Ratatouille. Das Rezept hab ich mir [im Internet abgeschaut](http://www.food.com/recipe/moroccan-chickpea-and-eggplant-aubergine-stew-123769), und natürlich wie immer ein paar Änderungen gemacht.
 
-Übrigens habe ich meine Auberginen das erste mal **eingesalzen** vor dem Kochen, weil sie nicht mehr ganz frisch waren und ich Sorge hatte, dass sie vielleicht bitter sind. Einsalzen soll ja die Bitterstoffe zusammen mit der Flüssigkeit per Osmose aus den Zellen der Aubergine ziehen, habe ich [hier gelesen](http://www.exploratorium.edu/cooking/icooks/ask.html). Danach habe ich die Würfel nochmal ordentlich ausgedrückt, sie sollen dann auch weniger Öl aufsaugen beim Braten, das hat sich auch bewahrheitet. Sie waren dann aber trotz Abtrocknen und Ausdrücken mit Geschirrtuch doch ganz schön salzig, so dass ich auch gar kein Salz mehr hinzufügen musste - am Ende war das Gericht auch fast zu salzig. Am nächsten Tag war es dann aber ok, das Salz war wohl in die Kichererbsen gezogen und hatte sich so auf alles verteilt.
+Übrigens habe ich meine Auberginen das erste mal **eingesalzen** vor dem Kochen, weil sie nicht mehr ganz frisch waren und ich Sorge hatte, dass sie vielleicht bitter sind. Einsalzen soll ja die Bitterstoffe zusammen mit der Flüssigkeit per Osmose aus den Zellen der Aubergine ziehen, habe ich [hier gelesen](http://www.exploratorium.edu/cooking/icooks/ask.html). Danach habe ich die Würfel nochmal ordentlich ausgedrückt, sie sollen dann auch weniger Öl aufsaugen beim Braten, das hat sich auch bewahrheitet. Sie waren dann aber trotz Abtrocknen und Ausdrücken mit Geschirrtuch doch ganz schön salzig, so dass ich auch gar kein Salz mehr hinzufügen musste – am Ende war das Gericht auch fast zu salzig. Am nächsten Tag war es dann aber ok, das Salz war wohl in die Kichererbsen gezogen und hatte sich so auf alles verteilt.
 
 Das Fladenbrotrezept hab ich auf morgen verlegt, zwei Rezepte in einem Posting sind einfach zuviel.
 

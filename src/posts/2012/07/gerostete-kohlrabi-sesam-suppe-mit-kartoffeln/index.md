@@ -1,6 +1,7 @@
 ---
 title: "Geröstete Kohlrabi-Sesam-Suppe mit Kartoffeln"
 date: "2012-07-18" 
+author: Tina
 tags:
 - Rezept
 ---

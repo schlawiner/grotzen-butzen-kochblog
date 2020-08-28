@@ -1,6 +1,7 @@
 ---
 title: "Brokkoli-Nudelsalat"
 date: "2012-05-06" 
+author: Tina
 tags:
 - Rezept
 - Nudeln
@@ -38,7 +39,7 @@ für 6 große Portionen
 1. **Nudeln** kochen und abkühlen lassen.
 2. Währenddessen die **Sonnenblumenkerne** ohne Fett in der Pfanne anrösten.
 3. Als nächstes die **Sonnenblumenkerne** wieder aus der Pfanne nehmen und darin den geräucherten, in 1cm große Würfel geschnittenen **Tofu** knusprig anbraten (bei Würstchen diese nicht braten, sondern nur in Scheiben schneiden).
-4. **Brokkoli** in mundgerechte Röschen schneiden - wer mag, blanchiert ihn in etwas Wasser oder Wasserdampf
+4. **Brokkoli** in mundgerechte Röschen schneiden – wer mag, blanchiert ihn in etwas Wasser oder Wasserdampf
 5. Für das Dressing die **Zwiebel** fein würfeln und mit **Mayonnaise**, **Zucker** und **Essig** verrühren.
 6. Jetzt **Brokkoliröschen**, abgekühle **Nudeln**, **Tofu**würfel (oder Würstchenscheiben) und **Sonnenblumenkerne** mit dem **Dressing** vermischen und mit **Salz** nachwürzen wenn nötig.
 7. 1 bis 2 Stunden (oder über nacht) ziehen lassen. Eventuell muss dann nochmal nachgewürzt werden.

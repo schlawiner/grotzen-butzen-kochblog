@@ -1,6 +1,7 @@
 ---
 title: "Flohmarktbeute"
 date: "2012-05-31" 
+author: Tina
 tags:
 - Spielen
 ---
@@ -17,9 +18,9 @@ Als fast echte Schwäbin (ok, stimmt beides nicht) habe ich natürlich letzte W
 
 [![](images/eiertanz.jpg "eiertanz")](http://apfeleimer.wordpress.com/2012/05/31/flohmarktbeute/eiertanz/)
 
-Bei [Eiertanz](http://boardgamegeek.com/boardgame/8924/dancing-eggs) entscheidet ein Würfel, wie man an sein nächstes (Gummi!-) Ei kommt: z. B. durch Gackern, Schweigen, Fangen oder **Rennen um den Tisch**. Hat man ein Ei ergattert, entscheidet der zweite Würfel, wo man es hinstecken muss und dort belassen muss bis zum Ende des Spiels (ja, auch beim Rennen um den Tisch und beim Fangen): **unters Kinn oder zwischen die Knie** zum Beispiel. Es wird immer schwerer, an Eier zu kommen, je mehr man hat; denn irgendwann sind alle Extremitäten mit Eiern belegt und das Bewegen wird immer ungelenker.
+Bei [Eiertanz](http://boardgamegeek.com/boardgame/8924/dancing-eggs) entscheidet ein Würfel, wie man an sein nächstes (Gummi!-) Ei kommt: z. B. durch Gackern, Schweigen, Fangen oder **Rennen um den Tisch**. Hat man ein Ei ergattert, entscheidet der zweite Würfel, wo man es hinstecken muss und dort belassen muss bis zum Ende des Spiels (ja, auch beim Rennen um den Tisch und beim Fangen): **unters Kinn oder zwischen die Knie** zum Beispiel. Es wird immer schwerer, an Eier zu kommen, je mehr man hat; denn irgendwann sind alle Extremitäten mit Eiern belegt und das Bewegen wird immer ungelenker.
 
-Eiertanz ist übrigens von Roberto Fraga, der auch schon ein anderes meiner Lieblingsspiele entworfen hat: [Squad Seven](http://boardgamegeek.com/boardgame/5711/squad-seven) - auch da muss man viel um den Tisch rennen, aber zusätzlich darf man noch auf Zombies schießen. Toll für die Silvesterparty.
+Eiertanz ist übrigens von Roberto Fraga, der auch schon ein anderes meiner Lieblingsspiele entworfen hat: [Squad Seven](http://boardgamegeek.com/boardgame/5711/squad-seven) – auch da muss man viel um den Tisch rennen, aber zusätzlich darf man noch auf Zombies schießen. Toll für die Silvesterparty.
 
 Apropos Party: Alim, mit dem wir auf dem Flohmarkt waren, hat dieses dufte Foto hier von einer duften Teenager-Party-Schallplatte gemacht:
 

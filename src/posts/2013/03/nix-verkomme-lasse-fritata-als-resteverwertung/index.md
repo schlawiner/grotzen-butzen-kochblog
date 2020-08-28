@@ -1,6 +1,7 @@
 ---
 title: "Nix verkomme lasse: Fritata als Resteverwertung"
 date: "2013-03-23" 
+author: Tina
 tags:
 - Rezept
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Gebratene Schupfnudeln mit Apfel-Wein-Kraut (nicht sauer)"
 date: "2012-04-22" 
+author: Tina
 tags:
 - Rezept
 ---
@@ -17,8 +18,8 @@ Und danach liegt der Rest vom Kohl ewig im Kühlschrank, weil es dann erstmal re
 
 ## Zutaten
 
-- eine Packung **Schupfnudeln** aus der Kühltheke (oder natürlich selbstgemacht) - unsere waren Gemüseschupfnudeln und ziemlich salzig, man musste das Kraut gar nicht mehr salzen, so salzig, also aufpassen!
-- 1 kleiner bis mittelgroßer **Weißkohl** - bei mir war es ein Dreiviertel-Riesenkohl
+- eine Packung **Schupfnudeln** aus der Kühltheke (oder natürlich selbstgemacht) – unsere waren Gemüseschupfnudeln und ziemlich salzig, man musste das Kraut gar nicht mehr salzen, so salzig, also aufpassen!
+- 1 kleiner bis mittelgroßer **Weißkohl** – bei mir war es ein Dreiviertel-Riesenkohl
 - 1 gewürftelte **Zwiebel**
 - 200 ml **Apfelsaft**
 - 50 ml **Wein**

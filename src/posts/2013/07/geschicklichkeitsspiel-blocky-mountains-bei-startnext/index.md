@@ -1,6 +1,7 @@
 ---
 title: "Geschicklichkeitsspiel Blocky Mountains bei Startnext"
 date: "2013-07-02" 
+author: Tina
 tags:
 - Rezept
 ---
@@ -15,7 +16,7 @@ Dabei versucht man, einen Trapper und einen Bären an einer Angel über einen va
 
 Spielbar ist es allein, zu mehreren im kooperativen Team, oder gegeneinander.
 
-Die Verlage, denen er das Spiel vorgelegt hatte, fanden es zwar toll, aber die Kosten zur Herstellung des aufwändigen Materials wären zu hoch. Jetzt versucht er es also direkt, so dass sich die aufwändige Produktion eher lohnt - Verlag und Handel als Zwischenschritt fallen schließlich weg, das sollte alles etwas schlanker machen.
+Die Verlage, denen er das Spiel vorgelegt hatte, fanden es zwar toll, aber die Kosten zur Herstellung des aufwändigen Materials wären zu hoch. Jetzt versucht er es also direkt, so dass sich die aufwändige Produktion eher lohnt – Verlag und Handel als Zwischenschritt fallen schließlich weg, das sollte alles etwas schlanker machen.
 
 So soll **ein Exemplar des Spiels verträgliche 39 Euro** (Porto in Deutschland inklusive) kosten, wer mehrere Exemplare bestellt ("Zweitbegehung", "Seilschaft", "Bergführung"), bekommt noch einen kleinen Rabatt. Preislich ist es also gar nicht mal so weit entfernt vom aktuell auf der Spiel des Jahres-Empfehlungsliste stehenden La Boca, das ja weit unkompliziertere Bausteine enthält.
 

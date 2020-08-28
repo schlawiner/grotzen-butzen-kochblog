@@ -1,6 +1,7 @@
 ---
 title: "Nicht wirklich marokkanische rote Linsensuppe mit Kartoffeln und Zimt"
 date: "2012-07-08" 
+author: Tina
 tags:
 - Rezept
 ---

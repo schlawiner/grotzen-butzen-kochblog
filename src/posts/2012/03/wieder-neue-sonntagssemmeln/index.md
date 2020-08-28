@@ -1,6 +1,7 @@
 ---
 title: "Wieder neue Sonntagssemmeln"
 date: "2012-03-18" 
+author: Tina
 tags:
 - Rezept
 - Backen

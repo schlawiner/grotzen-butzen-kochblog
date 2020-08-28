@@ -1,6 +1,7 @@
 ---
 title: "Céleri Rémoulade"
 date: "2012-03-13" 
+author: Tina
 tags:
 - Bericht
 - Sellerie

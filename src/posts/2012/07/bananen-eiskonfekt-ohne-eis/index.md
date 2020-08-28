@@ -1,6 +1,7 @@
 ---
 title: "Bananen-Eiskonfekt ohne Eis"
 date: "2012-07-11" 
+author: Tina
 tags:
 - Rezept
 ---
@@ -33,13 +34,13 @@ Inspiriert von vielen Rezepten, bei denen ganze Bananen am Stiel oder auch ohne 
 
 [![](images/igp9255.jpg "_IGP9255")](http://apfeleimer.wordpress.com/2012/07/11/bananen-eiskonfekt-ohne-eis/_igp9255/)
 
-3\. Jetzt auf einen flachen Teller die **Kokosflocken** gut verteilen. Hierauf kommen dann die noch frisch flüssig überzogenen Bananenstücke, damit sie nicht klebenbleiben - und damit sie lecker nach Kokos schmecken natürlich!
+3\. Jetzt auf einen flachen Teller die **Kokosflocken** gut verteilen. Hierauf kommen dann die noch frisch flüssig überzogenen Bananenstücke, damit sie nicht klebenbleiben – und damit sie lecker nach Kokos schmecken natürlich!
 
 4\. **Bananenstücke** aus dem Gefrierfach holen und einzeln mit einem Löffel in der flüssigen **Schokoladenglasur** wenden und dann auf die Kokosflocken auf dem Teller setzen.
 
 [![](images/igp9257.jpg "_IGP9257")](http://apfeleimer.wordpress.com/2012/07/11/bananen-eiskonfekt-ohne-eis/_igp9257/)
 
-5\. Sind alle Stücke glasiert, warten, bis sie fest geworden sind - das geht schnell, da die Banane ja gefroren war. Jetzt wieder in den Beutel packen und **nochmal mindestens 15 Minuten nachgefrieren lassen**.
+5\. Sind alle Stücke glasiert, warten, bis sie fest geworden sind – das geht schnell, da die Banane ja gefroren war. Jetzt wieder in den Beutel packen und **nochmal mindestens 15 Minuten nachgefrieren lassen**.
 
 [![](images/igp9258.jpg "_IGP9258")](http://apfeleimer.wordpress.com/2012/07/11/bananen-eiskonfekt-ohne-eis/_igp9258/)
 

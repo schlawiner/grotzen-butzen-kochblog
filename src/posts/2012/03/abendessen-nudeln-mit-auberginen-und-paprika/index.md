@@ -1,6 +1,7 @@
 ---
 title: "Abendessen: Nudeln mit Auberginen und Paprika"
 date: "2012-03-21" 
+author: Tina
 tags:
 - Bericht
 - Nudeln

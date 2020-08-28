@@ -1,6 +1,7 @@
 ---
 title: "Nix verkomme lasse: Rest gemacht"
 date: "2012-03-12" 
+author: Tina
 tags:
 - Rezept
 - Blumenkohl

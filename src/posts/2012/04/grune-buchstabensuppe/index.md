@@ -1,6 +1,7 @@
 ---
 title: "Grüne Buchstabensuppe"
 date: "2012-04-24" 
+author: Tina
 tags:
 - Rezept
 - Suppe
@@ -11,7 +12,7 @@ Auch wenn ich keine echte Schwäbin bin, bin ich doch immer bestrebt, nix verkom
 
 [![](images/imgp8849.jpg "Buchstabensuppe mit Blumenkohlgrün")](http://apfeleimer.wordpress.com/2012/04/24/grune-buchstabensuppe/imgp8849/)
 
-Heute hab ich sogar ein paar in-progress-Bilder - zusammen mit dem Rezept nach dem "Jump" -> Klicken!
+Heute hab ich sogar ein paar in-progress-Bilder – zusammen mit dem Rezept nach dem "Jump" -> Klicken!
 
 ## Zutaten für 2 große Portionen
 

@@ -1,6 +1,7 @@
 ---
 title: "Resterampe: Grüne Pizza mit Basilikum"
 date: "2012-06-04" 
+author: Tina
 tags:
 - Rezept
 ---
@@ -16,7 +17,7 @@ Sieht gut aus, gell? Ist aber keine Spinatpizza, sondern mit den Blättern von *
 für 2-3 Portionen
 
 - 2 Pizza Margerita, tiefgefroren
-- eine ordentliche Portion Blätter vom grünen Gemüse (ich hatte Mangoldblätter, Radieschenblätter und Blumenkohlblätter, davon nur das Grüne ohne Rippen) - es war schon eine kleine Pfanne voll bis zum Rand
+- eine ordentliche Portion Blätter vom grünen Gemüse (ich hatte Mangoldblätter, Radieschenblätter und Blumenkohlblätter, davon nur das Grüne ohne Rippen) – es war schon eine kleine Pfanne voll bis zum Rand
 - 1 Handvoll Basilikumblätter
 - 1 Zehe Knoblauch, gehackt oder zerdrückt (oder mehr, wenn man mag)
 - Olivenöl

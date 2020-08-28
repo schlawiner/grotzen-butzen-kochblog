@@ -1,13 +1,14 @@
 ---
 title: "Zug um Zug"
 date: "2012-06-09" 
+author: Tina
 tags:
 - Rezept
 ---
 
 [![](images/imgp9094.jpg "Zug um Zug Cover und Inhalt")](http://apfeleimer.wordpress.com/2012/06/09/zug-um-zug/zug-um-zug-cover-und-inhalt/)
 
-Ich habe ja schonmal geschrieben, dass ich kürzlich auf dem Flohmarkt sehr günstig ein Exemplar des Spiels "Zug um Zug" erstanden habe. Jetzt hatte ich mal Gelegenheit es zu spielen. Beim [**Spieletreff**](http://www.spieletreff-neuwied.de) hat [Willi](http://www.familygames.de) den Erklärbär gespielt und wir haben es alle zusammen mit sechs Spielern gespielt. Das Spiel kann eigentlich nur zu fünft gespielt werden, daher haben Apfel und Birne zusammen als ein Spieler gespielt - und auch noch prompt **gewonnen**! Dort hat es uns so gut gefallen, dass wir es danach unbedingt zu Hause auch nochmal probieren mussten, diesmal zu zweit. Auch in dieser Besetzung macht es viel Spaß, wenn man sich auch etwas weniger in die Quere kommt bei so wenigen Spielern und daher nicht so viel Spielerinteraktion hat wie zu Vielen.
+Ich habe ja schonmal geschrieben, dass ich kürzlich auf dem Flohmarkt sehr günstig ein Exemplar des Spiels "Zug um Zug" erstanden habe. Jetzt hatte ich mal Gelegenheit es zu spielen. Beim [**Spieletreff**](http://www.spieletreff-neuwied.de) hat [Willi](http://www.familygames.de) den Erklärbär gespielt und wir haben es alle zusammen mit sechs Spielern gespielt. Das Spiel kann eigentlich nur zu fünft gespielt werden, daher haben Apfel und Birne zusammen als ein Spieler gespielt – und auch noch prompt **gewonnen**! Dort hat es uns so gut gefallen, dass wir es danach unbedingt zu Hause auch nochmal probieren mussten, diesmal zu zweit. Auch in dieser Besetzung macht es viel Spaß, wenn man sich auch etwas weniger in die Quere kommt bei so wenigen Spielern und daher nicht so viel Spielerinteraktion hat wie zu Vielen.
 
 [![](images/imgp9086.jpg "Das Brett am Ende des Spiels")](http://apfeleimer.wordpress.com/2012/06/09/zug-um-zug/das-brett-am-ende-des-spiels/)
 
@@ -15,7 +16,7 @@ Man spielt auf einer Karte von **Amerika**; und da der Spieleerfinder nicht Amer
 
 [![](images/imgp9088.jpg "Züge über Züge")](http://apfeleimer.wordpress.com/2012/06/09/zug-um-zug/imgp9088/)
 
-Ziel des Spieles ist, möglichst lange Zugstrecken auszubauen - also möglichst lange Streckensegmente mit kleinen Zügen in seiner Spielerfarbe zu besetzen. Denn je länger das Segment, desto mehr Punkte kann man dafür einsacken.
+Ziel des Spieles ist, möglichst lange Zugstrecken auszubauen – also möglichst lange Streckensegmente mit kleinen Zügen in seiner Spielerfarbe zu besetzen. Denn je länger das Segment, desto mehr Punkte kann man dafür einsacken.
 
 Zusätzlich erhält man noch **Aufträge**, in Form von "**Ticket**"-Karten, die man erfüllen muss, um nicht Minuspunkte zu bekommen. Aufträge sind längere Strecken aus mehreren Segmenten, die bestimmte Städte auf der Karte verbinden.
 
@@ -29,10 +30,10 @@ Denn seine Züge kann man natürlich nicht einfach so auf das Brett stellen, das
 
 Wer hätte gedacht, dass Miami so gut ans öffentliche Verkehrsnetz angebunden ist. (**Blutrote** Züge übrigens, wie Dexter-Fans vielleicht bemerkt haben.)
 
-Aber das ist nicht alles, denn man spielt ja nicht alleine. Natürlich wollen die anderen auch manchmal an der gleichen Stelle eine Strecke bauen und kommen einem zuvor - oder sie merken anhand der schon gebauten Strecken schon, welche Auftragstickets der andere gezogen hat und wollen ihm dann Steine in den Weg legen, indem sie ihm die Strecke "klauen". Zusätzlich baut man auch gerne einfach um zu bauen, denn die **längste zusammenhängende Strecke** bringt am Ende auch nochmal Bonuspunkte.
+Aber das ist nicht alles, denn man spielt ja nicht alleine. Natürlich wollen die anderen auch manchmal an der gleichen Stelle eine Strecke bauen und kommen einem zuvor – oder sie merken anhand der schon gebauten Strecken schon, welche Auftragstickets der andere gezogen hat und wollen ihm dann Steine in den Weg legen, indem sie ihm die Strecke "klauen". Zusätzlich baut man auch gerne einfach um zu bauen, denn die **längste zusammenhängende Strecke** bringt am Ende auch nochmal Bonuspunkte.
 
 Wenn jemand nur noch 1 oder 2 Züge in seinem Vorrat übrig hat, ist das **Spiel zu Ende**. Jetzt sollte man nochmal die Punkte nachzählen, oder man benutzt eine der Android-Apps für sein Handy, um das schon während des Spiels festzuhalten (mir gefällt [Steel TTR Tracker](https://play.google.com/store/apps/details?id=com.ddsteel.ttrtracker&feature=search_result) am besten), denn das Ziehen der Punktemarker vergisst man leicht mal, und sie verrutschen auch gelegentlich.
 
 [![](images/imgp9091.jpg "Birne hat gewonnen")](http://apfeleimer.wordpress.com/2012/06/09/zug-um-zug/birne-hat-gewonnen/)　
 
-Hier sieht man den Beweis, dass das Spiel auch ein bisschen glücksabhängig ist; Grübler und Optimierer gewinnen nicht unbedingt - hier hat nämlich die Birne gewonnen.
+Hier sieht man den Beweis, dass das Spiel auch ein bisschen glücksabhängig ist; Grübler und Optimierer gewinnen nicht unbedingt – hier hat nämlich die Birne gewonnen.

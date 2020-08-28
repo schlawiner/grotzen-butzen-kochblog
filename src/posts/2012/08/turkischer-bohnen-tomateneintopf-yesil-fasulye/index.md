@@ -1,6 +1,7 @@
 ---
 title: "Türkischer Bohnen-Tomateneintopf (Yesil-Fasulye)"
 date: "2012-08-16" 
+author: Tina
 tags:
 - Rezept
 ---

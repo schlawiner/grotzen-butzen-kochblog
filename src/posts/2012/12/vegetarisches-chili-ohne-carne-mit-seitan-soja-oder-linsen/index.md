@@ -1,6 +1,7 @@
 ---
 title: "Vegetarisches Chili ohne Carne mit Seitan, Soja oder Linsen"
 date: "2012-12-29" 
+author: Tina
 tags:
 - Rezept
 ---

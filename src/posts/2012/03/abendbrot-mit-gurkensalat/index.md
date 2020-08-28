@@ -1,6 +1,7 @@
 ---
 title: "Abendbrot mit Gurkensalat"
 date: "2012-03-10" 
+author: Tina
 tags:
 - Bericht
 - Gurke
@@ -12,6 +13,6 @@ Roggenmischbrot mit Salat, Käse, Senf, Mayonnaise, Ketchup und einer Scheibe ve
 
 Als Getränk tschechisches Schwarzbier "Kozel".
 
-Zum Nachtisch gab es ausnahmsweise auch was: ein Bananensplit-Eis von Rewe (das "Gute" ;)) - war aber nur ok, und bei weitem nicht so gut wie das Kokoseis aus der gleichen Reihe - das schmeckt nämlich wie Raffaelo.
+Zum Nachtisch gab es ausnahmsweise auch was: ein Bananensplit-Eis von Rewe (das "Gute" ;)) – war aber nur ok, und bei weitem nicht so gut wie das Kokoseis aus der gleichen Reihe – das schmeckt nämlich wie Raffaelo.
 
 [![](images/imgp8683.jpg "IMGP8683")](http://apfeleimer.wordpress.com/2012/03/10/abendbrot-mit-gurkensalat/imgp8683/)

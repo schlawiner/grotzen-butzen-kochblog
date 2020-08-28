@@ -1,13 +1,14 @@
 ---
-title: "Neu: Jetzt mit Rezept - Kohlrabifritten"
+title: "Neu: Jetzt mit Rezept – Kohlrabifritten"
 date: "2012-04-26" 
+author: Tina
 tags:
 - Rezept
 - Kohlrabi
 - Pommes
 ---
 
-[![](images/imgp8859.jpg "Kohlrabifritten")](http://apfeleimer.wordpress.com/2012/04/26/kohlrabifritten/imgp8859/) Hmmm, also die sind echt mal sehr gut! Durch das Braten genau richtig innen - zart und leicht knackig. Leider nicht gut aufwärmbar, da sind sie dann nicht mehr so knusprig. Trotzdem lohnt es sich auf jeden Fall.
+[![](images/imgp8859.jpg "Kohlrabifritten")](http://apfeleimer.wordpress.com/2012/04/26/kohlrabifritten/imgp8859/) Hmmm, also die sind echt mal sehr gut! Durch das Braten genau richtig innen – zart und leicht knackig. Leider nicht gut aufwärmbar, da sind sie dann nicht mehr so knusprig. Trotzdem lohnt es sich auf jeden Fall.
 
 Wir haben die Kohlrabifritten (paniert mit Semmelbröseln und Sesam) mit Salzkartoffeln und einer Tomaten-Knoblauchmayonnaise serviert. Neben den Fritten ist auch noch ein halbes Panadeschnitzel zu sehen, nix verkomme lasse!
 
@@ -29,4 +30,4 @@ Rezept (abgewandelt aus ["Was gibt´s heute?"](http://www.amazon.de/gp/product/3
 2. Jetzt **Kohlrabi** schälen und in fingerlange Stäbchen schneiden.
 3. Kohlrabistäbchen erst in **Mehl**, dann im verquirteln **Ei** und zuletzt im **Semmelbröselgemisch** wenden.
 4. Die so panierten Stäbchen in **Öl** knusprig braun **anbraten**.
-5. Optional: Panadeschnitzel - dazu Reste der Semmelbröselmischung mit der Eimischung verrühren/verkneten und ebenfalls anbraten.
+5. Optional: Panadeschnitzel – dazu Reste der Semmelbröselmischung mit der Eimischung verrühren/verkneten und ebenfalls anbraten.

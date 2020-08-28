@@ -1,11 +1,12 @@
 ---
 title: "Kohlrabitaler mit Sesampanade, Kartoffelbrei und Joghurtdipp"
 date: "2012-07-22" 
+author: Tina
 tags:
 - Rezept
 ---
 
-Apfel und ich haben heute eine **Fahrradtour** von 17 (!!!) Kilometern gemacht, wie meine Sportstracker-App mir sagt. 365 Kilokalorien ist sowas übrigens schwer, oder **2 Bananen**. Wow. Für ihn ein Klacks, das fährt er schnell mal an einem Wochentagabend ab, in einer halben Stunde. Aber ich bin nicht so fit, und erst seit kurzem ist mein Fahrrad erst so richtig fit: denn Apfel hat es ein wenig aufgepeppt. Mein altes pinkfarbenes Baumarktmountainbike, das ich schon seit Mitte der Neunziger habe, mit dem ich aber so gut wie nie gefahren bin, weil es furchtbare laute Bremsen hatte und eine ganz unbequeme Sitzposition - das ist jetzt auf einmal ganz neu! Ich habe einen **neuen bequemeren Lenker und funktionierende Bremsen** (teilweise sogar V-Brakes!), und sogar Bar-Ends. Alles nur, damit ich ihn endlich mal begleiten kann auf eine längere Tour oder zum Einkaufen. Denn alleine fahren ist ihm zu langweilig. Heute war dann unser erster Ausflug über die Weinberge dran.
+Apfel und ich haben heute eine **Fahrradtour** von 17 (!!!) Kilometern gemacht, wie meine Sportstracker-App mir sagt. 365 Kilokalorien ist sowas übrigens schwer, oder **2 Bananen**. Wow. Für ihn ein Klacks, das fährt er schnell mal an einem Wochentagabend ab, in einer halben Stunde. Aber ich bin nicht so fit, und erst seit kurzem ist mein Fahrrad erst so richtig fit: denn Apfel hat es ein wenig aufgepeppt. Mein altes pinkfarbenes Baumarktmountainbike, das ich schon seit Mitte der Neunziger habe, mit dem ich aber so gut wie nie gefahren bin, weil es furchtbare laute Bremsen hatte und eine ganz unbequeme Sitzposition – das ist jetzt auf einmal ganz neu! Ich habe einen **neuen bequemeren Lenker und funktionierende Bremsen** (teilweise sogar V-Brakes!), und sogar Bar-Ends. Alles nur, damit ich ihn endlich mal begleiten kann auf eine längere Tour oder zum Einkaufen. Denn alleine fahren ist ihm zu langweilig. Heute war dann unser erster Ausflug über die Weinberge dran.
 
 Da so eine Tour mächtig hungrig macht, gab es danach auch was Gutes: vegetarische **Cevapcici** mit [kroatischen Mangold-Kartoffeln](http://apfeleimer.wordpress.com/2012/03/22/kroatisch/ "Kroatisch"). Tja, leider gibt es heute davon kein Bild. Später vielleicht.
 
@@ -23,7 +24,7 @@ Zu trinken gab es eine leckere Schwedenmilch mit [Holunderblütensirup](http://a
 - ca. 1 Tasse Haferflocken
 - ca. 1 Tasse Sesam
 - 1 Becher Joghurt
-- Kräuter (z.B. die kleinen zarten Kohlrabiblätter oder Vogelmiere)
+- Kräuter (z. B. die kleinen zarten Kohlrabiblätter oder Vogelmiere)
 - optional: Kichererbsenmus
 - Salz, Pfeffer, Knoblauch
 

@@ -1,6 +1,7 @@
 ---
 title: "Nudeldienstag: Blumenkohl-Carbonara"
 date: "2013-02-26" 
+author: Tina
 tags:
 - Rezept
 ---
@@ -22,7 +23,7 @@ für 4 Portionen
 - 1 EL **Butter** und 1 EL **Öl**
 - ca. 250-300 ml **Milch**, wer es etwas gehaltvoller mag, ersetzt einen Teil durch süße Sahne
 - 1 Packung **Räuchertofu**, etwa 200 g
-- **Käse**, soviel man will, gewürfelt oder gerieben - Parmesan, Pecorino oder auch einfach Gouda oder Emmentaler, das Rezept hat sowieso nicht den Anspruch originalgetreu zu sein
+- **Käse**, soviel man will, gewürfelt oder gerieben – Parmesan, Pecorino oder auch einfach Gouda oder Emmentaler, das Rezept hat sowieso nicht den Anspruch originalgetreu zu sein
 - **Salz**, und wer hat, etwas Räuchersalz
 - **Pfeffer**
 

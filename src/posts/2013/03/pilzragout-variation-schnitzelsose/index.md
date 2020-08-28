@@ -1,6 +1,7 @@
 ---
 title: "Pilzragout-Variation: Schnitzelsoße"
 date: "2013-03-02" 
+author: Tina
 tags:
 - Rezept
 ---

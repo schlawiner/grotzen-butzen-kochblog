@@ -1,15 +1,16 @@
 ---
 title: "Last Minute-Spielenews: Humble Indie Bundle mit Limbo; Limesspiel verlängert"
 date: "2012-06-12" 
+author: Tina
 tags:
 - Rezept
 ---
 
 ## Humble Indie Bundle mit Limbo
 
-**Endspurt** beim aktuellen [Humble Indie Bundle](http://www.humblebundle.com/): wer immer schonmal [Limbo](http://limbogame.org/) günstig spielen wollte (wie ich!), ein Jump-and-Run-Spiel mit einer wunderbar düsteren, atmosphärischen Grafik und grausligen Todesszenen (nicht mit Kindern spielen!) hat noch **zweieinhalb Tage** Gelegenheit - **ab 1 Cent (US)** ist man dabei, zahlbar mit Paypal (oder Google Checkout oder Amazon Checkout, aber hat das wer?). Man kann auch mehr zahlen, und das wünschen sich die Bundlemacher sicher auch. Man kann aber auch erst 1 Cent zahlen und später noch was drauflegen, wenn es einem gefiel.
+**Endspurt** beim aktuellen [Humble Indie Bundle](http://www.humblebundle.com/): wer immer schonmal [Limbo](http://limbogame.org/) günstig spielen wollte (wie ich!), ein Jump-and-Run-Spiel mit einer wunderbar düsteren, atmosphärischen Grafik und grausligen Todesszenen (nicht mit Kindern spielen!) hat noch **zweieinhalb Tage** Gelegenheit – **ab 1 Cent (US)** ist man dabei, zahlbar mit Paypal (oder Google Checkout oder Amazon Checkout, aber hat das wer?). Man kann auch mehr zahlen, und das wünschen sich die Bundlemacher sicher auch. Man kann aber auch erst 1 Cent zahlen und später noch was drauflegen, wenn es einem gefiel.
 
-  \[youtube http://www.youtube.com/watch?v=Y4HSyVXKYz8\] Im Bundle sind auch noch ein paar andere hochgelobte Spiele dabei, allen voran wohl **Psychonauts** und **Amnesia** Dark Descent (ein Horror-Adventure, das ich mir sicher auch anschauen werde), sowie das Action-Sidescrolling-Adventure **Superbrothers: Sword & Sorcery**. Wer mehr als den aktuellen **Durchschnittspreis** (gerade bei 8,40 $) zahlt, erhält zusätzlich noch **Bastion, Lone Survivor, Braid und Super Meat Boy**. Also ich habe zugegriffen, allerdings unter dem Durchschnittspreis gezahlt - nein, nicht 1 Cent - weil die zusätzlichen Spiele mich nicht so interessieren.
+  \[youtube http://www.youtube.com/watch?v=Y4HSyVXKYz8\] Im Bundle sind auch noch ein paar andere hochgelobte Spiele dabei, allen voran wohl **Psychonauts** und **Amnesia** Dark Descent (ein Horror-Adventure, das ich mir sicher auch anschauen werde), sowie das Action-Sidescrolling-Adventure **Superbrothers: Sword & Sorcery**. Wer mehr als den aktuellen **Durchschnittspreis** (gerade bei 8,40 $) zahlt, erhält zusätzlich noch **Bastion, Lone Survivor, Braid und Super Meat Boy**. Also ich habe zugegriffen, allerdings unter dem Durchschnittspreis gezahlt – nein, nicht 1 Cent – weil die zusätzlichen Spiele mich nicht so interessieren.
 
 ## Limesspiel-Finanzierungsphase verlängert
 
@@ -19,4 +20,4 @@ Und jetzt zu Spielen in der echten Welt: das [Limes-Brettspiel](http://www.limes
 
 Die Zeit war eigentlich abgelaufen, wurde aber nochmal **verlängert bis 21. Juni**, da wohl demnächst doch ein paar größere Sponsoren Interesse zeigen möchten.
 
-Ich frage mich, ob bzw wann endlich die "Behörden" mal mithelfen, z.B. die [Deutsche Limeskommission](www.deutsche-limeskommission.de) sollte doch Interesse an Wissensweitergabe zum Limes haben...
+Ich frage mich, ob bzw wann endlich die "Behörden" mal mithelfen, z. B. die [Deutsche Limeskommission](www.deutsche-limeskommission.de) sollte doch Interesse an Wissensweitergabe zum Limes haben...

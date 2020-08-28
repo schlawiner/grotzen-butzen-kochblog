@@ -1,6 +1,7 @@
 ---
 title: "Erste Erdbeere und Resterampe: Kohlrabiblattnudeln"
 date: "2012-06-03" 
+author: Tina
 tags:
 - Rezept
 ---

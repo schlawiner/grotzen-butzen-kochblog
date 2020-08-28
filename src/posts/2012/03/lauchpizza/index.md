@@ -1,6 +1,7 @@
 ---
 title: "Lauchpizza"
 date: "2012-03-19" 
+author: Tina
 tags:
 - Rezept
 - Lauch

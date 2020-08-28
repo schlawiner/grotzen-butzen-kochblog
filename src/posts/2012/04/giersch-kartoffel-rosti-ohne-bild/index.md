@@ -1,6 +1,7 @@
 ---
 title: "Giersch-Kartoffel-Rösti"
 date: "2012-04-11" 
+author: Tina
 tags:
 - Rezept
 - Wildgemüse
@@ -23,7 +24,7 @@ Man darf ihn nicht ausreißen, sondern muss die Blätter abrupfen, sonst vermehr
 
 ## Zutaten:
 
-- Kartoffeln, vielleicht 300 Gramm pro Person (wenn man das Rezept als Hauptmahlzeit zubereiten will) - am besten nimmt man Salzkartoffeln vom Vortag
+- Kartoffeln, vielleicht 300 Gramm pro Person (wenn man das Rezept als Hauptmahlzeit zubereiten will) – am besten nimmt man Salzkartoffeln vom Vortag
 - 1 gewürfelte Zwiebel
 - eine große Schüsel Gierschblätter, grob gehackt (etwa eine mittlere Salatschüssel voll haben wir für 6 Personen gebraucht)
 - Butter und oder Öl zum Braten

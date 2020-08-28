@@ -1,6 +1,7 @@
 ---
 title: "Blumenkohl mit Bechamelsoße und Semmelbrösel"
 date: "2012-05-04" 
+author: Tina
 tags:
 - Rezept
 - Blumenkohl
@@ -20,14 +21,14 @@ Der Blumenkohl ist einfach im Topf gargekocht (wow, ein Gericht ohne Braten und 
 - **Knoblauch** (ich hab granulierten genommen)
 - **Salz, Zucker, Pfeffer**
 - etwas **Essig**
-- **Semmelbrösel** (hab ich nicht abgemessen - soviel wie man gern in etwa auf seinen Blumenkohl haben möchte)
+- **Semmelbrösel** (hab ich nicht abgemessen – soviel wie man gern in etwa auf seinen Blumenkohl haben möchte)
 - **Sesam** (soviel man mag)
 - **Leinsamen** (auch soviel man mag)
 - **Öl** zum Braten
 
 ## Zubereitung
 
-1. **Blumenkohl** waschen, in mundgerechte Röschen teilen. **Blätter** entfernen - wer sie für die Soße benutzen will, auch waschen und kleinhacken (nicht die Rippen, nur das Grüne). Blumenkohl in Salzwasser garkochen, das dauert etwa 8-10 Minuten.
+1. **Blumenkohl** waschen, in mundgerechte Röschen teilen. **Blätter** entfernen – wer sie für die Soße benutzen will, auch waschen und kleinhacken (nicht die Rippen, nur das Grüne). Blumenkohl in Salzwasser garkochen, das dauert etwa 8-10 Minuten.
 2. Wer das **Blumenkohlgrün** in die Soße geben will, dünstet es jetzt kurz in genug **Öl** an und gibt dann das **Mehl** drüber. Alle anderen geben das **Mehl** einfach so ins heiße **Öl** und lassen es etwas anbraten.
 3. Jetzt die **Milch** langsam dazugeben und am besten direkt mit dem Schneebesen verrühren, sonst klumpt es.
 4. **Käse** einwerfen und schmelzen lassen und die Soße noch etwas weiterköcheln bis sie nicht mehr mehlig schmeckt. Mit den Gewürzen abschmecken (Knoblauch finde ich wichtig).

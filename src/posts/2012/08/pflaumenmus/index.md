@@ -1,6 +1,7 @@
 ---
 title: "Pflaumenmus"
 date: "2012-08-22" 
+author: Tina
 tags:
 - Rezept
 ---
@@ -28,5 +29,5 @@ für ca. 6 Gläser Pflaumenmus
 2. Entsteinte **Pflaumen**, den **Zucker, Nelken und Zimt** vermischen und alles zusammen in ein tiefes Backblech oder einen Bräter oder Lasagneform oder ähnliches geben.
 3. Dort jetzt und **2-3 Stunden Saft ziehen lassen** oder aber in einem Topf auf dem Herd aufkochen, um das gleiche Ergebnis zu erzielen. Geht schneller.
 4. Dann bei 180 Grad im **Backofen** (bei Umluft 160 Grad) etwa **2 Stunden** einkochen lassen, zusammen mit den aufgehobenen **Kernen** und der grünen **Walnuss** (die ist aber optional und soll Geschmack und Farbe verbessern, aber ich mache es fast immer ohne, schmeckt trotzdem). Immer mal wieder, vielleicht alle halbe Stunde, Ofentür öffnen um die angesammelte **Feuchtigkeit abdampfen** zu lassen.
-5. Aus dem Backofen nehmen, Kerne raussammeln, die Walnuss, wenn verwendet, herausnehmen (die grüne Schale sollte sich im Ofen aufgelöst haben und nur noch die eigentliche Nuss in der Nussschale soll übrigbleiben - was bei mir aber nicht der Fall war!), in einen großen, hohen Topf füllen und mit dem Stabmixer **pürieren**, dann nochmal **aufkochen**.
+5. Aus dem Backofen nehmen, Kerne raussammeln, die Walnuss, wenn verwendet, herausnehmen (die grüne Schale sollte sich im Ofen aufgelöst haben und nur noch die eigentliche Nuss in der Nussschale soll übrigbleiben – was bei mir aber nicht der Fall war!), in einen großen, hohen Topf füllen und mit dem Stabmixer **pürieren**, dann nochmal **aufkochen**.
 6. Sofort in mit kochendem Wasser ausgespülte Gläser mit Twist-Off-Deckel **füllen**. Deckel drauf und Gläser auf dem Kopf stehend abkühlen lassen.

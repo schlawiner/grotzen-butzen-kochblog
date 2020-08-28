@@ -1,6 +1,7 @@
 ---
 title: "Resterampe: Kohlrabiblattspinat-Lasagne mit rohen Tomaten"
 date: "2012-06-05" 
+author: Tina
 tags:
 - Rezept
 ---

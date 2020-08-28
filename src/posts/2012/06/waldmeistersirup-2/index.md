@@ -1,6 +1,7 @@
 ---
 title: "Waldmeistersirup"
 date: "2012-06-20" 
+author: Tina
 tags:
 - Rezept
 ---
@@ -22,7 +23,7 @@ Wie man vielleicht ganz oben sieht, wird der Sirup gar **nicht grün**. Das geh�
 - 2 Liter **Wasser**
 - 1300 g **Zucker**
 - 27g **Zitronensäure** (**oder** 4 unbehandelte **Zitronen**, diese dann vor der Verarbeitung mit heißem Wasser abwaschen und trockenreiben, dann in Scheiben schneiden)
-- 1 Bund **Waldmeister** von ca 30g oder 15-20 Stengel - die oberen drei bis vier Blattetagen von noch nicht blühenden Planzen, 1-2 Tage angewelkt: das typische Aroma entsteht erst beim Trocknen
+- 1 Bund **Waldmeister** von ca 30g oder 15-20 Stengel – die oberen drei bis vier Blattetagen von noch nicht blühenden Planzen, 1-2 Tage angewelkt: das typische Aroma entsteht erst beim Trocknen
 
 ## Zubereitung
 

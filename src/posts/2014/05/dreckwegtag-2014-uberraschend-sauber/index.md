@@ -1,11 +1,12 @@
 ---
-title: "Dreckwegtag 2014 - überraschend sauber!"
+title: "Dreckwegtag 2014 – überraschend sauber!"
 date: "2014-05-01" 
+author: Tina
 tags:
 - Rezept
 ---
 
-Auch dieses Jahr haben wir wieder beim städtischen Dreckweg-Tag mitgemacht. Leider gibt es keine Bilder vom Vorher und Nachher, aber die wären wohl auch nicht sehr aussagekräftig - denn **dieses Jahr lag viel weniger herum** als sonst. Seltsam. Ob es am milden Wetter diesen Winter lag? Eigentlich unwahrscheinlich, aber wer weiß.
+Auch dieses Jahr haben wir wieder beim städtischen Dreckweg-Tag mitgemacht. Leider gibt es keine Bilder vom Vorher und Nachher, aber die wären wohl auch nicht sehr aussagekräftig – denn **dieses Jahr lag viel weniger herum** als sonst. Seltsam. Ob es am milden Wetter diesen Winter lag? Eigentlich unwahrscheinlich, aber wer weiß.
 
 Was mir allerdings aufgefallen ist, waren mal wieder sehr viele **Coffee-To-Go-Becher**, wie letztes Jahr schon. Dieses Mal waren aber hauptsächlich die Plastikdeckel zu finden; ich nehme an, die Becher selber sind vom Wind mitgenommen worden, sie haben ja die perfekte Windfängerform. Die UFO-förmigen Deckel dagegen bleiben dann liegen, weil so flach und schmal.
 

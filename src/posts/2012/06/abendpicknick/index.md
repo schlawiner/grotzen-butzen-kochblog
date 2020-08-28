@@ -1,6 +1,7 @@
 ---
 title: "Abendpicknick"
 date: "2012-06-22" 
+author: Tina
 tags:
 - Rezept
 ---

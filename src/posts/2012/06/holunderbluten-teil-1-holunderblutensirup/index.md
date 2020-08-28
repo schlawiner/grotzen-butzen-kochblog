@@ -1,6 +1,7 @@
 ---
 title: "Holunderblüten Teil 1: Holunderblütensirup"
 date: "2012-06-12" 
+author: Tina
 tags:
 - Rezept
 ---
@@ -17,7 +18,7 @@ Zuerst kommt mein Rezept für den Sirup, abgewandelt von [einem Chefkoch-Rezept]
 - 2L **Wasser**
 - 1 kg **Zucker**
 - 40g **Zitronensäure** (oder laut Chefkoch-Rezept den Saft von 4 Zitronen; ich bevorzuge "Industrieschimmel", den hab ich immer da zum Putzen und er hält sich besser)
-- **leere Flaschen** zum Befüllen; am besten sind nicht allzu große, habe ich festgestellt, sonst dauert es ewig, bis eine geöffnete mal leer wird (mir ist zwar noch keine währenddessen schlechtgeworden - ich habe sogar eine, die schon bestimmt ein halbes Jahr offen im Kühlschrank steht-, aber die Gefahr besteht)
+- **leere Flaschen** zum Befüllen; am besten sind nicht allzu große, habe ich festgestellt, sonst dauert es ewig, bis eine geöffnete mal leer wird (mir ist zwar noch keine währenddessen schlechtgeworden – ich habe sogar eine, die schon bestimmt ein halbes Jahr offen im Kühlschrank steht-, aber die Gefahr besteht)
 
 Zubereitung
 

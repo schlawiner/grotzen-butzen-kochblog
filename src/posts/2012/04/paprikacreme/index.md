@@ -1,6 +1,7 @@
 ---
 title: "Paprikacreme"
 date: "2012-04-25" 
+author: Tina
 tags:
 - Rezept
 - Paprika

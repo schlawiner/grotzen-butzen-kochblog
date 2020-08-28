@@ -1,6 +1,7 @@
 ---
 title: "Wieder mal: Giersch-Rösti"
 date: "2012-08-18" 
+author: Tina
 tags:
 - Rezept
 ---

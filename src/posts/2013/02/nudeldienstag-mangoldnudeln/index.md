@@ -1,6 +1,7 @@
 ---
 title: "Nudeldienstag: Mangoldnudeln"
 date: "2013-02-05" 
+author: Tina
 tags:
 - Rezept
 ---
@@ -11,7 +12,7 @@ tags:
 
  
 
-Die Urform dieses Rezepts habe ich mal wieder [bei Chefkoch gefunden](http://www.chefkoch.de/rezepte/1279611233327827/Spaghetti-mit-Mangold-Fetacreme.html "Nudeln mit Mangold-Feta-Creme bei Chefkoch.de"). Natürlich habe ich noch etwas daran herumgedoktert. Am Ende wurden Zubereitung und auch die Zutaten sehr ähnlich wie bei den [Mangoldkartoffeln aus Kroatien (Blitva)](http://apfeleimer.wordpress.com/2012/03/22/kroatisch/ "Blitva, Kroatische Mangoldkartoffeln"). Praktisch, dann muss ich mir nur 1,5 Rezepte merken statt zwei. Hier gibt es aber mal Nudeln dazu, außerdem Feta, und - um das ganze soßiger zu machen - Sahne.
+Die Urform dieses Rezepts habe ich mal wieder [bei Chefkoch gefunden](http://www.chefkoch.de/rezepte/1279611233327827/Spaghetti-mit-Mangold-Fetacreme.html "Nudeln mit Mangold-Feta-Creme bei Chefkoch.de"). Natürlich habe ich noch etwas daran herumgedoktert. Am Ende wurden Zubereitung und auch die Zutaten sehr ähnlich wie bei den [Mangoldkartoffeln aus Kroatien (Blitva)](http://apfeleimer.wordpress.com/2012/03/22/kroatisch/ "Blitva, Kroatische Mangoldkartoffeln"). Praktisch, dann muss ich mir nur 1,5 Rezepte merken statt zwei. Hier gibt es aber mal Nudeln dazu, außerdem Feta, und – um das ganze soßiger zu machen – Sahne.
 
 ## Zutaten
 
@@ -21,9 +22,9 @@ für 4 Portionen
 - 1 Staude **Mangold** (das waren bei mir etwa 500-600 Gramm)
 - 1 große **Zwiebel** (fein hacken)
 - 2 **Knoblauchzehen** (fein hacken)
-- etwas **scharfes** Gewürz, z.B. [meine scharfe Soße](http://apfeleimer.wordpress.com/2012/06/27/2-miniprojekte-eistee-mit-sirup-und-scharfe-sose/ "2 Miniprojekte: Eistee mit Sirup und scharfe Soße"), oder Sriracha, oder Tabasco, Cayennepfeffer, Chilipulver
+- etwas **scharfes** Gewürz, z. B. [meine scharfe Soße](http://apfeleimer.wordpress.com/2012/06/27/2-miniprojekte-eistee-mit-sirup-und-scharfe-sose/ "2 Miniprojekte: Eistee mit Sirup und scharfe Soße"), oder Sriracha, oder Tabasco, Cayennepfeffer, Chilipulver
 - etwas **Öl** zum Anbraten (Olivenöl passt gut, da ein bisschen mediterran angehaucht)
-- 100 ml süße **Sahne** - das ist ein halber Becher, soviel hatte ich noch - man kann aber nach Geschmack auch bis zu 200ml nehmen, oder stattdessen 100ml Milch
+- 100 ml süße **Sahne** – das ist ein halber Becher, soviel hatte ich noch – man kann aber nach Geschmack auch bis zu 200ml nehmen, oder stattdessen 100ml Milch
 - 200 g **Feta**\-Käse (entspricht einer Packung)
 - etwas Salz, Zucker, Zitronensaft, Pfeffer (zum Würzen)
 

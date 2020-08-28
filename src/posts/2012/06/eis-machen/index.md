@@ -1,6 +1,7 @@
 ---
 title: "Eis machen"
 date: "2012-06-07" 
+author: Tina
 tags:
 - Rezept
 ---
@@ -24,8 +25,8 @@ Eis stand schon länger auf meiner Selbermach-Agenda. Der Hauptgrund dafür sind
 - Die Milch und die leere Vanilleschote in einem Topf erhitzen
 - Langsam das Ei-Zucker-Vanille-Gemisch einrühren
 - Alles "zur Rose kochen". Das geht so:
-    - Masse unter Rühren bis auf ungefähr 96° Celsius erhitzen. Mehr dürfen es nicht sein, sonst gerinnt das Ei
-    - Zur Kontrolle mit einem Holzlöffel umrühren und seine Rückseite anblasen. Verteilt sich das Eis-Gemisch auf dem Löffel so, dass es wie eine Rose aussieht, haben wir alles richtig gemacht.
+    – Masse unter Rühren bis auf ungefähr 96° Celsius erhitzen. Mehr dürfen es nicht sein, sonst gerinnt das Ei
+    – Zur Kontrolle mit einem Holzlöffel umrühren und seine Rückseite anblasen. Verteilt sich das Eis-Gemisch auf dem Löffel so, dass es wie eine Rose aussieht, haben wir alles richtig gemacht.
 - Eisgemisch abkühlen lassen und derweil die Sahne schlagen
 - Eisgemisch und geschlagene Sahne verrühren und ca. 30 Minuten in die Eis-Maschine geben. Dann ein paar Stunden ab ins Tiefkühlfach.
 

@@ -1,6 +1,7 @@
 ---
 title: "Zucchini-Kartoffelsuppe mit geriebenem Käse"
 date: "2012-07-20" 
+author: Tina
 tags:
 - Rezept
 ---

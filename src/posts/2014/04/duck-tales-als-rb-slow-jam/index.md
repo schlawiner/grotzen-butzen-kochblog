@@ -1,11 +1,12 @@
 ---
 title: "Duck Tales als R&B Slow Jam"
 date: "2014-04-29" 
+author: Tina
 tags:
 - Rezept
 ---
 
-Leser A. hat mich kürlich darauf aufmerksam gemacht, daß mein Blog hier kaputt ist - oder ich schon seit Monaten nichts mehr geschrieben habe. Tja, es ist natürlich - äh, das Zweite Erste. Aber keine Sorge, ich habe mit meiner umfangreichen Blogexpertise den Fehler gefunden und behoben (und er hat graue Haare!? Verrückt.) Daher gibt es jetzt gleich einen neuen Beitrag.
+Leser A. hat mich kürlich darauf aufmerksam gemacht, daß mein Blog hier kaputt ist – oder ich schon seit Monaten nichts mehr geschrieben habe. Tja, es ist natürlich – äh, das Zweite Erste. Aber keine Sorge, ich habe mit meiner umfangreichen Blogexpertise den Fehler gefunden und behoben (und er hat graue Haare!? Verrückt.) Daher gibt es jetzt gleich einen neuen Beitrag.
 
 Und da Herr A. mir nebenbei mitgeteilt hat, daß er nicht gern mehrere Themen in einem Artikel haben möchte, sondern eher twitterartige Bruchstücke bevorzugt, halte ich es auch nur ganz kurz und verweise auf folgendes Video-Schrägstrich-Lied... (Denn seien wir mal ehrlich, Herr A. ist doch der Hauptleser hier.)
 

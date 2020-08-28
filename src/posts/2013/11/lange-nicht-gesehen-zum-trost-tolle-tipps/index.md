@@ -1,6 +1,7 @@
 ---
 title: "Lange nicht gesehen, zum Trost tolle Tipps!"
 date: "2013-11-12" 
+author: Tina
 tags:
 - Rezept
 ---
@@ -11,6 +12,6 @@ Ich habe ja ewig nichts mehr hier im Blog geschrieben, das tut mir leid. Aber di
 
 **Und nun noch ein Last-Minute-Computerspiel-Bundle-Tipp für Adventurefans:** Beim Humble Bundle gibt es [als Weekly Sale](https://www.humblebundle.com/weekly) noch zwei Tage lang eine ganze Reihe von sehr empfehlenswerten **Adventurespielen** günstig. Einmal [**The Whispered World**](http://de.wikipedia.org/wiki/Whispered_World), [**A New Beginning**](http://de.wikipedia.org/wiki/A_New_Beginning_(Computerspiel)) und [**Harveys neue Augen**](http://de.wikipedia.org/wiki/Harveys_neue_Augen) - plus zwei mir unbekannte **Wimmelbild-Adventure**s in der Welt von Shakespeares Dramen, für die man ab 1 US-Cent zahlen kann (Paypal, Amazon Payments, Visa). Die ersten beiden habe ich selbst schon gespielt und fand sie wirklich super.
 
-Wenn man 6 $ zahlt, bekommt man noch zusätzlich den recht aktuellen Hit [Deponia](http://de.wikipedia.org/wiki/Deponia), das bisher noch nie günstig zu habende [Satinavs Ketten](http://de.wikipedia.org/wiki/Satinavs_Ketten) - ein wunderschön gezeichnetes Adventure im Das-schwarze Auge-Universum, und das fast brandneue Kakerlakenadventure [**Journey of a Roach**](http://www.journeyofaroach.de).
+Wenn man 6 $ zahlt, bekommt man noch zusätzlich den recht aktuellen Hit [Deponia](http://de.wikipedia.org/wiki/Deponia), das bisher noch nie günstig zu habende [Satinavs Ketten](http://de.wikipedia.org/wiki/Satinavs_Ketten) – ein wunderschön gezeichnetes Adventure im Das-schwarze Auge-Universum, und das fast brandneue Kakerlakenadventure [**Journey of a Roach**](http://www.journeyofaroach.de).
 
-Zu den meisten Spielen gibt es (einzelne) Steam-Keys - wenn man mindestens 1 $ zahlt, aber auch DRM-freie Versionen.
+Zu den meisten Spielen gibt es (einzelne) Steam-Keys – wenn man mindestens 1 $ zahlt, aber auch DRM-freie Versionen.

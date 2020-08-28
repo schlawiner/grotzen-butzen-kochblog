@@ -1,6 +1,7 @@
 ---
 title: "Abendessen: Rösti mit weißen Bohnen"
 date: "2012-03-05" 
+author: Tina
 tags:
 - Bericht
 ---

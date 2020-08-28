@@ -1,6 +1,7 @@
 ---
 title: "Blaubeerberliner"
 date: "2012-03-10" 
+author: Tina
 tags:
 - Bericht
 ---

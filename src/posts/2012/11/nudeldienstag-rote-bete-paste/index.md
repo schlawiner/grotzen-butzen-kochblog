@@ -1,13 +1,14 @@
 ---
 title: "Nudeldienstag: Rote-Bete-Paste"
 date: "2012-11-30" 
+author: Tina
 tags:
 - Rezept
 ---
 
 [![pasta_mit_roter_bete](images/pasta_mit_roter_bete.jpg)](http://apfeleimer.wordpress.com/2012/12/01/nudeldienstag-rote-bete-paste/pasta_mit_roter_bete/)
 
-Letzten Dienstag vorm [Spieletreff](http://www.spieletreff-neuwied.de "Die Homepage unseres Spieletreffs") gab es endlich mal wieder ein bisschen etwas ausgefallenes zu den obligatorischen Nudeln. Die Wochen davor hatten wir leider oft Tomatensoße aus dem Glas. Die war zwar sehr gut - eine spanische "Tomate Frito", die ich auch mal selber rekreeieren will, aber irgendwann reicht es mit dem Fertigzeug. (**Edit**: Die [Tomate Frito gibt es jetzt auch hier als Rezept](http://apfeleimer.wordpress.com/2013/03/07/nudeldienstag-tomate-frito/ "Nudeldienstag: Tomate Frito"), ich hab sie endlich richtig nachbauen können.)
+Letzten Dienstag vorm [Spieletreff](http://www.spieletreff-neuwied.de "Die Homepage unseres Spieletreffs") gab es endlich mal wieder ein bisschen etwas ausgefallenes zu den obligatorischen Nudeln. Die Wochen davor hatten wir leider oft Tomatensoße aus dem Glas. Die war zwar sehr gut – eine spanische "Tomate Frito", die ich auch mal selber rekreeieren will, aber irgendwann reicht es mit dem Fertigzeug. (**Edit**: Die [Tomate Frito gibt es jetzt auch hier als Rezept](http://apfeleimer.wordpress.com/2013/03/07/nudeldienstag-tomate-frito/ "Nudeldienstag: Tomate Frito"), ich hab sie endlich richtig nachbauen können.)
 
 Also gab es **Nudelsoße aus Roter Bete und Walnüssen**. Die Rote Bete gibt es im Folienpack alle paar Monate im Aldi im Sonderangebot für ein paar Pfennige (40 Cent glaub ich das Pfund), dann decke ich mich damit ein. Frisch bereite ich das Zeug eher selten zu, weil das Schälen so aufwendig ist. Und Walnüsse haben wir gerade säckeweise von den familieneigenen Bäumen, die dieses Jahr anscheinend sehr fruchtbar waren.
 

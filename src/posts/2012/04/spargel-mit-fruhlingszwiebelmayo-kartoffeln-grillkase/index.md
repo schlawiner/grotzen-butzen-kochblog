@@ -1,6 +1,7 @@
 ---
 title: "Spargel mit Frühlingszwiebelmayo, Kartoffeln, Grillkäse"
 date: "2012-04-30" 
+author: Tina
 tags:
 - Rezept
 - Spargel

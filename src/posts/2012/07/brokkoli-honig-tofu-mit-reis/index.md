@@ -1,6 +1,7 @@
 ---
 title: "Brokkoli-Honig-Tofu mit Reis"
 date: "2012-07-07" 
+author: Tina
 tags:
 - Rezept
 ---
@@ -37,6 +38,6 @@ für 4 Portionen
 
 1. Den **Tofu** mit dem **scharfen Zeug** (Sambal oder Chili oder [meine selbstgemachte scharfe Soße](http://apfeleimer.wordpress.com/2012/06/27/2-miniprojekte-eistee-mit-sirup-und-scharfe-sose/ "2 Miniprojekte: Eistee mit Sirup und scharfe Soße")), **Sojasauce** und **Ingwer** vermischen und eine Weile, am besten über Nacht, stehen und **marinieren** lassen.
 2. Währenddessen den **Reis** nach Packungsanweisung **kochen**, den gibt es nachher als Beilage.
-3. 2 El **Öl** in einer Pfanne heißmachen und die **Tofuwürfel** hineingeben. Mit der **Stärke bestreuen** und so anbraten - das gibt eine interessante Kruste. Aber immer schön rühren, sonst legt es schnell an, wegen der Stärke. Tofu nach dem Braten **wieder aus der Pfanne nehmen** - ich lege ihn wieder in die Schüssel mit der Marinade aus dem ersten Schritt.
+3. 2 El **Öl** in einer Pfanne heißmachen und die **Tofuwürfel** hineingeben. Mit der **Stärke bestreuen** und so anbraten – das gibt eine interessante Kruste. Aber immer schön rühren, sonst legt es schnell an, wegen der Stärke. Tofu nach dem Braten **wieder aus der Pfanne nehmen** – ich lege ihn wieder in die Schüssel mit der Marinade aus dem ersten Schritt.
 4. **Knoblauch** fein würfeln oder pressen, zusammen mit dem **Brokkoli** in der selben Pfanne wie für den Tofu benutzt wurde (eventuellen **Bratensatz** drinlassen), andünsten. Gemüsebrühpaste oder **Brühe dazugießen** und etwas mit Salz abschmecken. Jetzt Deckel drauf und noch 5 Minuten **garen lassen.**
 5. Jetzt **Honig und Sesam** zum Brokkoli geben und bald auch den gebratenen **Tofu** vorsichtig unterrühen. Mit dem gekochten **Reis** servieren.

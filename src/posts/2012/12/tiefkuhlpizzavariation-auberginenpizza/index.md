@@ -1,6 +1,7 @@
 ---
 title: "Tiefkühlpizzavariation: Auberginenpizza"
 date: "2012-12-02" 
+author: Tina
 tags:
 - Rezept
 ---

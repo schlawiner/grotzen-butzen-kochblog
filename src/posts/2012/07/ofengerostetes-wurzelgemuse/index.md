@@ -1,6 +1,7 @@
 ---
 title: "Ofengeröstetes Wurzelgemüse"
 date: "2012-07-27" 
+author: Tina
 tags:
 - Rezept
 ---
@@ -15,7 +16,7 @@ Das Rezept haben wir zum ersten Mal bei Mutter Apfel gegessen und sie wiederum h
 
 für 4-5 Portionen
 
-- **3 -4 Sorten Wurzelgemüse**, ich empfehle: **eine davon Kartoffeln**; insgesamt genug um 2 Ofenbleche damit zu füllen. z.B.
+- **3 -4 Sorten Wurzelgemüse**, ich empfehle: **eine davon Kartoffeln**; insgesamt genug um 2 Ofenbleche damit zu füllen. z. B.
 - Rote Bete
 - Pastinaken
 - Möhren

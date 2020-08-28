@@ -1,6 +1,7 @@
 ---
-title: "Lesefreu(n)de zum Welttag des Buches - wer will ein Buch?"
+title: "Lesefreu(n)de zum Welttag des Buches – wer will ein Buch?"
 date: "2012-04-23" 
+author: Tina
 tags:
 - Lesen
 ---

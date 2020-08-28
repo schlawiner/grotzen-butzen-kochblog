@@ -1,6 +1,7 @@
 ---
 title: "Indisch-inspirierte Kokos-Sesam-Kartoffeln"
 date: "2012-08-11" 
+author: Tina
 tags:
 - Rezept
 ---

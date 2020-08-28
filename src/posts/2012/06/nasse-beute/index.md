@@ -1,6 +1,7 @@
 ---
 title: "Nasse Beute"
 date: "2012-06-24" 
+author: Tina
 tags:
 - Rezept
 ---

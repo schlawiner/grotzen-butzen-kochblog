@@ -1,6 +1,7 @@
 ---
 title: "Mayonnaise ohne Ei (mit Milch oder Sojamilch)"
 date: "2012-07-09" 
+author: Tina
 tags:
 - Rezept
 ---
@@ -9,7 +10,7 @@ tags:
 
 Heute habe es bei uns mal wieder [Brokkolisalat](http://apfeleimer.wordpress.com/2012/05/06/brokkoli-nudelsalat/ "Brokkoli-Nudelsalat"), und dazu gehört natürlich auch die Mayo. Die Gelegenheit, endlich mal das Rezept für meine eifreie Mayonnaise zu posten!
 
-Das Rezept habe ich ursprünglich mit **Sojamilch** gemacht - so ist es sogar vegan! - und es quasi selber erfunden. Ich hatte mal auf einem Mayonnaiseglas etwas von Erbseneiweiß gelesen und dachte mir, da die Sojamilch ja auch ein Hülsenfrüchteeiweiß ist, probier ich das mal. Hat gut geklappt.
+Das Rezept habe ich ursprünglich mit **Sojamilch** gemacht - so ist es sogar vegan! – und es quasi selber erfunden. Ich hatte mal auf einem Mayonnaiseglas etwas von Erbseneiweiß gelesen und dachte mir, da die Sojamilch ja auch ein Hülsenfrüchteeiweiß ist, probier ich das mal. Hat gut geklappt.
 
 Irgendwann habe ich das quasi gleiche Rezept, aber [mit Kuhmilch auch auf Lamiacucina gefunden](http://lamiacucina.wordpress.com/2010/04/07/mayonnaise-ohne-ei-warum-es-auch-ohne-geht/) und auch wenn sich der Autor des Blogs nicht recht vorstellen kann, wieso man überhaupt Mayo ohne Ei essen möchte, fallen mir da gleich mehrere Gründe ein. Apfel zum Beispiel findet rohes Ei eklig, andere sind vegan, und einmal haben wir diese Mayo auch für meine kleine Nichte gemacht, die vorher noch nie Mayonnaise gegessen hatte, weil sie keine Eier vertrug (die Unverträglichkeit hat sich inzwischen wieder verwachsen). Na die hat sich gefreut!
 

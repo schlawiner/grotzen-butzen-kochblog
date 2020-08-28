@@ -1,6 +1,7 @@
 ---
 title: "Vegetarischer Gulasch mit Seitan (oder extrudierten Sojaproteinwürfeln)"
 date: "2012-07-12" 
+author: Tina
 tags:
 - Rezept
 ---
@@ -17,7 +18,7 @@ Ok, ich schätze, das Rezept könnte man wohl auch 1:1 mit Fleisch kochen, aber 
 
 für etwa 6 Portionen; etwas Zeit kostet das: 2,5 Stunden etwa, dafür muss man ein paar Tage nicht mehr kochen, weil man so oft davon essen kann ;)
 
-- 500 g **Seitan**, in Würfel geschnitten, aber noch nicht gegart (also ungedämpft, ungebacken, ungekocht, nur der rohe Teig - gewürzt mit Paprika, Knoblauchpulver, Zwiebelpulver, Sojasauce) - alternativ extrudierte **Sojafleischwürfel** oder -schnetzel, mit heißer Brühe eingeweicht
+- 500 g **Seitan**, in Würfel geschnitten, aber noch nicht gegart (also ungedämpft, ungebacken, ungekocht, nur der rohe Teig – gewürzt mit Paprika, Knoblauchpulver, Zwiebelpulver, Sojasauce) – alternativ extrudierte **Sojafleischwürfel** oder -schnetzel, mit heißer Brühe eingeweicht
 - 1 TL **Salz**
 - 2 **Zwiebeln**
 - 5 **Knoblauch**zehen

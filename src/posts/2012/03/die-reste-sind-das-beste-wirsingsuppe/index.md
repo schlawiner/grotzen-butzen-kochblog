@@ -1,6 +1,7 @@
 ---
 title: "Die Reste sind das Beste: Wirsingsuppe"
 date: "2012-03-21" 
+author: Tina
 tags:
 - Rezept
 - Wirsing

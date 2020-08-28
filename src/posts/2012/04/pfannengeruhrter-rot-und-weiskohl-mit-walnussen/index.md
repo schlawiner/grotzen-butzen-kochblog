@@ -1,6 +1,7 @@
 ---
 title: "Pfannengerührter Rot- und Weißkohl mit Walnüssen"
 date: "2012-04-02" 
+author: Tina
 tags:
 - Rezept
 - Kohl
@@ -12,7 +13,7 @@ Unsere drei Leser haben entschieden und deshalb folgt heute das erste Rezept!
 
 [![](images/imgp8751.jpg "Kohl-Fry")](http://apfeleimer.wordpress.com/2012/04/02/pfannengeruhrter-rot-und-weiskohl-mit-walnussen/imgp8751/)
 
-**Pfannengerührter Rot- und Weißkohl mit Walnüssen** (aus ["Cook's Bible Vegetarisch - Frisch aus dem Garten"](http://www.amazon.de/Cooks-Bibel-Vegetarisch-Frisch-Garten/dp/1445444178/ref=sr_1_1?ie=UTF8&qid=1333398900&sr=8-1) ohne Autor, Parragon Books)
+**Pfannengerührter Rot- und Weißkohl mit Walnüssen** (aus ["Cook's Bible Vegetarisch – Frisch aus dem Garten"](http://www.amazon.de/Cooks-Bibel-Vegetarisch-Frisch-Garten/dp/1445444178/ref=sr_1_1?ie=UTF8&qid=1333398900&sr=8-1) ohne Autor, Parragon Books)
 
 für 4 großzügige Portionen (Nudeln oder sowas braucht man dann nicht mehr dazu, das macht auch alleine satt)
 
@@ -22,7 +23,7 @@ für 4 großzügige Portionen (Nudeln oder sowas braucht man dann nicht mehr daz
 - 500g **Rotkohl**
 - 5 EL **Öl** zum Braten (bei uns Sonnenblume, im Originalrezept Erdnuss- und Walnussöl)
 - 3 **Knoblauchzehen**, in feinen Scheiben
-- 2-3 Stangen **Lauch** (oder wie im Originalrezept 8 Frühlingszwiebeln) - in ca. 10cm lange Stücke geschnitten (bei Lauch auch nochmal **längs** in Streifen schneiden)
+- 2-3 Stangen **Lauch** (oder wie im Originalrezept 8 Frühlingszwiebeln) – in ca. 10cm lange Stücke geschnitten (bei Lauch auch nochmal **längs** in Streifen schneiden)
 - 400g **Tofu**, gewürfelt
 - 4 EL **Zitronensaft**
 - 4 EL **Senf**

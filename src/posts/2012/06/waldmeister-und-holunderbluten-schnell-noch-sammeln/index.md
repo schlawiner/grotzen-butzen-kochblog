@@ -1,6 +1,7 @@
 ---
 title: "Waldmeister und Holunderblüten, schnell noch sammeln!"
 date: "2012-06-16" 
+author: Tina
 tags:
 - Rezept
 ---
