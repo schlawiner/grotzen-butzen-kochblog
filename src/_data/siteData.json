@@ -1,0 +1,10 @@
+{
+    "title": "Grotzen und Butzen",
+    "url": "https://grotzen-butzen.trillitzsch.net",
+    "description": "Du darfst nicht vergessen zu essen!",
+    "madewith": "Diese Seite ist mit 11ty generiert und benutzt Nunjucks-Templates.",
+    "author": {
+      "name": "Tina Trillitzsch",
+      "email": "schlawiner@gmail.com"
+    }
+  }
