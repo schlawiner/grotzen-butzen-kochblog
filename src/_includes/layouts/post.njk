@@ -1,0 +1,29 @@
+{% extends "layouts/base.njk" %}}
+
+{% block main %}
+<article class="container max-w-3xl px-6 py-8 mx-auto font-serif bg-white border">
+    <h1 class="postTitle">{{title}}</h1>
+     {{ content | safe }}
+</article>
+{# <hr class="my-6 border-4 border-red-400 border-dashed"> #}
+    {# <code class="p-1 bg-yellow-200">[Ab hier Mockup einer Seite der untersten Ebene: eine Seite mit einem Link - hier Öffentlichkeit -> "Arbeitsleben"]</code>  #}
+
+{# <aside>
+  {{ content | toc }}
+</aside> #}
+    
+   {# <div class="p-6 mt-6 border rounded toc">
+      <h2 class="font-serif font-bold">Auf dieser Seite:</h2>
+      <ul class="mt-2">
+        <li><a href="#" class="underline">Psychische Störungen und Erkrankungen</a></li>
+        <li><a href="#" class="underline">Behandlungsleitlinien</a></li>
+        <li><a href="#" class="underline">PSYNDEX Therapy  - Patientenratgeber</a></li>
+        <li><a href="#" class="underline">Online-Therapie, Online-Beratung</a></li>
+        <li><a href="#thersuche" class="underline">Psychotherapeutensuche</a></li>
+      </ul>
+    </div> #}
+    {# <article class="mt-8"> #}
+  {# {% block content %}
+      {{ content | safe }}
+    {% endblock %} #}
+{% endblock %}
