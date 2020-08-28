@@ -4,13 +4,16 @@ date: "2013-02-26"
 author: Tina
 tags:
 - Rezept
+- Nudeln
+- Nudelsoße
+- Blumenkohl
 ---
+![Blumenkohl-Carbonara](images/blumenkohl-carbonara.jpg)
 
-[![Blumenkohl-Carbonara](images/blumenkohl-carbonara.jpg)](http://apfeleimer.wordpress.com/?attachment_id=973)
 
- 
+Dieses Rezept ist eine Idee, die anscheinend noch nie jemand so richtig hatte. Jedenfalls habe ich im ganzen googleindizierten Internet nichts richtig Vergleichbares gefunden. Dabei passt Blumenkohl eigentlich sehr gut zusammen mit **Räuchertofu** bzw. seinen Vorbildern Schinken oder Speck und natürlich auch mit **käsigen Cremesoßen**. 
 
-Dieses Rezept ist eine Idee, die anscheinend noch nie jemand so richtig hatte. Jedenfalls habe ich im ganzen googleindizierten Internet nichts richtig vergleichbares gefunden. Dabei passt Blumenkohl eigentlich sehr gut zusammen mit **Räuchertofu** bzw. seinen Vorbildern Schinken oder Speck und natürlich auch mit **käsigen Cremesoßen**. Denn so kennt man ja auch **die italienische Carbonarasoße: Käse, Speck und Eier**. Ich wollte aber gerne eine Pastasoße mit Gemüse, einerseits, weil ich den Blumenkohl loswerden wollte, der im Kühlschrank lag, andererseits, weil ich nicht ausschließlich Fett und Kohlenhydrate essen wollte.
+Denn so kennt man ja auch **die italienische Carbonarasoße: Käse, Speck und Eier**. Ich wollte aber gerne eine Pastasoße mit Gemüse, einerseits, weil ich den Blumenkohl loswerden wollte, der im Kühlschrank lag, andererseits, weil ich nicht ausschließlich Fett und Kohlenhydrate essen wollte.
 
 Naja, dann habe ich mich eben mal selbst daran versucht. Da ich Blumenkohl verwende, der teilweise püriert wird, **lasse ich die Eier aber weg**, denn die sind im Original wahrscheinlich hauptsächlich für die Sämigkeit der Soße drinnen. Ansonsten ist alles sehr einfach: **Mehlschwitze** mit Milch oder Sahne, Käse und gebratener Räuchertofu dazu.
 
@@ -26,10 +29,6 @@ für 4 Portionen
 - **Käse**, soviel man will, gewürfelt oder gerieben – Parmesan, Pecorino oder auch einfach Gouda oder Emmentaler, das Rezept hat sowieso nicht den Anspruch originalgetreu zu sein
 - **Salz**, und wer hat, etwas Räuchersalz
 - **Pfeffer**
-
- 
-
- 
 
 ## Zubereitung
 

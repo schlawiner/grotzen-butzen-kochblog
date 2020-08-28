@@ -4,9 +4,12 @@ date: "2012-08-16"
 author: Tina
 tags:
 - Rezept
+- Bohnen
+- Feta
+- Reis
 ---
 
-[![](images/bohnentopf.jpg "bohnentopf")](http://apfeleimer.wordpress.com/2012/08/16/turkischer-bohnen-tomateneintopf-yesil-fasulye/bohnentopf/)
+![](images/bohnentopf.jpg "bohnentopf")
 
 Heute mal ein türkisches Gericht, das ich auf [Chefkoch.de gefunden](http://www.chefkoch.de/rezepte/873721192711301/Yesil-Fasulye.html) habe. Wie immer habe ich es etwas abgeändert, diesmal, indem ich hauptsächlich die ganzen guten Vorschläge der Kommentatoren eingearbeitet habe.
 
@@ -14,7 +17,7 @@ Viele lassen das Fleisch ganz weg, das passt mir natürlich gut, so ist es **von
 
 Zumal ich gerne meine **eigenen Tomaten vom Balkon** verwenden wollte, und die waren etwas klein. Hier sieht man sie, zum Größenverständnis, auf einer Untertasse:
 
-[![](http://apfeleimer.files.wordpress.com/2012/08/kleinetomaten.jpg?w=300 "kleinetomaten")](http://apfeleimer.wordpress.com/2012/08/16/turkischer-bohnen-tomateneintopf-yesil-fasulye/kleinetomaten/)
+![](http://apfeleimer.files.wordpress.com/2012/08/kleinetomaten.jpg?w=300 "kleine Tomaten")
 
 Zusätzlich habe ich auch noch ein paar **Gewürze** hinzugefügt, die die anderen auch verwenden und die ich passend finde: Paprikapulver und scharfe Soße. Gebraten habe ich in **Olivenöl**, das kommt mir passender vor als die ursprünglich angegebenen Butter. Als Beilage haben wir **Reis** gegegessen, aber Fladenbrot passt bestimmt auch gut. Dazu gab es **Joghurt**. Zu guter Letzt habe ich auf Empfehlung eines Kommentators noch **Fetakäse** drauf gestreut, auch wenn das wohl nicht echt türkisch ist.
 
@@ -34,7 +37,7 @@ für 4 Portionen
 - optional: etwas Knoblauch
 - optional: 1 EL Sojahack, Seitanhack, oder Seitan, klein gewürfelt
 
-Zubereitung
+## Zubereitung
 
 1. **Zwiebel** feinhacken und in **Olivenöl** bräunen. Wer Hack oder Seitanwürfel verwendet, gibt sie jetzt dazu und brät sie mit. Weiterbraten, bis alle Flüssigkeit verschunden ist.
 2. **Tomaten** in kleine Würfel schneiden und **Bohnen** putzen.

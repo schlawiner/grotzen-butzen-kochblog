@@ -4,17 +4,22 @@ date: "2013-02-19"
 author: Tina
 tags:
 - Rezept
+- Nudeln
+- Nudelsoße
+- Wirsing
+- Walnuss
+- Pesto
 ---
 
-[![Wirsingnudeln-Walnusspesto](images/wirsingnudeln-walnusspesto.jpg)](http://apfeleimer.wordpress.com/2013/02/19/nudeldienstag-wirsingnudeln-mit-zitronen-walnusspesto/wirsingnudeln-walnusspesto/)
+![Wirsingnudeln-Walnusspesto](images/wirsingnudeln-walnusspesto.jpg)
 
-Wieder ein Rezept [vom Chefkoch](http://www.chefkoch.de/rezept-anzeige.php?ID=1709071279782746 "Rezept bei Chefkoch.de"), das ich beim googeln nach Wirsing + Walnuss gefunden habe, die Kombination hatte meine Flavor Bible empfohlen. Wir haben es inzwischen schon drei mal gekocht – einerseits ist halt Wirsingzeit, aber zusätzlich ist es aber auch sehr lecker. Demnach hat es sich einen Platz hier verdient.
+Wieder ein Rezept [vom Chefkoch](http://www.chefkoch.de/rezept-anzeige.php?ID=1709071279782746 "Rezept bei Chefkoch.de"), das ich beim googeln nach Wirsing + Walnuss gefunden habe; die Kombination hatte meine Flavor Bible empfohlen. Wir haben es inzwischen schon drei mal gekocht – einerseits ist halt Wirsingzeit, aber zusätzlich ist es aber auch sehr lecker. Demnach hat es sich einen Platz hier verdient.
 
 Ich hab noch nicht mal viel daran geändert, nur die Mengen etwas angepasst und die Spezialöle durch unser Standard-Sonnenblumenöl ersetzt. Und mit dem Käse experimentiert: statt Parmesan habe ich **Pecorino** probiert, was ja auch ein parmesanartiger Käse ist, aber vom Schaf, und auch **Kuhmilchfeta**. Beides passt gut.
 
-Also eigentlich heißt es ja Pesto, aber ich finde, bei Pesto gehört eigentlich immer etwas Grünes hinein. Hier handelt es sich eher um eine Walnuss-Zitronen-**Mayonnaise**, denn so etwas in der Art entsteht beim Pürieren, wohl durch das Eiweiß in den Nüssen und natürlich recht viel Öl.
+Also eigentlich heißt es ja Pesto, aber ich finde, bei Pesto gehört eigentlich immer etwas Grünes hinein. Hier handelt es sich eher um eine Walnuss-Zitronen-**Mayonnaise**, denn so etwas in der Art entsteht beim Pürieren, wohl durch das Eiweiß in den Nüssen und natürlich durch recht viel Öl.
 
-Noch was zu den **Flüssigkeitsmengen**: die benutze ich eigentlich eher als **Richtwerte**. Öl, Zitronensaft und ein wenig vom Nudelkochwasser gebe ich meistens ohne Abmessen dazu sondern frei Schnautze. Hauptsache es ist insgesamt genug Flüssigkeit im Pürierbecher, damit die Nüsse bedeckt sind und mir beim Zerkleinern nicht um die Ohren fliegen.
+Noch was zu den **Flüssigkeitsmengen**: die benutze ich eigentlich eher als **Richtwerte**. Öl, Zitronensaft und ein wenig vom Nudelkochwasser gebe ich meistens ohne Abmessen dazu, sondern frei Schnautze. Hauptsache es ist insgesamt genug Flüssigkeit im Pürierbecher, damit die Nüsse bedeckt sind und mir beim Zerkleinern nicht um die Ohren fliegen.
 
 Das oben ist übrigens mein erstes Essensfoto mit meinem Aufsteckblitz, gebounct an der seitlichen Wand.
 

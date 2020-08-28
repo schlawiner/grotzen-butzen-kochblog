@@ -4,11 +4,16 @@ date: "2013-02-10"
 author: Tina
 tags:
 - Rezept
+- Pizza
+- Rucola
+- Tomate
 ---
 
-[![rucolapizza](images/rucolapizza.jpg)](http://apfeleimer.wordpress.com/2013/02/10/tiefkuhlpizzavariation-rucolapizza/rucolapizza/)
+![rucolapizza](images/rucolapizza.jpg)
 
-Wer schon länger mitliest, weiß: Wenn es mal wieder schnell gehen muss sind wir hier beim Apfeleimer nicht so; es muss nicht immer alles from Scratch (oder die allerbeste Qualität vom Bio-Wochenmarkt) sein, da gibt es auch mal Fertigpizza – dann aber immer ein bisschen verfeinert, vorzugsweise mit etwas, was es gerade als Rotpreisangebot im Supermarkt gab. Neulich war das Rucola. Bei diesem Rezept wird der Rucola mit Tomaten erst zu einer Art Salat verarbeitet, ganz ähnlich, wie wenn man ihn roh essen wollte – mit Knoblauch, Essig und Öl. Die Idee habe ich [hier vom Chefkoch](http://www.chefkoch.de/rezepte/186701079954570/Rucola-Pizza-mit-Parmaschinken.html "Chefkoch.de: Rucolapizza mit Parmaschinken") – den dort verwendeten Schinken lasse ich aber natürlich weg, wir sind hier schließlich nicht in der Schnitzelwirtschaft sondern im vegetarischen Apfeleimer.
+Wer schon länger mitliest, weiß: Wenn es mal wieder schnell gehen muss sind wir hier beim Apfeleimer nicht so; es muss nicht immer alles from Scratch (oder die allerbeste Qualität vom Bio-Wochenmarkt) sein, da gibt es auch mal **Fertigpizza** – dann aber immer ein bisschen verfeinert, vorzugsweise mit etwas, was es gerade als Rotpreisangebot im Supermarkt gab. 
+
+Neulich war das Rucola. Bei diesem Rezept wird der **Rucola** mit Tomaten erst zu einer Art Salat verarbeitet, ganz ähnlich, wie wenn man ihn roh essen wollte – mit Knoblauch, Essig und Öl. Die Idee habe ich [hier vom Chefkoch](http://www.chefkoch.de/rezepte/186701079954570/Rucola-Pizza-mit-Parmaschinken.html "Chefkoch.de: Rucolapizza mit Parmaschinken") – den dort verwendeten Schinken lasse ich aber natürlich weg, wir sind hier schließlich nicht in der Schnitzelwirtschaft, sondern im vegetarischen Apfeleimer.
 
  
 

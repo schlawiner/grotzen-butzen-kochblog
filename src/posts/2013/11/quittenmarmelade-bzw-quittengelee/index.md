@@ -6,13 +6,14 @@ tags:
 - Rezept
 ---
 
-[![quittenmarmeladengelee](images/quittenmarmeladengelee.jpg)](http://apfeleimer.files.wordpress.com/2013/11/quittenmarmeladengelee.jpg)
+![Quittenmarmeladengelee](images/quittenmarmeladengelee.jpg)
 
 So, wie versprochen kommt hier schon endlich das nächste Rezept. Jahreszeitlich gerade noch so passend, denn bei uns liegen überall noch die **kleinen japanische Zierquitten** in den Büschen auf Höfen (bei uns an der Uni und am Supermarktparkplatz). Die kann man wunderbar für Gelee verwenden, auch wenn sie Zierquitten heißen, sind sie mehr als genießbar, sie schmecken sogar sehr gut. Ich selber habe auch noch ein paar größere **italienische Quitten** aus dem Sardinien-Herbsturlaub mitgebracht, die nochmal ein bisschen anders schmecken.
 
 So sehen die hiesigen Zierquitten vom bodennahen Strauch aus (links, nur etwa so groß wie ein kleiner Pfirsich), und so wie rechts die sardinischen Quitten vom mannshohen Bäumchen (so groß wie eine richtig große Birne oder ein großer Apfel). Die sardinischen ähneln eher denen, die man auch gelegentlich bei uns im Laden kaufen kann.
 
-[![deutsch-jap_zierquitte](images/sardinische_quitten.jpg)![sardinische_quitten](http://apfeleimer.files.wordpress.com/2013/11/sardinische_quitten.jpg?w=283)](http://apfeleimer.files.wordpress.com/2013/11/deutsch-jap_zierquitte.jpg)
+![deutsch-japanische Zierquitte](images/deutsch-jap_zierquitte.jpg)
+![sardinische Quitten](images/sardinische_quitten.jpg)
 
 **Früher** habe ich **Quittenmarmelade** mit geschälten und **pürierten Quitten mit Gelierzucker** gemacht, die auch ganz gut ankam. Mir selber aber war die Konsistenz etwas zu fest, und die Marmelade erinnerte auch durch das pürierte Fruchtfleisch irgendwie zu sehr an Apfelmus. Inzwischen fand ich dieses Rezept [hier bei der Badischen Zeitung](http://www.badische-zeitung.de/gastronomie-1/quittenmarmelade--20573709.html) von einer schwäbischen alten Dame, einer pensionierten Apothekerin, und es gefällt mir viel besser!
 

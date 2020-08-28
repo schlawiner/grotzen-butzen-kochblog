@@ -3,7 +3,7 @@ title: "Geschicklichkeitsspiel Blocky Mountains bei Startnext"
 date: "2013-07-02" 
 author: Tina
 tags:
-- Rezept
+- Spielen
 ---
 
 Im Frühjahr 2012 war **Gerhard Junker** bei uns im Spieletreff zu Besuch und hat uns sein Limes-Spiel gezeigt; ich habe damals auch darüber hier gebloggt. Leider hat die später geschaltete Finanzierungsaktion auf Startnext nicht ganz das Ziel erreicht.

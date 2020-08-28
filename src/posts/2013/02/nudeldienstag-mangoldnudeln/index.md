@@ -4,15 +4,16 @@ date: "2013-02-05"
 author: Tina
 tags:
 - Rezept
+- Nudeln
+- Nudelsoße
+- Mangold
+- Feta
 ---
+![Mangold (wie für Blitva zubereitet) plus Feta auf Nudeln](images/mangoldnudeln.jpg)
 
- 
+Die Urform dieses Rezepts habe ich mal wieder [bei Chefkoch gefunden](http://www.chefkoch.de/rezepte/1279611233327827/Spaghetti-mit-Mangold-Fetacreme.html "Nudeln mit Mangold-Feta-Creme bei Chefkoch.de"). Natürlich habe ich noch etwas daran herumgedoktert. 
 
-[![Mangold (wie für Blitva zubereitet) plus Feta auf Nudeln](images/mangoldnudeln.jpg)](http://apfeleimer.wordpress.com/?attachment_id=909)
-
- 
-
-Die Urform dieses Rezepts habe ich mal wieder [bei Chefkoch gefunden](http://www.chefkoch.de/rezepte/1279611233327827/Spaghetti-mit-Mangold-Fetacreme.html "Nudeln mit Mangold-Feta-Creme bei Chefkoch.de"). Natürlich habe ich noch etwas daran herumgedoktert. Am Ende wurden Zubereitung und auch die Zutaten sehr ähnlich wie bei den [Mangoldkartoffeln aus Kroatien (Blitva)](http://apfeleimer.wordpress.com/2012/03/22/kroatisch/ "Blitva, Kroatische Mangoldkartoffeln"). Praktisch, dann muss ich mir nur 1,5 Rezepte merken statt zwei. Hier gibt es aber mal Nudeln dazu, außerdem Feta, und – um das ganze soßiger zu machen – Sahne.
+Am Ende wurden Zubereitung und auch die Zutaten sehr ähnlich wie bei den [Mangoldkartoffeln aus Kroatien (Blitva)](/posts/2012/03/kroatisch/ "Blitva, Kroatische Mangoldkartoffeln"). Praktisch, dann muss ich mir nur 1,5 Rezepte merken statt zwei. Hier gibt es aber mal Nudeln dazu, außerdem Feta, und – um das ganze soßiger zu machen – Sahne.
 
 ## Zutaten
 

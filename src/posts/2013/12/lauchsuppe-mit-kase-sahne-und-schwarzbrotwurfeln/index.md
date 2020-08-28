@@ -11,9 +11,7 @@ tags:
 - Sahne
 - Schmand
 ---
-![lauchsuppe](images/lauchsuppe.jpg)
-
-(http://apfeleimer.files.wordpress.com/2013/12/lauchsuppe.jpg)
+![Lauchsuppe](images/lauchsuppe.jpg)
 
 Hier auf dem Apfeleimer gibt es ja, bis auf den Lauchkuchen, noch nicht viele Rezepte mit Lauch. Lauch ist bei uns einfach nicht sonderlich beliebt. Auch Lauchcremesuppe ist nicht so unser Fall – irgendwie schmeckt sie, vor allem aufgewärmt, nach Wachstuch. Geht das noch jemandem so?
 

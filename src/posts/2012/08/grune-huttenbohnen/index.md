@@ -6,11 +6,11 @@ tags:
 - Rezept
 ---
 
-[![](images/huettenbohnen.jpg "huettenbohnen")](http://apfeleimer.wordpress.com/2012/08/20/grune-huttenbohnen/huettenbohnen/)
+![](images/huettenbohnen.jpg "huettenbohnen")
 
 Grüne Bohnen mit Rührei, dazu Caprese-Salat (Tomatenscheiben mit Mozzarella).
 
-Wir haben am Wochenende die grünen Bohnen in Apfels elterlichem Garten geerntet und brauchten eine Verwendung dafür. Da wir ja erst neulich den [türkischen Bohnentopf](http://apfeleimer.wordpress.com/2012/08/16/turkischer-bohnen-tomateneintopf-yesil-fasulye/ "Türkischer Bohnen-Tomateneintopf (Yesil-Fasulye)") hatten, wollte ich diesmal was neues ausprobieren und fand bei Chefkoch dieses [Hüttenbohnen-Rezept](http://www.chefkoch.de/rezepte/1771011287077167/Gruene-Huettenbohnen-mit-Ei.html). Natürlich habe ich es etwas optimiert, denn ursprünglich gehören **Dosenbohnen** hinein und die Semmelbrösel kommen in der Pfanne in das Bohnen-Eier-Gemisch. Das stelle ich mir lätschig vor. Ich habe die Brösel getrennt gelassen und erst beim Servieren draufgestreut, so kann man es auch besser **aufwärmen** und hat trotzdem noch relativ knusprige Brösel.
+Wir haben am Wochenende die grünen Bohnen in Apfels elterlichem Garten geerntet und brauchten eine Verwendung dafür. Da wir ja erst neulich den [türkischen Bohnentopf](posts/2012/08/turkischer-bohnen-tomateneintopf-yesil-fasulye/ "Türkischer Bohnen-Tomateneintopf (Yesil-Fasulye)") hatten, wollte ich diesmal was neues ausprobieren und fand bei Chefkoch dieses [Hüttenbohnen-Rezept](http://www.chefkoch.de/rezepte/1771011287077167/Gruene-Huettenbohnen-mit-Ei.html). Natürlich habe ich es etwas optimiert, denn ursprünglich gehören **Dosenbohnen** hinein und die Semmelbrösel kommen in der Pfanne in das Bohnen-Eier-Gemisch. Das stelle ich mir lätschig vor. Ich habe die Brösel getrennt gelassen und erst beim Servieren draufgestreut, so kann man es auch besser **aufwärmen** und hat trotzdem noch relativ knusprige Brösel.
 
 ## Zutaten
 

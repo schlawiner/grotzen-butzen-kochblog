@@ -4,13 +4,21 @@ date: "2013-05-08"
 author: Tina
 tags:
 - Rezept
+- Nudeln
+- Nudelsoße
+- Möhren
+- Karotten
+- Erdnuss
+- Kokos
 ---
 
-[![Möhrensugo](images/mc3b6hrensugo.jpg)](http://apfeleimer.files.wordpress.com/2013/05/mc3b6hrensugo.jpg)
+![Möhrensugo](images/mc3b6hrensugo.jpg)
 
 Ich habe lange kein neues Nudelsoßenrezept gepostet; das liegt daran, dass ich kein gutes neues Rezept hatte. Zwar teste ich gerade eins, das ich jedes mal verbessere, aber das ist noch nicht so weit und muss daher nochwarten.
 
-Heute aber gibt es endlich mal etwas postenswertes: eine asiatisch angehauchte Möhrensoße mit Erdnuss, Kokos und Ingwer. Das Rezept habe ich einer der Kochzeitschriften meiner Schwester gefunden und abfotografiert. Inzwischen habe ich es aber auch online wiedergefunden, [bei Essen und Trinken](http://www.essen-und-trinken.de/rezept/203332/nudeln-mit-moehrensugo.html). Natürlich habe ich mal wieder meine Änderungen gemacht, zum Beispiel Limetten ersetzt durch einfachen Zitronensaft. Auch Kokosmilch habe ich ersetzt durch eine Neuentdeckung: Kokoscreme im Block ("Creamed Coconut"). Normale Kokosmilch ist ja sehr wasserhaltig und zusätzlich immer in einer Dose, die so bestimmt tausende Kilometer weit transportiert werden muss. Dieser Block Kokoscreme ist dagegen stark konzentriert und fast ohne Flüssigkeit. Man gibt einfach ein Stück ins Gericht und verdünnt dann mit Wasser. Ein netter Bonus ist, dass die blockförmige Creme absolut nichts ausser Kokos enthält, im Gegensatz zur Kokosmilch in der Dose, in der meistens zumindest Emulgator und Verdickungsmittel steckt.
+Heute aber gibt es endlich mal etwas postenswertes: eine asiatisch angehauchte Möhrensoße mit Erdnuss, Kokos und Ingwer. Das Rezept habe ich einer der Kochzeitschriften meiner Schwester gefunden und abfotografiert. Inzwischen habe ich es aber auch online wiedergefunden, [bei Essen und Trinken](http://www.essen-und-trinken.de/rezept/203332/nudeln-mit-moehrensugo.html). 
+
+Natürlich habe ich mal wieder meine Änderungen gemacht, zum Beispiel Limetten ersetzt durch einfachen Zitronensaft. Auch Kokosmilch habe ich ersetzt durch eine Neuentdeckung: Kokoscreme im Block ("Creamed Coconut"). Normale Kokosmilch ist ja sehr wasserhaltig und zusätzlich immer in einer Dose, die so bestimmt tausende Kilometer weit transportiert werden muss. Dieser Block Kokoscreme ist dagegen stark konzentriert und fast ohne Flüssigkeit. Man gibt einfach ein Stück ins Gericht und verdünnt dann mit Wasser. Ein netter Bonus ist, dass die blockförmige Creme absolut nichts ausser Kokos enthält, im Gegensatz zur Kokosmilch in der Dose, in der meistens zumindest Emulgator und Verdickungsmittel stecken.
 
 ## Zutaten
 

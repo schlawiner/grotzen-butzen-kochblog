@@ -4,17 +4,29 @@ date: "2012-12-02"
 author: Tina
 tags:
 - Rezept
+- Pizza
+- Aubergine
+- Tomate
+- Feta
 ---
 
-[![auberginenpizza](images/auberginenpizza.jpg)](http://apfeleimer.wordpress.com/2012/12/02/tiefkuhlpizzavariation-auberginenpizza/auberginenpizza/)
+![auberginenpizza](images/auberginenpizza.jpg)
 
 Heute mal wieder eine Idee für das Aufwerten von Fertigpizza: angebratene Auberginen- und Tomatenscheiben und Feta.
 
-Das [ursprüngliche Rezept ist noch mit Blätterteig](www.tim-maelzer.info/rezepte/vegetarisch-rezepte/2012/11/auberginen-tarte-tatin/ "Auberginen-Tarte-Tatin") und ich habe es ausgerechnet von Tim Mälzer. Den Tipp habe ich wiederum von meiner Schwester. Danke übrigens, der war gut!
+Das [ursprüngliche Rezept ("Auberginen-Tarte-Tatin") ist noch mit Blätterteig](https://www.tim-maelzer.info/rezepte/vegetarisch-rezepte/2012/11/auberginen-tarte-tatin/) und ich habe es ausgerechnet von Tim Mälzer. Den Tipp habe ich wiederum von meiner Schwester. Danke übrigens, der war gut!
 
 ## Zutaten
 
-Ich hatte eine mittelgroße **Aubergine** und vielleicht 400g **Tomaten** vom Balkon, ganz kleine und etwas größere. Kirschtomaten wären wohl am schönsten. Das reichte als Belag für **3 Pizzen Margherita**. Dazu noch **100g Feta, etwas Zucker und Balsamicoessig**.
+Ich hatte 
+
+- eine mittelgroße **Aubergine** und 
+- vielleicht 400g **Tomaten** vom Balkon, ganz kleine und etwas größere. Kirschtomaten wären wohl am schönsten. 
+
+Das reichte als Belag für **3 Pizzen Margherita**. Dazu noch: 
+- 100g Feta, 
+- etwas Zucker und 
+- Balsamicoessig.
 
 ## Zubereitung
 

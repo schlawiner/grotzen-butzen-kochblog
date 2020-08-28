@@ -6,7 +6,7 @@ tags:
 - Rezept
 ---
 
-[![](images/wpid-wp-1399562755932.jpeg)](http://apfeleimer.files.wordpress.com/2014/05/wpid-wp-1399562755932.jpeg)
+![Minierfliegenspuren](images/1399562755932.jpg)
 
 Kennt jemand diese seltsamen Schädlinge? Sie **fressen Tunnel** **zwischen Außen- und Innenschicht des Blattes** und wie man sieht, sind es **kleine schwarze** Wesen, die dann da drinnen hausen, seelenruhig in meinen Blättern!
 

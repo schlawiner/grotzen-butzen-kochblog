@@ -4,13 +4,18 @@ date: "2013-07-18"
 author: Tina
 tags:
 - Rezept
+- Ei
+- Paprika
+- Reis
 ---
 
-[![shakshuka](images/shakshuka.jpg)](http://apfeleimer.files.wordpress.com/2013/07/shakshuka.jpg)
+![Shakshuka](images/shakshuka.jpg)
 
 Shakshuka, [Shakshouka](http://en.wikipedia.org/wiki/Shakshouka "bei der englischen Wikipedia"), Schakschuka, Chakchouka, alles Namen für das gleiche Gericht – es stammt aus Nordafrika und besteht hauptsächlich aus einer **Tomatensoße** mit verschiedenen Gemüsen (fast immer ist Paprika dabei), in der mehrere **Eier** ganz und ohne Schale gegart werden. Gewürzt wird es scharf und fast immer mit Kreuzkümmel, manchmal auch noch mit Zimt. Man isst es, dort wo es herkommt, als Frühstück oder zum Brunch, aber wir mögen es auch als Abendessen oder Mittagessen.
 
-Inzwischen ist es wohl in **Isreal** sehr beliebt, habe ich herausgefunden. Es finden sich in verschiedenen Kochbüchern und in Kochblogs wirklich unglaublich viele Variationen, so daß man sich manchmal fragen muss, ob das noch das gleiche Gericht ist. Das erste mal ist mir Shaskshuka in "Vegetarisch" vom GU-Verlag begegnet – daraus habe ich es dann auch mal gekocht und wir fanden es beide ziemlich gut – in dieser Version enthielt es **Erbsen**, die der Apfel noch von den Nudelsoßen seiner Kindheit kennt. Wir erinnerten uns auch später nochmal daran und hätten es gerne nachgekocht, ich fand aber nur noch ein Foto davon auf meiner Festplatte, und das auch noch ohne Namen und weder mit Angabe des Kochbuches noch mit Zutaten, wie ich es sonst meistens ablege. Nach Blättern in einigen weiteren Kochbüchern fand ich es schließlich nochmal ganz anders – vor allem **ohne Erbsen**! – in Yotam Ottolenghis "Genussvoll vegetarisch" (im Original ist der Name schöner: "Plenty"). Am Ende habe ich mich entschieden, eine Kombination der verschiedenen Rezepte zu bauen, mit allem, was mir an ihnen gut gefällt. Heraus kam das folgende Rezept, und das fertige Gericht war dann auch sehr gut – daher präsentiere ich es gern hier! Die Erbsen sind übrigens in meiner Version dringeblieben.
+Inzwischen ist es wohl in **Isreal** sehr beliebt, habe ich herausgefunden. Es finden sich in verschiedenen Kochbüchern und in Kochblogs wirklich unglaublich viele Variationen, so daß man sich manchmal fragen muss, ob das noch das gleiche Gericht ist. Das erste mal ist mir Shaskshuka in "Vegetarisch" vom GU-Verlag begegnet – daraus habe ich es dann auch mal gekocht und wir fanden es beide ziemlich gut – in dieser Version enthielt es **Erbsen**, die der Apfel noch von den Nudelsoßen seiner Kindheit kennt. Wir erinnerten uns auch später nochmal daran und hätten es gerne nachgekocht, ich fand aber nur noch ein Foto davon auf meiner Festplatte, und das auch noch ohne Namen und weder mit Angabe des Kochbuches noch mit Zutaten, wie ich es sonst meistens ablege. Nach Blättern in einigen weiteren Kochbüchern fand ich es schließlich nochmal ganz anders – vor allem **ohne Erbsen**! – in Yotam Ottolenghis "Genussvoll vegetarisch" (im Original ist der Name schöner: "Plenty"). 
+
+Am Ende habe ich mich entschieden, eine Kombination der verschiedenen Rezepte zu bauen, mit allem, was mir an ihnen gut gefällt. Heraus kam das folgende Rezept, und das fertige Gericht war dann auch sehr gut – daher präsentiere ich es gern hier! Die Erbsen sind übrigens in meiner Version dringeblieben.
 
 Noch ein [Tipp von David Lebovitz](http://www.davidlebovitz.com/2013/02/shakshuka-recipe-eggs/): man kann die Soße auch einfach in größeren Mengen einfrieren und kann sie dann jederzeit aufwärmen und ein paar Eier hineingleiten lassen. Nettes "Fertiggericht".
 

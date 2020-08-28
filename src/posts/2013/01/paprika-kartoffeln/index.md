@@ -4,11 +4,15 @@ date: "2013-01-04"
 author: Tina
 tags:
 - Rezept
+- Kartoffeln
+- Paprika
 ---
 
-[![paprika-kartoffeln](images/paprika-kartoffeln.jpg)](http://apfeleimer.wordpress.com/2013/01/05/paprika-kartoffeln/paprika-kartoffeln/)
+![paprika-kartoffeln](images/paprika-kartoffeln.jpg)
 
-Dieses Rezept habe ich vor Jahren mal bei Chefkoch gefunden, zu meinem Geburtstag gekocht und sehr gut gefunden. Leider ist es jetzt verschwunden. Im ganzen Internet fand ich nur ein einziges Rezept, das der Sache etwas nahe kommt, und zwar [dieses bei Chefkoch](http://www.chefkoch.de/rezepte/1571931264708758/Paprika-Kartoffeln.html). Nun ja, da musste ich wohl selbst etwas rumprobieren und mir was überlegen, oder besser diese Vorlage gründlich überarbeiten. Im Originalrezept waren auf jeden Fall mindestens soviel Paprikastücke wie Kartoffelstücke drin gewesen, und alles war eher in Spalten als in Würfeln. Schweineschmalz kam auch nicht in Frage. Und saure Sahne war auch nicht dran, dafür aber bestimmt Knoblauch. Die Zutaten hatte ich nun schon einigermaßen zusammen. Beim ersten Versuch habe ich alles nacheinander im gleichen Topf zusammen angebraten, das war mir nicht braun genug.
+Dieses Rezept habe ich vor Jahren mal bei Chefkoch gefunden, zu meinem Geburtstag gekocht und sehr gut gefunden. Leider ist es jetzt verschwunden. Im ganzen Internet fand ich nur ein einziges Rezept, das der Sache etwas nahe kommt, und zwar [dieses bei Chefkoch](http://www.chefkoch.de/rezepte/1571931264708758/Paprika-Kartoffeln.html). 
+
+Nun ja, da musste ich wohl selbst etwas rumprobieren und mir was überlegen, oder besser diese Vorlage gründlich überarbeiten. Im Originalrezept waren auf jeden Fall mindestens soviel Paprikastücke wie Kartoffelstücke drin gewesen, und alles war eher in Spalten als in Würfeln. Schweineschmalz kam auch nicht in Frage. Und saure Sahne war auch nicht dran, dafür aber bestimmt Knoblauch. Die Zutaten hatte ich nun schon einigermaßen zusammen. Beim ersten Versuch habe ich alles nacheinander im gleichen Topf zusammen angebraten, das war mir nicht braun genug.
 
 Also ist im finalen Rezept alles getrennt angebraten, damit jedes Gemüse Röststoffe abbekommt. Übrigens: die Kartoffeln sollten auf keinen Fall zuerst angebraten werden, sonst legt alles am Topfboden an und man kann die anderen Dinge nicht mehr richtig braten, sondern alles brennt an.
 
@@ -25,12 +29,12 @@ für 4 Portionen
 - 2-3 Zehen **Knoblauch**
 - 100g **Tomatenmark** (halbe Tube)
 - optional: 2 Tomaten, in Achtel geschnitten
-- ca. 300ml **Gemüsebrühe** zum Aufgießen oder Wasser und entsprechende Menge Instant-Gemüsebrühpulver oder -[paste](http://apfeleimer.wordpress.com/2012/10/14/gemusebruhe-paste-eingemachtes-suppengewurz-und-inoffizieller-dreckwegtag/ "Gemüsebrühe-Paste / eingemachtes Suppengewürz und inoffizieller Dreckwegtag")
+- ca. 300ml **Gemüsebrühe** zum Aufgießen oder Wasser und entsprechende Menge Instant-Gemüsebrühpulver oder -[paste](/posts/2012/10/gemusebruhe-paste-eingemachtes-suppengewurz-und-inoffizieller-dreckwegtag/ "Gemüsebrühe-Paste / eingemachtes Suppengewürz und inoffizieller Dreckwegtag")
 - **Öl** zum Braten
 - 1 EL etwas süßes: **Zucker**
 - 1 EL etwas saures: **Essig** (z. B. Balsamico)
 - eine Prise scharfes: **Pfeffer**
-- noch mehr Schärfe: [scharfe Soße](http://apfeleimer.wordpress.com/2012/06/27/2-miniprojekte-eistee-mit-sirup-und-scharfe-sose/ "2 Miniprojekte: Eistee mit Sirup und scharfe Soße") oder Chilis oder Cayennepfeffer nach Geschmack
+- noch mehr Schärfe: [scharfe Soße](/posts/2012/06/2-miniprojekte-eistee-mit-sirup-und-scharfe-sose/ "2 Miniprojekte: Eistee mit Sirup und scharfe Soße") oder Chilis oder Cayennepfeffer nach Geschmack
 - optional: 100-200g Feta zum Darüberstreuen
 
 ## Zubereitung

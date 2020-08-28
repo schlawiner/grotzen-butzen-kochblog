@@ -4,15 +4,19 @@ date: "2013-08-31"
 author: Tina
 tags:
 - Rezept
+- Fenchel
+- Feta
 ---
 
-[![fenchel](images/fenchel2-bearbeitet.jpg)](http://apfeleimer.files.wordpress.com/2013/08/fenchel2-bearbeitet.jpg)
+![fenchel](images/fenchel2-bearbeitet.jpg)
 
-Fenchel gibt es ja öfter mal – beim einen in der Gemüsekiste, beim anderen im Super-Rotpreis-Sonderangebot – und meist weiß man nicht so recht, was man damit machen soll. Er ist halt doch recht speziell. Und jedes Mal [auf nepalesisch machen](http://apfeleimer.wordpress.com/2013/01/20/nepalesischer-fenchel-mit-champignons-und-tomaten/ "Nepalesischer Fenchel mit Champignons und Tomaten") hängt einem auch irgendwann zum Hals raus.
+Fenchel gibt es ja öfter mal – beim einen in der Gemüsekiste, beim anderen im Super-Rotpreis-Sonderangebot – und meist weiß man nicht so recht, was man damit machen soll. Er ist halt doch recht speziell. Und jedes Mal [auf nepalesisch machen](posts/2013/01/nepalesischer-fenchel-mit-champignons-und-tomaten/ "Nepalesischer Fenchel mit Champignons und Tomaten") hängt einem auch irgendwann zum Hals raus.
 
 Aber seitdem der Apfel zu Weihnachten Yotam Ottolenghis vegetarisches Kochbuch _"Genussvoll vegetarisch"_ bekommen hat, ist das bei uns zumindest anders, und heute lasse ich endlich auch mal meine Leser daran teilhaben: das Geheimnis ist der karamellisierte Fenchel mit Feta-Quark!
 
-Obwohl Yotam (ich nenne ihn schon beim Vornamen, so lieb sind mir [seine Ideen](http://apfeleimer.wordpress.com/2013/07/18/shakshuka/ "Shakshuka") geworden) normalerweise abgefahrene Zutaten meidet, verlangt er in diesem Rezept einen Ziegenquark als Beilage. Gibt es bei uns noch nichtmal im Hitmarkt, und das ist so das exotischste, was es hier in 3 Kilometer-Umkreis gibt. Ok, stattdessen bietet er noch Ziegenfrischkäse als Alternative an. Der wiederum enthält überraschend oft Gelatine, das kommt für uns also nicht in Frage.  Also musste ich mir mal wieder meine eigenen Gedanken machen, aber das mache ich ja eigentlich auch ganz gern. Heraus kam meine einzigartige Feta-Quark-Creme, aus – genau – einem Teil Fetakäse und ein bis zwei Teilen ganz gewöhnlichem Quark. Schmeckt super, wenn auch sicher ganz anders als Ziegenquark.
+Obwohl Yotam (ich nenne ihn schon beim Vornamen, so lieb sind mir [seine Ideen](http://apfeleimer.wordpress.com/2013/07/18/shakshuka/ "Shakshuka") geworden) normalerweise abgefahrene Zutaten meidet, verlangt er in diesem Rezept einen Ziegenquark als Beilage. Gibt es bei uns noch nichtmal im Hitmarkt, und das ist so das exotischste, was es hier in 3 Kilometer-Umkreis gibt. Ok, stattdessen bietet er noch Ziegenfrischkäse als Alternative an. Der wiederum enthält überraschend oft Gelatine, das kommt für uns also nicht in Frage.  
+
+Also musste ich mir mal wieder meine eigenen Gedanken machen, aber das mache ich ja eigentlich auch ganz gern. Heraus kam meine einzigartige **Feta-Quark-Creme**, aus – genau – einem Teil Fetakäse und ein bis zwei Teilen ganz gewöhnlichem Quark. Schmeckt super, wenn auch sicher ganz anders als Ziegenquark.
 
 ## Zutaten
 
@@ -22,7 +26,7 @@ Obwohl Yotam (ich nenne ihn schon beim Vornamen, so lieb sind mir [seine Ideen](
 - 2 EL **Zucker**
 - **Salz** und **Pfeffer**
 
-**Käsecreme:**
+### Für die Feta-Quark-Creme:
 
 - 100g **Fetakäse** (das ist in etwa eine halbe Packung)
 - 250g **Quark** (Magerquark oder mit Sahne, wie man mag, wir haben beides schon gemacht)

@@ -11,13 +11,13 @@ tags:
 - Karotten
 ---
 
-[![](images/imgp8787.jpg "Fenchelbolognese")](http://apfeleimer.wordpress.com/2012/04/18/fenchelbolognese/imgp8787/)
+![](images/imgp8787.jpg "Fenchelbolognese")
 
 War überraschend lecker, das machen wir sicher nochmal. So viele gute Fenchelrezepte hab ich nämlich nicht. Fenchel kann schnell mal zu dominant und penetrant werden, das ist hier nicht so, er fügt sich gut ein und es schmeckt auch noch ziemlich echt nach Bolognese, nicht zu sehr verändert.
 
 Das Rezept habe ich abgewandelt aus dem Buch ["Was gibt's heute"](http://www.amazon.de/Was-gibt%C2%B4s-heute-Rezepte-Familienk%C3%BCche/dp/3833810459) (Penne mit Fenchel-Bolognese).
 
-**Zutaten:**
+## Zutaten
 
 - 1 große **Fenchelknolle** (ca. 300-400 Gramm)
 - 3 **Möhren**
@@ -29,7 +29,7 @@ Das Rezept habe ich abgewandelt aus dem Buch ["Was gibt's heute"](http://www.ama
 - kleines Glas **Rotwein** (zur Not geht auch Weißwein oder vielleicht auch Balsamico)
 - **Pfeffer & Salz**
 
-**Zubereitung:**
+## Zubereitung
 
 1. **Fenchel** in Scheiben und dann in grobe Stücke schneiden und **Möhren** grob raspeln. **Zwiebel** und **Knoblauch** würfeln.
 2. **Sojahack** in großere Pfanne mit **Öl** anbraten, dann **Zwiebelwürfel** hinzu und kurz weiterbraten.
