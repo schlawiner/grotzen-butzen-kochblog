@@ -11,9 +11,9 @@ tags:
 - Tofu
 ---
 
-[![](images/lauchkuchen.jpg "lauchkuchen")](http://apfeleimer.wordpress.com/2012/04/21/lauchkuchen/lauchkuchen/)
+![Lauchkuchen](images/lauchkuchen.jpg)
 
-Eigentlich ist das das gleiche Rezept wie kürzlich die [Lauchpizza](http://apfeleimer.wordpress.com/2012/03/19/lauchpizza), aber diesmal ist es ein Kuchen in der Springform, das ist dann schon ein bisschen anders. Außerdem hatte ich damals das Rezept nicht gepostet, und das ist wirklich gut und zudem supereinfach. Quelle muss ich diesmal auch keine angeben, denn es ist ein eigenes Rezept :).
+Eigentlich ist das das gleiche Rezept wie kürzlich die [Lauchpizza](/posts/2012/03/lauchpizza/), aber diesmal ist es ein Kuchen in der Springform, das ist dann schon ein bisschen anders. Außerdem hatte ich damals das Rezept nicht gepostet, und das ist wirklich gut und zudem supereinfach. Quelle muss ich diesmal auch keine angeben, denn es ist ein eigenes Rezept :).
 
 ## Zutaten
 

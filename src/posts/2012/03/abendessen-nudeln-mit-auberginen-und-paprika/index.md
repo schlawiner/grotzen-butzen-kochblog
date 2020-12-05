@@ -5,12 +5,15 @@ author: Tina
 tags:
 - Bericht
 - Nudeln
+- Nudelsoße
 - Aubergine
 - Paprika
+- Walnuss
+- Knoblauch
 ---
 
 ... gebraten mit Knoblauch und Walnüssen als Spaghettisoße:
 
-[![](images/imgp8744.jpg "Auberginen")](http://apfeleimer.wordpress.com/2012/03/21/abendessen-nudeln-mit-auberginen-und-paprika/imgp8744/)
+![Auberginen-Nudelsoße](images/imgp8744.jpg)
 
 Obendrauf ist ein Klecks Ziegenfrischkäse mit Honig.

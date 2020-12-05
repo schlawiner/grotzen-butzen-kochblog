@@ -10,7 +10,7 @@ tags:
 - Käse
 ---
 
-[![](images/imgp8757.jpg "Hawaii")](http://apfeleimer.wordpress.com/2012/04/05/hawaii-toast/imgp8757/)
+![Toast Hawaii](images/imgp8757.jpg)
 
 Vollkorn-Toastbrötchen, jeweils ein halbes vegetarisches Schnitzel (jaja, Fast Food), Ananasscheibe (optional ein Löffel Schlehenmarmelade in das Loch), junger Gouda. 
 

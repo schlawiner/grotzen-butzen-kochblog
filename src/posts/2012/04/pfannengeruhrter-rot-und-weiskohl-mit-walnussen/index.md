@@ -7,17 +7,18 @@ tags:
 - Kohl
 - Walnuss
 - Tofu
+- Lauch
 ---
 
-Unsere drei Leser haben entschieden und deshalb folgt heute das erste Rezept!
+Unsere drei Leser [haben entschieden](/posts/2012/03/wie-sieht-es-eigentlich-mit-rezepten-aus/) und deshalb folgt heute das erste Rezept!
 
-[![](images/imgp8751.jpg "Kohl-Fry")](http://apfeleimer.wordpress.com/2012/04/02/pfannengeruhrter-rot-und-weiskohl-mit-walnussen/imgp8751/)
+![Kohl-Fry](images/imgp8751.jpg)
 
-**Pfannengerührter Rot- und Weißkohl mit Walnüssen** (aus ["Cook's Bible Vegetarisch – Frisch aus dem Garten"](http://www.amazon.de/Cooks-Bibel-Vegetarisch-Frisch-Garten/dp/1445444178/ref=sr_1_1?ie=UTF8&qid=1333398900&sr=8-1) ohne Autor, Parragon Books)
+**Pfannengerührter Rot- und Weißkohl mit Walnüssen** (aus ["Cook's Bible Vegetarisch – Frisch aus dem Garten"](http://www.amazon.de/Cooks-Bibel-Vegetarisch-Frisch-Garten/dp/1445444178/ref=sr_1_1?ie=UTF8&qid=1333398900&sr=8-1) ohne Autor, Parragon Books).
 
-für 4 großzügige Portionen (Nudeln oder sowas braucht man dann nicht mehr dazu, das macht auch alleine satt)
+Für 4 großzügige Portionen (Nudeln oder sowas braucht man dann nicht mehr dazu, das macht auch alleine satt).
 
-**Zutaten**
+## Zutaten
 
 - 500 g **Weißkohl**
 - 500g **Rotkohl**
@@ -30,7 +31,7 @@ für 4 großzügige Portionen (Nudeln oder sowas braucht man dann nicht mehr daz
 - 100g **Walnüsse**, halbiert
 - **Salz, Pfeffer, Zucker** zum Abschmecken
 
-**Zubereitung:**
+## Zubereitung
 
 1. Beide Kohle in dünne Streifen schneiden oder hobeln.
 2. Öl in großer Pfanne oder Wok (wir mussten zwei Pfannen nehmen, war recht viel) erhitzen, nach und nach Kohl, dann etwas später Lauch, dann Tofu, und zuletzt Knoblauch dazugeben. Insgesamt etwa 5 Minuten "pfannenrühren".

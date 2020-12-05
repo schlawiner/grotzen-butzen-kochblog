@@ -9,7 +9,7 @@ tags:
 - Pommes
 ---
 
-[![](images/imgp8776.jpg "Auberginenfritten")](http://apfeleimer.wordpress.com/?attachment_id=285)
+![Auberginenfritten](images/imgp8776.jpg)
 
 Die Auberginen sind in Stifte geschnitten und erst in etwas milchverdünntem Joghurt (gewürzt mit Knoblauch, Salz, Pfeffer) gewendet, dann in gewürzten Semmelbröseln. Nach dem Panieren bei 180 bis 200 Grad (Umluft) backen bis sie knusprig sind. 
 

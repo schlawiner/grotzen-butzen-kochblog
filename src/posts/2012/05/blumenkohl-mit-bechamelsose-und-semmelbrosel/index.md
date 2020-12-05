@@ -7,7 +7,7 @@ tags:
 - Blumenkohl
 ---
 
-[![](images/imgp8905.jpg "Blumenkohl, Bechamel, Brösel")](http://apfeleimer.wordpress.com/2012/05/04/blumenkohl-mit-bechamelsose-und-semmelbrosel/imgp8905/)
+!["Blumenkohl, Bechamel, Brösel"](images/imgp8905.jpg)
 
 Der Blumenkohl ist einfach im Topf gargekocht (wow, ein Gericht ohne Braten und ohne Mayonnaise bei den Apfeleimers), dazu gab es eine Bechamelsoße mit dem Grünen der Blumenkohlblätter und etwas Knoblauchweichkäse, Das Entscheidende sind die Brösel, die waren wirklich sehr lecker, es sind neben normalen Semmelbröseln auch noch gemörserte Sesamsamen und Leinsamen drin. Dazu gab es Salat.
 

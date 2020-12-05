@@ -8,7 +8,7 @@ tags:
 - Mangold
 ---
 
-[![](images/imgp8747.jpg "Blitva")](http://apfeleimer.wordpress.com/2012/03/22/kroatisch/imgp8747/)
+![Mangoldgemüse mit Kartoffelbrei und gebratenem Ei](images/imgp8747.jpg)
 
 Weil jetzt schon ein paar Leute über Suchmaschinen auf der Suche nach kroatischem Mangold mit Kartoffeln hier aufgetaucht sind und sicher enttäuscht waren, weil kein Rezept da war, habe ich eins nachgereicht. Auch für mich ganz gut, dann verliere ich es nicht :D.
 

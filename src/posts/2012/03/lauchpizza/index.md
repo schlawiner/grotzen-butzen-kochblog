@@ -12,3 +12,5 @@ tags:
 [![](images/imgp8736.jpg "Lauchpizza")](http://apfeleimer.wordpress.com/2012/03/19/lauchpizza/imgp8736/)
 
 Nach meinem eigenen Rezept, Zwiebelkuchen-Art mit Schmand und knusprigen Tofuwürfeln.
+
+**Nachsatz**: Das [Rezept habe ich inzwischen hier nachgereicht](/posts/2012/04/lauchkuchen/), allerdings für eine Version in der Springform.

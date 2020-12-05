@@ -10,4 +10,6 @@ Bisher habe ich ja fast mmer nur Bilder vom Essen und die Zutaten grob aufgelist
 
 Ich hab dafür mal meine erste Umfrage eingerichtet.
 
+**Nachsatz**: die Umfrage existiert leider nicht mehr. Aber wie auch immer sie ausging, ab da erschienen auch Rezepte auf dem Blog.
+
 \[polldaddy poll=6072520\]

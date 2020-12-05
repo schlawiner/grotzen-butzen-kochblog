@@ -9,6 +9,8 @@ tags:
 - Soße
 ---
 
-[![](images/imgp8692.jpg "IMGP8692")](http://apfeleimer.wordpress.com/2012/03/14/pommes-mit-brauner-sose/imgp8692/)
+![Poutine ohne Käse](images/imgp8692.jpg)
 
-Ich hab gehört, man isst das in Kanada so. Dazu Schnitzel (vegetarisches natürlich) und Brokkoli-Möhren-Gemüse.
+Ich hab gehört, man isst das in Kanada so und es nennt sich Poutine, dann aber mit Käse. 
+
+Dazu Schnitzel (vegetarisches natürlich) und Brokkoli-Möhren-Gemüse.
