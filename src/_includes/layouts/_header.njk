@@ -1,4 +1,12 @@
-<header class="h-12 bg-gray-200">
-    <h1>{{ siteData.title }}</h1>
-    <p>{{ siteData.description }}</p>
+<header class="bg-gray-100 border-b">
+<div class="container flex items-center justify-between max-w-5xl px-6 py-6 mx-auto">
+    <span class="text-3xl font-semibold"><a href="/">{{ siteData.title }}</a></span>
+    <nav>
+        <ul class="">
+            <li class="inline ml-2"><a href="/tags/" class="text-xl">Tags</a></li>
+            <li class="inline ml-2"><a href="/ueber/" class="text-xl">Über</a></li>
+        </ul>
+    </nav>
+</div>
+    {# <p>{{ siteData.description }}</p> #}
 </header>
