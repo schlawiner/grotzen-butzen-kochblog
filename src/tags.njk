@@ -1,0 +1,30 @@
+---
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+  filter:
+    - all
+    - nav
+    - post
+    - posts
+    - tagList
+  addAllPagesToCollections: true
+eleventyComputed:
+  title: Beiträge mit Schlagwort “{{ tag }}”
+permalink: /tags/{{ tag }}/
+layout: layouts/post.njk
+---
+
+{% block main %}
+
+<ol>
+{% set taglist = collections[ tag ] %}
+{% for post in taglist | reverse %}
+  <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
+{% endfor %}
+</ol>
+
+<p>Alle <a href="{{ '/tags/' | url }}">Schlagwörter</a> auflisten.</p>
+
+{% endblock %}
