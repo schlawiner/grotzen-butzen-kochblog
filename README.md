@@ -31,7 +31,7 @@ TODO:
     - add configs for both (copied them over from another 11ty site I already have)
     - create an assets folder for css files in `src` and put a main.css inside. Don't forget to link the generated main.css in the base template.
     - Test Tailwind utilities in base.njk template. Works and auto-updates, too! Yay!
-- [ ] Make a nice basic layout template for each recipe page
+- [x] Make a nice basic layout template for each recipe page
 - [ ] Add or update all the recipe taxonoym tags 
 - [ ] Think about navigation concept (again with the tags), create index page layout
 - [ ] Add Alpine for reactivity
