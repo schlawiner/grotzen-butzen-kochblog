@@ -7,6 +7,7 @@ tags:
 - Auberginen
 - Dipp
 - Pommes
+- Semmelbrösel
 ---
 
 ![Auberginenfritten](images/imgp8776.jpg)

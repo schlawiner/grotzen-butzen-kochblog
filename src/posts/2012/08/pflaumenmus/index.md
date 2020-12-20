@@ -6,7 +6,7 @@ tags:
 - Rezept
 ---
 
-[![](images/igp9448.jpg "Pflaumenmus")](http://apfeleimer.wordpress.com/2012/08/22/pflaumenmus/_igp9448/)
+![Pflaumenmus](images/igp9448.jpg)
 
 Am Wochenende habe ich erste Pflaumen geerntet und gleich Pflaumenmus daraus gekocht. Die eigentlichen länglichen Pflaumen haben für eine vernünftige Menge Mus nicht genug hergegeben, daher habe ich noch "Saupflaumen" dazugenommen, eine kleine runde Sorte, die gerade richtig reif und süß ist. Leider löst sich bei denen das Fruchtfleisch sehr schwer vom Kern, vielleicht wurden sie deswegen früher lieber den Schweinen gegeben; das Entkernen von Hand war ziemlich mühsam.
 

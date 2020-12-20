@@ -26,7 +26,7 @@ für 4 Portionen und 500g Nudeln
 - 2-3 EL **Öl**
 - 1 Tube **Tomatenmark**
 - 1 **Zwiebel**, sehr fein gehackt
-- 1 EL [Gemüsebrühpaste](http://apfeleimer.wordpress.com/2012/10/14/gemusebruhe-paste-eingemachtes-suppengewurz-und-inoffizieller-dreckwegtag/ "Gemüsebrühe-Paste / eingemachtes Suppengewürz und inoffizieller Dreckwegtag")
+- 1 EL [Gemüsebrühpaste](/posts/2012/10/gemusebruhe-paste-eingemachtes-suppengewurz-und-inoffizieller-dreckwegtag/)
 - 500 ml **Wasser** 
 - (oder statt Paste und Wasser 500 ml Gemüsebrühe)
 - 1 EL **Zucker**

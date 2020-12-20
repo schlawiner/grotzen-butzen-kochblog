@@ -6,17 +6,17 @@ tags:
 - Rezept
 ---
 
-[![](images/roestmandeln.jpg "roestmandeln")](http://apfeleimer.wordpress.com/2012/08/08/mikrowellengerostete-salzmandeln/roestmandeln/)
+![roestmandeln](images/roestmandeln.jpg)
 
 Bei den Discountern gibt es ja immer mal wieder die ethnischen Wochen, und immer wieder sehe ich dort verführerische **geröstete Snackmandeln in Dosen mit unterschiedlichen Gewürzen**. Mal sind sie griechisch, mal spanisch, mal amerikanisch. Klingt lecker, ist aber immer auch locker mal doppelt so teuer wie die normalen Mandeln im Beutel zum Backen im Nachbarregal. Als Beinahe-Schwäbin mache ich bei diesem Wucherspiel natürlich nicht mit. Selbermachen ist angesagt – aus den besagten **Mandeln aus dem Backsortiment** natürlich! Weil ich zu faul zum Spülen von Pfannen bin, mache ich das ganze **nicht auf dem Herd**, was sicherlich auch ginge, sondern schon jahrelang in einer Schüssel in der Mikrowelle. Aus der kann man die Mandeln dann gleich essen. Yeah!
 
-Diese gerösteten Mandeln passen übrigens hervorragend auch als Zutat in anderen Gerichten, zum Beispiel zu **Brokkoli** (besonders gut im [Brokkolisalat](http://apfeleimer.wordpress.com/2012/05/06/brokkoli-nudelsalat/ "Brokkoli-Nudelsalat")) oder vielleicht auch Lauch. Wir haben damit letztens einen faden Lauchsalat gerade noch so gerettet.
+Diese gerösteten Mandeln passen übrigens hervorragend auch als Zutat in anderen Gerichten, zum Beispiel zu **Brokkoli** (besonders gut im [Brokkolisalat](/posts/2012/05/brokkoli-nudelsalat/)) oder vielleicht auch Lauch. Wir haben damit letztens einen faden Lauchsalat gerade noch so gerettet.
 
 ## Zutaten
 
 für 2 Naschende
 
-[![](http://apfeleimer.files.wordpress.com/2012/08/igp9306.jpg?w=300 "Rohe Mandeln")](http://apfeleimer.wordpress.com/2012/08/08/mikrowellengerostete-salzmandeln/mandeln/)
+![Rohe Mandeln](images/igp9306.jpg)
 
 - 100g Mandeln (das ist eine halbe Tüte Mandeln, man kann natürlich auch verdoppeln, braucht dann aber eine größere Schüssel, mehr Mitesser und sicher auch mehr Zeit in der Mikrowelle)
 - 1/4 bis 1/2 TL Salz (oder, auch delikat: Rauchsalz – für Röstmandeln mit Räuchergeschmack)

@@ -14,7 +14,7 @@ Es ist nämlich ein schöner humanistischer Feiertag, endlich mal ohne Religions
 
 Deshalb ist sicher auch heute **Welthumanistentag**. Humanismus als wissenschaftliche und trotzdem ethische Weltanschauung (die auch für Trennung von Staat und Kirchen eintritt) finde ich eine ausgezeichnete Sache. Mehr Infos zum [Welthumanistentag hier beim humanistischen Pressedienst](http://hpd.de/node/13603 "Stimmen zum Humanistentag beim hum. Pressedienst") - und zum [Humanismus selbst hier auf Englisch](http://www.simpleguidetohumanism.org.uk/ "Simple Guide to Humanism – schöne Seite mit Videeeeeoos!"). Wikipedia hat sicher auch was dazu, aber das findet jeder selbst, oder?
 
-[![](images/imgp9201.jpg "Suppenthermobehälter")](http://apfeleimer.wordpress.com/2012/06/21/picknick-zu-mittsommer-und-welthumanistentag/imgp9201/)
+![Suppenthermobehälter](images/imgp9201.jpg)
 
 Wir jedenfalls feiern das heute – zum ersten Mal -, und zwar mit einem **abendlichen Picknick**, um die lange Helligkeit auszunutzen. Das Picknick ist einer der [Vorschläge](http://www.iheu.org/ways-celebrate-world-humanist-day) von der internationalen humanistischen ethischen Vereinigung (IHEU), wie man den Tag feiern kann. Es gibt eine vegetarische Gemüsesuppe mit Hülsenfrüchten, Pilzen und Nudeln, die ich in meiner **Kochkiste** (aka dem Schrank mit den Gästekissen- und bettdecken) gegart habe und in unseren **Thermossuppenbehältern** mitnehmen werden. Die wollte ich schon lange mal wieder benutzen. Meiner ist der orangene und ruft Kindheitserinnerungen hervor: damit haben wir früher Eis für alle aus der Eisdiele nach Hause transportiert. Dazu vielleicht Holunderlimonade aus Sirup?
 

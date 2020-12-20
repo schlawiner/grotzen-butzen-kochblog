@@ -8,7 +8,7 @@ tags:
 - Suppe
 ---
 
-[![](images/imgp8884.jpg "Spargelschalensuppe")](http://apfeleimer.wordpress.com/2012/05/03/spargelschalensuppe/spargelschalensuppe/)
+![Spargelschalensuppe](images/imgp8884.jpg)
 
 Dieses Rezept für Spargelsuppe aus Schalen ist fast schon lachhaft simpel im Vergleich zu normalen Spargelsuppenrezepten, selbst solche aus Schalen. Ich weiß gar nicht mehr genau, ob ich die Idee mit dem Kartoffelbrei irgendwo geklaut habe oder ob es meine war, ich mache die schon seit Jahren so.
 

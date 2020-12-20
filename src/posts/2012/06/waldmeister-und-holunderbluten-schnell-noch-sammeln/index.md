@@ -8,7 +8,7 @@ tags:
 
 Wer dieses Jahr noch Waldmeistersirup machen möchte, sollte noch schnell welchen sammeln. Ich habe meinen allerdings schon vor ein paar Wochen im Supermarkt im Blumentopf gekauft; aber ob es den da noch gibt?
 
-[![](images/tempimage.jpg "Waldmeistersirup")](http://apfeleimer.wordpress.com/2012/06/16/waldmeister-und-holunderbluten-schnell-noch-sammeln/camera-360/)
+![Waldmeistersirup](images/tempimage.jpg)
 
 Ich habe meinen Waldmeistersirup jedenfalls heute erfolgreich abgefüllt, das Rezept kommt also in Kürze (wollte noch abwarten, bis er auch gut geworden ist). Holunderblütengeleerezept habe ich auch nicht vergessen, auch wenn das für einige schon etwas spät kommt, weil schon verblüht.
 

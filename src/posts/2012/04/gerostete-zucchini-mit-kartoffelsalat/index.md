@@ -9,7 +9,7 @@ tags:
 - Salate
 ---
 
-[![](images/imgp8778.jpg "Zucchini und Kartoffelsalat")](http://apfeleimer.wordpress.com/2012/04/15/gerostete-zucchini-mit-kartoffelsalat/imgp8778/)
+![Zucchini und Kartoffelsalat](images/imgp8778.jpg)
 
 Die Zucchini sind einfach geviertelt und mit Zwiebeln, Knoblauch und Salz – und natürlich Öl – im Backofen geröstet, wie [hier bei Veggie Venture](kitchen-parade-veggieventure.blogspot.de/2011/07/easy-easy-roasted-zucchini.html).
 

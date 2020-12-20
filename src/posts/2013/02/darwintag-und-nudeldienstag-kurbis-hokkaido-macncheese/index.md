@@ -4,6 +4,9 @@ date: "2013-02-12"
 author: Tina
 tags:
 - Rezept
+- Nudeln
+- Käse
+- Kürbis
 ---
 
 ![Makkaroni mit Käse und Hokkaidokürbis](images/makkaroni-mit-kc3a4se-und-hokkaidokc3bcrbis.jpg)
@@ -30,7 +33,7 @@ Und jetzt zum Rezept!
 
 für 5-6 Portionen
 
-- ca. 1 kg **Hokkaido**\-Kürbis
+- ca. 1 kg **Hokkaido**-Kürbis
 - 2 El **Öl** (ich nehme Sonnenblumenöl, aber andere empfehlen auch Olivenöl)
 - 500 g **Nudeln**: Makkaroni, Gabelspaghetti, oder "Gemelli" (die nehme ich gerne, weil es sie bei Rewe und Hit auch von ja! in rotpreisig gibt – es sind kurze, sehr dünne Spiralen) **Soße: (eigentlich eine Käse-Bechamel)**
 - 2 EL **Öl** + 1 TL **Butter**

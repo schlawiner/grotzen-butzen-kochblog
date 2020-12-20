@@ -4,9 +4,12 @@ date: "2012-07-18"
 author: Tina
 tags:
 - Rezept
+- Kohlrabi
+- Suppe
+- Kartoffeln
 ---
 
-[![](images/imgp9102.jpg "Kohlrabisuppe")](http://apfeleimer.wordpress.com/2012/07/18/gerostete-kohlrabi-sesam-suppe-mit-kartoffeln/kohlrabisuppe/)
+![Kohlrabisuppe](images/imgp9102.jpg)
 
 Die Kohlrabi für diese Suppe sind vorher in der Pfanne braun geröstet. Wegen der Röststoffe, ist klar.
 
@@ -27,4 +30,4 @@ Die Kohlrabi für diese Suppe sind vorher in der Pfanne braun geröstet. Wegen d
 2. **Kartoffeln** und gebratene **Kohlrabistücke** im Wasser (oder der Brühe) garen, ca. 20 Minuten wird das wohl dauern.
 3. Nach 10 Minuten **Knoblauch und Sesam** dazugeben.
 4. Wenn alle Gemüse gar sind, mit dem Pürierstab alles fein pürieren und mit Salz, Pfeffer, eventuell Essig (Balsamico) **nachwürzen** und wenn man mag, noch **Käse** drin schmelzen lassen. Ich habe von den gebratenen Kohlrabistücken noch ein paar aus dem Topf genommen, um sie dann später als Deko auf den Suppenteller zu drapieren.
-5. Als Garnitur schmeckt **Petersilie** gut zu Kohlrabi, sagt meine "Flavor Bible" (aus der ich auch den Tipp mit Kohlrabi und Sesam habe; der hat mich überzeugt, weil ich schon wusste, wie gut Sesam in der Panade der [Kohlrabifritten](http://apfeleimer.wordpress.com/2012/04/26/kohlrabifritten/ "Neu: Jetzt mit Rezept – Kohlrabifritten") passte).
+5. Als Garnitur schmeckt **Petersilie** gut zu Kohlrabi, sagt meine "Flavor Bible" (aus der ich auch den Tipp mit Kohlrabi und Sesam habe; der hat mich überzeugt, weil ich schon wusste, wie gut Sesam in der Panade der [Kohlrabifritten](/posts/2012/04/kohlrabifritten/) passte).

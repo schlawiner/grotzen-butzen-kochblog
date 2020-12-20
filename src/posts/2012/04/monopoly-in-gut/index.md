@@ -6,7 +6,7 @@ tags:
 - Spielen
 ---
 
-[![](images/imgp8856.jpg "Monopoly Deal")](http://apfeleimer.wordpress.com/2012/04/24/monopoly-in-gut/imgp8856/)
+![Monopoly Deal](images/imgp8856.jpg)
 
 Kürzlich habe ich wegen der sehr guten Kritiken ein neues kleines Kartenspiel erstanden: [Monopoly Deal](http://boardgamegeek.com/boardgame/40398/monopoly-deal-card-game); heute abend haben wir es ausprobiert – es ist ziemlich gut und viel besser als das "echte" Monopoly! 
 

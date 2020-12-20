@@ -9,6 +9,8 @@ tags:
 - Wirsing
 - Walnuss
 - Pesto
+- Feta
+- Käse
 ---
 
 ![Wirsingnudeln-Walnusspesto](images/wirsingnudeln-walnusspesto.jpg)

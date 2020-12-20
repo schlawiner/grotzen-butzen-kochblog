@@ -4,9 +4,10 @@ date: "2012-06-07"
 author: holehan
 tags:
 - Rezept
+- Eis
 ---
 
-[![](images/imgp8944.jpg "Vanilleeis selbstgemacht")](http://apfeleimer.wordpress.com/2012/06/07/eis-machen/vanilleeis-selbstgemacht/)
+![Vanilleeis selbstgemacht](images/imgp8944.jpg)
 
 Eis stand schon länger auf meiner Selbermach-Agenda. Der Hauptgrund dafür sind die merkwürdigen Inhaltsstoffe bei den meisten gekauften Speiseeisen. Sahne, Ei oder echte Vanille finden sich darin kaum, Emulgatoren, gehärtetes Pflanzenfett und Aroma dafür umso mehr. Mit einer Eis-Maschine (kostet rund 20 EUR beim Discounter) geht Eis-Machen überraschend einfach. Hier mein Rezept für rund 500ml klassisches Vanilleeis:
 
@@ -34,4 +35,4 @@ Durch leichte Abänderungen am Rezept gab's bei uns schon Erdnussbuttereis (100g
 
 Aber Vorsicht! Einmal Eis selbst gemacht, gibt es keinen Weg zurück zum Eis aus dem Supermarkt oder der Eisdiele. **Beat this, Ital. Eis!!!**
 
-[![](images/imgp8948.jpg "Vanilleeis mit Rhabarberkompott")](http://apfeleimer.wordpress.com/2012/06/07/eis-machen/vanilleeis-mit-rhabarberkompott/)
+![Vanilleeis mit Rhabarberkompott](images/imgp8948.jpg)

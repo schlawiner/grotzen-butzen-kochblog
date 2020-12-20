@@ -8,7 +8,7 @@ tags:
 - Mayonnaise
 ---
 
-[![](images/spargel_bratkc3a4se.jpg "spargel_bratkäse")](http://apfeleimer.wordpress.com/2012/04/30/spargel-mit-fruhlingszwiebelmayo-kartoffeln-grillkase/spargel_bratkase/)
+![spargel_bratkäse](images/spargel_bratkc3a4se.jpg)
 
 Das Rezept ist ganz knapp, weil einfach:
 
@@ -26,4 +26,4 @@ Bei uns gab es Kartoffeln und gebratenen Grillkäse dazu.
 
 Jetzt mal etwas ganz anderes: Kürzlich fand ich in meinm Balkonkasten diese beiden eng umschlungenen Mangoldpflänzchen. Ob die kuscheln, oder ist die eine in Wirklichkeit ein Meuchelmördermangold, der dem anderen die Schlinge um den Hals zieht?
 
-[![](images/meuchelmangold.jpg "meuchelmangold")](http://apfeleimer.wordpress.com/2012/04/30/spargel-mit-fruhlingszwiebelmayo-kartoffeln-grillkase/meuchelmangold/)
+![meuchelmangold](images/meuchelmangold.jpg)

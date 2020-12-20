@@ -8,7 +8,7 @@ tags:
 - Auberginen
 ---
 
-## [![](images/imgp8941.jpg "IMGP8941")](http://apfeleimer.wordpress.com/2012/05/08/pfannen-fladenbrot-und-marokkanisch-inspirierte-auberginen-mit-kichererbsen/imgp8941/)
+![IMGP8941](images/imgp8941.jpg)
 
 Das war lecker, besonders der Zimt ist mal was anderes zu Auberginen; sonst machen wir die eher italienisch oder in Ratatouille. Das Rezept hab ich mir [im Internet abgeschaut](http://www.food.com/recipe/moroccan-chickpea-and-eggplant-aubergine-stew-123769), und natürlich wie immer ein paar Änderungen gemacht.
 
@@ -16,7 +16,7 @@ Das war lecker, besonders der Zimt ist mal was anderes zu Auberginen; sonst mach
 
 Das Fladenbrotrezept hab ich auf morgen verlegt, zwei Rezepte in einem Posting sind einfach zuviel.
 
-Edit: [Das Rezept für das marokkanische (und auch ein ethnisch neutrales) Fladenbrot ist inzwischen online.](http://apfeleimer.wordpress.com/2012/05/13/fladenbrote-und-nilganskuken/ "Fladenbrote und Nilgansküken")
+Edit: [Das Rezept für das marokkanische (und auch ein ethnisch neutrales) Fladenbrot ist inzwischen online.](/posts/2012/05/fladenbrote-und-nilganskuken/)
 
 ## Zutaten
 

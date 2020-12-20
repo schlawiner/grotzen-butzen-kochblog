@@ -4,17 +4,17 @@ date: "2012-06-05"
 author: Tina
 tags:
 - Rezept
+- Kohlrabi
+- Nudeln
 ---
 
-[![](images/imgp8984.jpg "Kohlrabiblattlasagne mit frischen Tomaten")](http://apfeleimer.wordpress.com/2012/06/05/resterampe-kohlrabiblattspinat-lasagne-mit-rohen-tomaten/imgp8984/)
+![Kohlrabiblattlasagne mit frischen Tomaten](images/imgp8984.jpg)
 
 Oh je, diese Lasagne ist schon ein Weilchen her, hoffentlich bekomme ich das Rezept aus dem Gedächtnis noch richtig zusammen. Aber die verwendeten Kohlrabiblätter statt Spinat passen je gerade ganz gut in die Resterampe-Serie mit grünem Blattgemüse, das gerne auf den Kompost geworfen wird.
 
  Im Gegensatz zu sonst haben wir diese Lasagne mal mit rohen Tomaten statt mit einer gek0chten Tomatensoße oder Bolognesesoße gemacht. War sehr erfrischend, aber auch etwas fester als gewohnt (die Tomaten hatten noch Biss).
 
 ## Zutaten
-
- 
 
 Für die **Bechamelsoße**:
 
@@ -32,8 +32,6 @@ für den **Rest der Lasagne**:
 - genügend geriebenen **Käse** zum drüberstreuen über jede Schicht und auch noch am Ende über alles
 
 ## Zubereitung
-
- 
 
 **Bechamelsoße:** 
 

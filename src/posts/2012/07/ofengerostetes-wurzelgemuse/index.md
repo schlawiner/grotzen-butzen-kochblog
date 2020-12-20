@@ -4,9 +4,18 @@ date: "2012-07-27"
 author: Tina
 tags:
 - Rezept
+- Rote Bete
+- Pastinaken
+- Möhren
+- Karotten
+- Fenchel
+- Kohlrabi
+- Süßkartoffeln
+- Kartoffeln
+- Feta
 ---
 
-[![](images/wurzelgemuese.jpg "wurzelgemuese")](http://apfeleimer.wordpress.com/2012/07/27/ofengerostetes-wurzelgemuse/wurzelgemuese/)
+![wurzelgemuese](images/wurzelgemuese.jpg)
 
 Dieses Rezept ist eins unserer **Dauerbrenner**, weil man wirklich fast alles reintun kann, was man so da hat an Wurzelgemüse. Außerdem ist es durch die besondere, erfrischend süßsäuerliche, **Marinade** überraschend anders als andere Rezepte für Grillgemüse. Auf dem Bild haben wir es mit Fenchel, roter Bete, Möhren und Pastinaken gemacht - plus **Kartoffeln**, die sind immer dabei.
 

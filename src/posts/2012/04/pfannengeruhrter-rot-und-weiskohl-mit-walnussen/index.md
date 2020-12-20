@@ -8,6 +8,8 @@ tags:
 - Walnuss
 - Tofu
 - Lauch
+- Weißkohl
+- Rotkohl
 ---
 
 Unsere drei Leser [haben entschieden](/posts/2012/03/wie-sieht-es-eigentlich-mit-rezepten-aus/) und deshalb folgt heute das erste Rezept!

@@ -26,7 +26,7 @@ für etwa 6 Portionen; etwas Zeit kostet das: 2,5 Stunden etwa, dafür muss man 
 - 1 TL Instant-**Gemüsebrühpulver** oder 1 EL selbstgemachte **Gemüsebrühpaste**
 - 1 Liter **Wasser**
 - 1 TL **Paprikapulver** edelsüß
-- 1 Prise Chilipulver oder Cayennepfeffer oder rosenscharfer Paprika oder [scharfe Soße](http://apfeleimer.wordpress.com/2012/06/27/2-miniprojekte-eistee-mit-sirup-und-scharfe-sose/ "2 Miniprojekte: Eistee mit Sirup und scharfe Soße")
+- 1 Prise Chilipulver oder Cayennepfeffer oder rosenscharfer Paprika oder [scharfe Soße](/posts/2012/06/2-miniprojekte-eistee-mit-sirup-und-scharfe-sose/)
 - 1 EL **Kümmel** oder **Kreuzkümmel** (gemahlen; ich nehme eine Mischung aus beiden Kümmelarten)
 - 1 Prise **Zimt**
 - **Salz**
@@ -53,7 +53,7 @@ Nach dem Durchziehen richtig ordentlich **Sonnenblumenöl** (3 Esslöffel oder n
 
 4. Würzen und 1 Stunde köcheln:
 
-Jetzt etwa einen halben Liter **Wasser** in den Topf aufgießen, den **Kümmel** und 1 EL **Gemüsebrühpaste** (selbstgemacht) oder 1 TL Instant-Gemüsebrühpulver, 1 TL **Paprika edelsüß**, eine Prise Paprika rosenscharf oder entsprechende Menge [selbstgemachte scharfe Soße](http://apfeleimer.wordpress.com/2012/06/27/2-miniprojekte-eistee-mit-sirup-und-scharfe-sose/ "2 Miniprojekte: Eistee mit Sirup und scharfe Soße") und eine Prise **Zimt** zugeben, gut umrühren und bei geringer Hitze mindestens eine Stunde weiterkochen lassen. Wenn das **Wasser** verkocht, immer wieder ein bisschen **nachgießen** (insgesamt muss wohl noch ein halber Liter Wasser nach und nach dazu), damit die Soße sämig bleibt und nicht zu trocken wird. Ich habe an dieser Stelle nochmal mit **Zucker** nachgewürzt, aber das muss man selber probieren.
+Jetzt etwa einen halben Liter **Wasser** in den Topf aufgießen, den **Kümmel** und 1 EL **Gemüsebrühpaste** (selbstgemacht) oder 1 TL Instant-Gemüsebrühpulver, 1 TL **Paprika edelsüß**, eine Prise Paprika rosenscharf oder entsprechende Menge [selbstgemachte scharfe Soße](/posts/2012/06/2-miniprojekte-eistee-mit-sirup-und-scharfe-sose/) und eine Prise **Zimt** zugeben, gut umrühren und bei geringer Hitze mindestens eine Stunde weiterkochen lassen. Wenn das **Wasser** verkocht, immer wieder ein bisschen **nachgießen** (insgesamt muss wohl noch ein halber Liter Wasser nach und nach dazu), damit die Soße sämig bleibt und nicht zu trocken wird. Ich habe an dieser Stelle nochmal mit **Zucker** nachgewürzt, aber das muss man selber probieren.
 
 ![Köchelnder Gulasch](images/imgp9244.jpg)
 

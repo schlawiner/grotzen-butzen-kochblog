@@ -4,15 +4,16 @@ date: "2012-06-04"
 author: Tina
 tags:
 - Rezept
+- Pesto
+- Basilikum
+- Käse
 ---
 
-[![](images/imgp9085.jpg "Spargel mit Pesto")](http://apfeleimer.wordpress.com/2012/06/04/basilikumpesto-mit-brauner-butter-zu-spargel/imgp9085/)
+![Spargel mit Pesto](images/imgp9085.jpg)
 
 Das geschenkte **Basilikum** vom Wochenende wollte aufgebraucht werden, daher habe ich mir überlegt, statt wie geplant brauner Butter eben ein Pesto mit Basilikum und Sonnenblumenkernen zum Spargel zu machen. Aber ich war neugierig, ob die **braune Butter** nicht auch zum Pesto schmecken würde, statt Olivenöl. Und siehe da, es war ausgezeichnet, und ein bisschen was besonderes im Vergleich zu "normalem" Pesto.
 
 ## Zutaten
-
- 
 
 für 4 Portionen Pesto
 
@@ -29,8 +30,8 @@ für 4 Portionen Pesto
 2. **Butter** in der Pfanne braun braten lassen, dann etwas **Olivenöl** dazugeben, damit die Butter abkühlt, aber noch flüssig bleibt.
 3. Jetzt die etwas **abgekühlte Butter-Olivenölmischung** in das Basilikum-Käse-Sonnenblumenkern-Püree rühren. Ich mache das lieber kalt, weil ich glaube, dass das Basilikum gegart nicht so gut schmeckt wie frisch – damit ich die Butter aber noch in das Püree giessen kann und nicht hart wird wie Butter es so an sich hat beim Abkühlen, habe ich deshalb auch das Olivenöl zur Butter dazugegeben. Man könnte aber vielleicht auch die abgekühlte, festgewordene braune Butter mit dem Pürierstab einarbeiten.
 
-Aus den Spargelschalen und -enden haben wir natürlich am nächsten Tag noch eine [Spargelsuppe](http://apfeleimer.wordpress.com/2012/05/03/spargelschalensuppe/) wie neulich auch schon gemacht. Und von den Salzkartoffeln haben wir gleich noch ein paar mehr gemacht, die sind schon fest für Bratkartoffeln eingeplant.
+Aus den Spargelschalen und -enden haben wir natürlich am nächsten Tag noch eine [Spargelsuppe](/posts/2012/05/spargelschalensuppe/) wie neulich auch schon gemacht. Und von den Salzkartoffeln haben wir gleich noch ein paar mehr gemacht, die sind schon fest für Bratkartoffeln eingeplant.
 
-[![](images/imgp9084.jpg "Spargel mit Braune-Butter-Pesto")](http://apfeleimer.wordpress.com/2012/06/04/basilikumpesto-mit-brauner-butter-zu-spargel/spargel-mit-braune-butter-pesto/)
+![Spargel mit Braune-Butter-Pesto](images/imgp9084.jpg)
 
 Das abgebildete alkoholfreie Hefeweizen ist übrigens "das beste wo gibt" und sehr zu empfehlen!

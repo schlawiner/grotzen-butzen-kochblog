@@ -4,6 +4,11 @@ date: "2013-03-23"
 author: Tina
 tags:
 - Rezept
+- Ei
+- Reis
+- Nudeln
+- Kartoffeln
+- Käse
 ---
 
 ![Fritata mit Reis vom Vortag, grünen Bohnen, Mangold](images/fritata.jpg) 

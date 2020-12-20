@@ -14,7 +14,7 @@ Fenchel gibt es ja öfter mal – beim einen in der Gemüsekiste, beim anderen i
 
 Aber seitdem der Apfel zu Weihnachten Yotam Ottolenghis vegetarisches Kochbuch _"Genussvoll vegetarisch"_ bekommen hat, ist das bei uns zumindest anders, und heute lasse ich endlich auch mal meine Leser daran teilhaben: das Geheimnis ist der karamellisierte Fenchel mit Feta-Quark!
 
-Obwohl Yotam (ich nenne ihn schon beim Vornamen, so lieb sind mir [seine Ideen](http://apfeleimer.wordpress.com/2013/07/18/shakshuka/ "Shakshuka") geworden) normalerweise abgefahrene Zutaten meidet, verlangt er in diesem Rezept einen Ziegenquark als Beilage. Gibt es bei uns noch nichtmal im Hitmarkt, und das ist so das exotischste, was es hier in 3 Kilometer-Umkreis gibt. Ok, stattdessen bietet er noch Ziegenfrischkäse als Alternative an. Der wiederum enthält überraschend oft Gelatine, das kommt für uns also nicht in Frage.  
+Obwohl Yotam (ich nenne ihn schon beim Vornamen, so lieb sind mir [seine Ideen](/posts/2013/07/shakshuka/) geworden) normalerweise abgefahrene Zutaten meidet, verlangt er in diesem Rezept einen Ziegenquark als Beilage. Gibt es bei uns noch nichtmal im Hitmarkt, und das ist so das exotischste, was es hier in 3 Kilometer-Umkreis gibt. Ok, stattdessen bietet er noch Ziegenfrischkäse als Alternative an. Der wiederum enthält überraschend oft Gelatine, das kommt für uns also nicht in Frage.  
 
 Also musste ich mir mal wieder meine eigenen Gedanken machen, aber das mache ich ja eigentlich auch ganz gern. Heraus kam meine einzigartige **Feta-Quark-Creme**, aus – genau – einem Teil Fetakäse und ein bis zwei Teilen ganz gewöhnlichem Quark. Schmeckt super, wenn auch sicher ganz anders als Ziegenquark.
 

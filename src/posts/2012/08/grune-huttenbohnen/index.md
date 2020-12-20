@@ -4,6 +4,9 @@ date: "2012-08-20"
 author: Tina
 tags:
 - Rezept
+- Bohnen
+- Ei
+- Semmelbrösel
 ---
 
 ![](images/huettenbohnen.jpg "huettenbohnen")

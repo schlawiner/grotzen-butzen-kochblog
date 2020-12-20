@@ -6,11 +6,11 @@ tags:
 - Rezept
 ---
 
-[![](images/mc3b6hrensalatbrot.jpg "möhrensalatbrot")](http://apfeleimer.wordpress.com/2012/06/26/mohrensalat-mit-vogelmiere-und-milch-nix-verkomme-lasse-tipp/mohrensalatbrot/)
+![möhrensalatbrot](images/mc3b6hrensalatbrot.jpg)
 
 Auf diesem Brot ist ein leckerer **Möhrensalat** (grobes **Rezept** folgt ganz unten) mit meiner neuesten Wildkräuterentdeckung: **Vogelmiere**. Ist einfach neben dem Mangold in meinem Balkonkasten aufgegangen. Die meisten Gartenbesitzer betrachten die Vogelmiere wohl als Unkraut, weil sie so stark wuchert und richtige Teppiche bildet. Aber sie ist sehr vitaminreich, grünt praktischerweise das ganze Jahr und schmeckt auch nicht schlecht. Also wieso nicht mal kulinarische **Unkrautbekämpfung**.
 
-[![](images/vogelmiere.jpg "Vogelmiere")](http://apfeleimer.wordpress.com/2012/06/26/mohrensalat-mit-vogelmiere-und-milch-nix-verkomme-lasse-tipp/vogelmiere/)
+![Vogelmiere](images/vogelmiere.jpg)
 
 Ich war erst nicht sicher, was ich da vor mir habe, aber insgeheim habe ich schon auf etwas essbares gehofft, ich liebe ja essbare Überraschungen. Nach einem Blick in ein Pflanzenidentifikationsbuch war die Vogelmiere in der engeren Auswahl, aber erst eine super bebilderte Beschreibung ihrerer "Alleinstellungsmerkmale" (zB die einzelne **Reihe Härchen am Stiel**, die Feuchtigkeit aus der Luft aufnehmen können und der "**Hühnerdarm**", der stehenbleibt, wenn man die Stängel abreißt) auf dem [Blog "Rapunzelgarten"](http://rapunzelgarten.wordpress.com/2010/11/13/wildkrauter-der-kalten-jahreszeit-vogelmiere-stellaria-media/) hat mich überzeugt. Die Miere schmeckt leicht nach Mais. 
 
@@ -20,7 +20,7 @@ Wer zuviel Milch gekauft hat und diese auch noch im Tetrapack ist, kann versuche
 
 Unten sieht man unsere gefrorende Rotpreismilch; wenn es diese Milch mit Rotpreis gibt, kaufen wir immer gleich mehrere und frieren die ein, bevor sie alle ablaufen.
 
-[![](images/rotpreismilch_gefroren.jpg "rotpreismilch_gefroren")](http://apfeleimer.wordpress.com/2012/06/26/mohrensalat-mit-vogelmiere-und-milch-nix-verkomme-lasse-tipp/rotpreismilch_gefroren/)
+![rotpreismilch_gefroren](images/rotpreismilch_gefroren.jpg)
 
 **Rezept für den Möhrensalat:**
 

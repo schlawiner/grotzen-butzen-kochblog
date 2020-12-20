@@ -4,8 +4,10 @@ date: "2012-07-30"
 author: Tina
 tags:
 - Rezept
+- Pizza
+- Ananas
 ---
 
-[![](images/igp9408.jpg "Pizza Hawaii")](http://apfeleimer.wordpress.com/2012/07/30/pizza-hawaii/_igp9408/)
+![Pizza Hawaii](images/igp9408.jpg)
 
 Eine Tiefkühl-Pizza Margherita, belegt mit vegetarischem Aufschnitt und Ananasstücken.

@@ -6,7 +6,7 @@ tags:
 - Rezept
 ---
 
-[![](images/imgp9173.jpg "Waldmeistersirup, in etikettierten Flaschen")](http://apfeleimer.wordpress.com/2012/06/20/waldmeistersirup-2/imgp9173/)
+![Waldmeistersirup, in etikettierten Flaschen](images/imgp9173.jpg)
 
 Kürzlich habe ich mich am Waldmeistersirup versucht, als Basis habe ich [dieses Rezept vom Chefkoch](http://www.chefkoch.de/rezepte/56821020523657/Sirup-vom-Waldmeister.html) genommen, aber natürlich wie immer ein wenig geändert; nachdem mindestens einer der Kommentatoren Probleme mit schimmelnden Zitronenscheiben hatte beim mehrtägigen Ziehenlassen des Sirups, habe ich mich entschlossen, lieber auf Nummer sicher zu gehen und stattdessen Industriesch..., äh **Zitronensäure** zu nehmen. Ein weiterer Kommantator hat das auch erfolgreich so gemacht und auch gleich die passende Menge für 3L Wasser (40g) angegeben, die ich dann nur noch auf 2L umrechnen musste.
 
@@ -14,7 +14,7 @@ Man kann im Frühling übrigens auch Waldmeister im **Blumentöpfchen** im Super
 
 Übrigens: wenn man etwas mehr Waldmeister hat, kann man ihn auch **trocknen oder einfrieren** und dann im Sommer, Herbst oder Winter, **wenn einem der Sirup ausgegangen ist, neuen nachkochen**! Ich hab mal welchen eingefroren.
 
-[![So sieht er übrigens aus; Vorbereitung zum Anwelken lassen](images/imgp9159.jpg "Waldmeisterblätter")](http://apfeleimer.wordpress.com/2012/06/20/waldmeistersirup-2/imgp9159/)
+![Waldmeisterblätter](images/imgp9159.jpg)
 
 Wie man vielleicht ganz oben sieht, wird der Sirup gar **nicht grün**. Das gehört so, die Götterspeise ist anscheinend eine riesengroße bunte Kinderlüge (wann vergibt hier Foodwatch mal den goldenen Windbeutel?). Zum Abfüllen empfehle ich deshalb **grüne Glasflaschen** (zum Beispiel vom Zitronensaft), um ein bisschen das grüne Feeling aus dem künstlichen Waldmeistersirup und der Götterspeise aus dem Laden, wie man aus der Kindheit kennt, herüberzuretten, ohne den Sirup mit Lebensmittelfarbe zu verunstalten, wie einige Chefkoch-Nachkocher es gemacht haben. Das ist nicht nur irgendwie komisch, sondern sieht auf den Bildern auch gar nicht schön grün wie das Vorbild, sondern  eher bläulich abstoßend aus, finde ich.
 
@@ -35,4 +35,4 @@ Wie man vielleicht ganz oben sieht, wird der Sirup gar **nicht grün**. Das geh�
 6. Während der Sirup aufkocht, schonmal die **Flaschen vorbereiten**: gründlich mit Spülmittel waschen und dann mit kochendem Wasser füllen (ich benutze Wasserkocher und Trichter, aber vorsichtig!). Deckel nicht vergessen, die übergieße ich auch nochmal mit kochendem Wasser und lasse sie damit gefüllt etwas stehen.
 7. Das heiße Wasser vorsichtig aus den vorbereiteten Flaschen gießen und stattdessen den heißen **Sirup einfüllen**.
 
-[![](images/imgp9166.jpg "Waldmeistersirup, unetikettiert; konnte mich nicht entscheiden, welches Bild mir besser gefällt.")](http://apfeleimer.wordpress.com/2012/06/20/waldmeistersirup-2/imgp9166/)
+![Waldmeistersirup, unetikettiert; konnte mich nicht entscheiden, welches Bild mir besser gefällt.](images/imgp9166.jpg)

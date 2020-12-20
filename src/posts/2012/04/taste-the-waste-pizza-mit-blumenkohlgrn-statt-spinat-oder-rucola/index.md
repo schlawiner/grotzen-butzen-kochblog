@@ -9,7 +9,7 @@ tags:
 - Gurke
 ---
 
-[![IMGP8777](images/imgp8777_thumb.jpg "IMGP8777")](http://apfeleimer.files.wordpress.com/2012/04/imgp8777.jpg)
+![IMGP8777](images/imgp8777_thumb.jpg)
 
 Das ist eine einfache Pizza Margerita vom Discounter, verfeinert mit angedünstetem Grün von Blumenkohlblättern (zusammen mit etwas Knoblauch, Salz, Pfeffer, Zucker, ganz wenig Essig). 
 

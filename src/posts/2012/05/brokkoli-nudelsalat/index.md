@@ -10,7 +10,7 @@ tags:
 - Tofu
 ---
 
-## [![](images/imgp8911.jpg "Brokkoli-Nudelsalat")](http://apfeleimer.wordpress.com/2012/05/06/brokkoli-nudelsalat/brokkoli-nudelsalat/)
+![Brokkoli-Nudelsalat](images/imgp8911.jpg)
 
 **Edit:** Haben den Salat inzwischen auch mit gerösteten Mandeln statt Sonnenblumenkernen gemacht. Auch den Räuchertofu haben wir schon mit vegetarischen Würstchen ersetzt und die Nudeln komplett weggelassen.
 

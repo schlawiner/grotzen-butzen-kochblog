@@ -8,6 +8,8 @@ tags:
 - Fenchel
 - Bolognese
 - Lasagne
+- Käse
+- Feta
 ---
 
 ![fenchellasagne](images/fenchellasagne.jpg)

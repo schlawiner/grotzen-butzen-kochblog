@@ -4,9 +4,14 @@ date: "2012-08-09"
 author: Tina
 tags:
 - Rezept
+- Semmelbrösel
+- Dipp
+- Joghurt
+- Quark
+- Sellerie
 ---
 
-[![](images/moretum_brokkoli.jpg "moretum_brokkoli")](http://apfeleimer.wordpress.com/2012/08/09/gebratener-brokkoli-mit-altromischem-moretum-dipp/moretum_brokkoli/)
+![moretum_brokkoli](images/moretum_brokkoli.jpg)
 
 Was man hier sieht ist einfach scharf angebratener Brokkoli mit gerösteten Semmelbröseln und dazu Knödelscheiben. Der Dipp ist der eigentliche Star.
 
@@ -25,9 +30,7 @@ für 4 Portionen Dipp
 - 1 EL Essig
 - 1 TL Zucker
 - 1 EL Olivenöl
-
  
-
 ## Zubereitung
 
 Alles verrühren. Fertig!

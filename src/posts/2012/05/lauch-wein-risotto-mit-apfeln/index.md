@@ -9,7 +9,7 @@ tags:
 - Apfel
 ---
 
-[![](images/imgp8865.jpg "lauchrisotto")](http://apfeleimer.wordpress.com/2012/05/02/lauch-wein-risotto-mit-apfeln/imgp8865/)
+![lauchrisotto](images/imgp8865.jpg)
 
 Diesmal hat Apfel ganz alleine gekocht – na gut, das **Rezept** habe ich rausgesucht, und zwar hier bei [Die Zeit nach dem Rührei](http://diezeitnachdemruehrei.blogspot.de/2009/11/lauch-champagner-risotto-mit-apfeln.html), übrigens ein ganz ähnliches Blog wie unseres hier, mit interessanten Rezepten. Die Bloggerin ist schon seit drei Jahren unermüdlich dabei, ich hoffe, ich halte auch so lang durch.
 

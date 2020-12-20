@@ -12,7 +12,7 @@ Ein wenig Zeit verging, in der wird das Biereis fast vergessen hatten; aber dann
 
 Das Ergebnis sieht man unten: Bier am Stiel!
 
-[![](images/igp9343.jpg "Bier am Stiel")](http://apfeleimer.wordpress.com/2012/07/19/radler-eis-biersorbet-am-stiel/_igp9343/)
+![Bier am Stiel](images/igp9343.jpg)
 
 Insgesamt gefällt es uns in dieser Form fast besser als in Eiskugeln, denn hier hat man noch den "Schaum" obendrauf/untendran, so dass das Stieleis fast wie ein Glas Bier aussieht; süß.
 

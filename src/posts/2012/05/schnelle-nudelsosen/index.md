@@ -6,9 +6,10 @@ tags:
 - Rezept
 - Nudeln
 - Nudelsoße
+- Käse
 ---
 
-[![](images/imgp9003.jpg "Spaghetti mit Buttergemüse und geriebenem Gouda")](http://apfeleimer.wordpress.com/2012/05/24/schnelle-nudelsosen/spaghetti-mit-buttergema%c2%bcse-und-geriebenem-gouda/)
+![Spaghetti mit Buttergemüse und geriebenem Gouda](images/imgp9003.jpg)
 
 Dienstag ist bei uns Nudeltag; da haben wir nämlich alle zwei Wochen unseren abendlichen Spieletreff und nicht viel Zeit zum Abendessenkochen. Wir haben es uns angewöhnt, auch an den anderen Dienstagabenden Nudeln zu machen, weil es ein schönes "Ritual" ist.
 
@@ -18,4 +19,4 @@ Letzte Woche haben wir frische Zucchini in Stücke geschnitten und leicht angebr
 
  
 
-[![](images/imgp8996.jpg "Spaghetti mit angebratenen Zucchini und Gouda")](http://apfeleimer.wordpress.com/2012/05/24/schnelle-nudelsosen/spaghetti-mit-angebratenen-zucchini-und-gouda/)
+![Spaghetti mit angebratenen Zucchini und Gouda](images/imgp8996.jpg)

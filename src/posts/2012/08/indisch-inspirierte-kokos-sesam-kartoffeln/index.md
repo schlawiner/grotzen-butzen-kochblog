@@ -4,9 +4,12 @@ date: "2012-08-11"
 author: Tina
 tags:
 - Rezept
+- Kartoffeln
+- Sesam
+- Kokos
 ---
 
-[![](images/kokos-sesam-kartoffeln.jpg "Kokos-Sesam-Kartoffeln")](http://apfeleimer.wordpress.com/2012/08/11/indisch-inspirierte-kokos-sesam-kartoffeln/kokos-sesam-kartoffeln/)
+![Kokos-Sesam-Kartoffeln](images/kokos-sesam-kartoffeln.jpg)
 
  
 

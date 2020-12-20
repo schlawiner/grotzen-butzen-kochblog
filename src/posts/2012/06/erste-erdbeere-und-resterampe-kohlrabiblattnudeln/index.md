@@ -4,9 +4,11 @@ date: "2012-06-03"
 author: Tina
 tags:
 - Rezept
+- Kohlrabi
+- Nudeln
 ---
 
-[![](images/imgp9049.jpg "Spaghetti mit KohlrabiblÃ¤ttern")](http://apfeleimer.wordpress.com/2012/06/03/erste-erdbeere-und-resterampe-kohlrabiblattnudeln/spaghetti-mit-kohlrabibla%c2%a4ttern/)
+![Spaghetti mit KohlrabiblÃ¤ttern](images/imgp9049.jpg)
 
 Nudeln mit Grünzeug kennt man ja vielleicht mit Spinat, aber ich habe es mal mit Kohlrabiblättern gemacht. Schmeckt ziemlich gut, irgendwie erdig wie rote Bete. Die Blätter an meinen Kohlrabi waren allerdings schon recht groß und brauchten deshalb ziemlich lange, um zu garen. Ansonsten ist noch Knoblauch dran, wie bei Spinatnudeln auch.
 
@@ -26,4 +28,4 @@ Nudeln mit Grünzeug kennt man ja vielleicht mit Spinat, aber ich habe es mal m
 
 Neulich war übrigens meine erste Erdbeere rot. Das nächste mal warte ich aber ein paar Tage nach dem ersten Rotwerden, denn die war zwar rot, aber wohl noch nicht richtig reif und ziemlich säuerlich.
 
-[![](images/imgp9063.jpg "Erdbeere")](http://apfeleimer.wordpress.com/2012/06/03/erste-erdbeere-und-resterampe-kohlrabiblattnudeln/imgp9063/)
+![Erdbeere](images/imgp9063.jpg)

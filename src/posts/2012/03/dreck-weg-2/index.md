@@ -22,6 +22,7 @@ Nachher:
 ![](images/dreck_nachher1.jpg)
 ![](images/dreck_nachher3.jpg)
 
-Ein Schwan hat gesehen, dass wir saubergemacht haben und kam direkt rübergeflogen! Cool, was? [![](images/dreck_nachher4.jpg "dreck_nachher4")](http://apfeleimer.wordpress.com/2012/03/17/dreck-weg-2/dreck_nachher4/)
+Ein Schwan hat gesehen, dass wir saubergemacht haben und kam direkt rübergeflogen! Cool, was? 
+![dreck_nachher4](images/dreck_nachher4.jpg)
 
 [Nachher-Video für die Tele5er](http://db.tt/mfZCchbV)

@@ -6,7 +6,7 @@ tags:
 - Rezept
 ---
 
-[![](images/linsensuppe.jpg "Rote-Linsen-Kartoffelsuppe")](http://apfeleimer.wordpress.com/2012/07/08/nicht-wirklich-marokkanische-rote-linsensuppe-mit-kartoffeln-und-zimt/rote-linsen-kartoffelsuppe/)
+![Rote-Linsen-Kartoffelsuppe](images/linsensuppe.jpg)
 
 Tja, das war eine leckere und relativ schnelle Suppe aus roten Linsen mit Kartoffelwürfeln und für den marokkanischen Touch etwas Zimt; ist schon eine Weile her, aber ich glaube sogar, dass ich das Rezept selbst entwickelt habe, nachdem ich ein bisschen in meinem marokkanischen Kochbuch geblättert habe, was man da so isst und kombiniert. Ich glaube die Kartoffeln sind aber nicht original.
 

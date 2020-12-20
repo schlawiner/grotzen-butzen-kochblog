@@ -6,7 +6,7 @@ tags:
 - Rezept
 ---
 
-[![](images/img_20120616_174918.jpg "Die gute Schokolade")](http://apfeleimer.wordpress.com/2012/06/19/tipp-die-gute-schokolade/img_20120616_174918/)
+![Die gute Schokolade](images/img_20120616_174918.jpg)
 
 [Die gute Schokolade.](http://www.plant-for-the-planet.org/de/node/774 "die gute Schokolade-Homepage")
 

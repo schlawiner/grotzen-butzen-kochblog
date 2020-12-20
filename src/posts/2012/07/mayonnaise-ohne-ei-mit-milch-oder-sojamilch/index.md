@@ -6,9 +6,9 @@ tags:
 - Rezept
 ---
 
-[![](images/mayonnaise.jpg "mayonnaise eifrei")](http://apfeleimer.wordpress.com/2012/07/09/mayonnaise-ohne-ei-mit-milch-oder-sojamilch/mayonnaise/)
+![mayonnaise eifrei](images/mayonnaise.jpg)
 
-Heute habe es bei uns mal wieder [Brokkolisalat](http://apfeleimer.wordpress.com/2012/05/06/brokkoli-nudelsalat/ "Brokkoli-Nudelsalat"), und dazu gehört natürlich auch die Mayo. Die Gelegenheit, endlich mal das Rezept für meine eifreie Mayonnaise zu posten!
+Heute habe es bei uns mal wieder [Brokkolisalat](/posts/2012/05/brokkoli-nudelsalat/ "Brokkoli-Nudelsalat"), und dazu gehört natürlich auch die Mayo. Die Gelegenheit, endlich mal das Rezept für meine eifreie Mayonnaise zu posten!
 
 Das Rezept habe ich ursprünglich mit **Sojamilch** gemacht - so ist es sogar vegan! – und es quasi selber erfunden. Ich hatte mal auf einem Mayonnaiseglas etwas von Erbseneiweiß gelesen und dachte mir, da die Sojamilch ja auch ein Hülsenfrüchteeiweiß ist, probier ich das mal. Hat gut geklappt.
 

@@ -10,13 +10,13 @@ tags:
 
 Auch wenn ich keine echte Schwäbin bin, bin ich doch immer bestrebt, nix verkomme zu lasse. Daher heute eine Biuchstabensuppe mit Blumenkohlgrün, die sogar ziemlich lecker war! Und eisenreich - man soll ja besonders als Vegetarier und erst recht als Frau viele grüne Blattgemüse essen, des Eisens wegen.
 
-[![](images/imgp8849.jpg "Buchstabensuppe mit Blumenkohlgrün")](http://apfeleimer.wordpress.com/2012/04/24/grune-buchstabensuppe/imgp8849/)
+![Buchstabensuppe mit Blumenkohlgrün](images/imgp8849.jpg)
 
 Heute hab ich sogar ein paar in-progress-Bilder – zusammen mit dem Rezept nach dem "Jump" -> Klicken!
 
 ## Zutaten für 2 große Portionen
 
-[![](http://apfeleimer.files.wordpress.com/2012/04/imgp8842.jpg?w=253 "IMGP8842")](http://apfeleimer.wordpress.com/2012/04/24/grune-buchstabensuppe/imgp8842/)
+![IMGP8842](images/imgp8842.jpg)
 
 - das Grüne von den **Blättern** eines Blumenkohls (die Rippen weglassen, die sind doch nicht so lecker, bis auf die ganz feinen hellgrünen)
 - 2 EL **Gemüsebrühpaste** (oder Pulver, dann aber erst später hinzufügen)
@@ -29,11 +29,11 @@ Heute hab ich sogar ein paar in-progress-Bilder – zusammen mit dem Rezept nach
 
 1. **Blätter** in Streifen schneiden.
 
-[![](http://apfeleimer.files.wordpress.com/2012/04/imgp8844.jpg?w=300 "IMGP8844")](http://apfeleimer.wordpress.com/2012/04/24/grune-buchstabensuppe/imgp8844/)
+![IMGP8844](images/imgp8844.jpg)
 
 2. In **Öl** dünsten, bis sie zusammenfallen.
 
-[![](http://apfeleimer.files.wordpress.com/2012/04/imgp8847.jpg?w=300 "IMGP8847")](http://apfeleimer.wordpress.com/2012/04/24/grune-buchstabensuppe/imgp8847/)
+![IMGP8847](images/imgp8847.jpg)
 
 3. **Gemüsebrühpaste**, wenn vorhanden, dazugeben und leicht anbraten. Dann mit 1/2L **Wasser** aufgießen und 5-10 Minuten garen. (Wer Brühpulver benutzt, sollte nach oder vor dem Wasser das Pulver einrühren).
 

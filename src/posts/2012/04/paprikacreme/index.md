@@ -7,9 +7,10 @@ tags:
 - Paprika
 - Nudeln
 - Nudelsoße
+- Feta
 ---
 
-[![mit Nudeln](images/imgp8851.jpg "Paprikacreme")](http://apfeleimer.wordpress.com/2012/04/25/paprikacreme/imgp8851/)
+![Paprikacreme](images/imgp8851.jpg)
 
 Das ist wohl eins der Rezepte, die wir am häufigsten kochen, weil es ist echt lecker ist. Ursprünglich kommt es aus einem Kochbuch (["Vegetarisch: die 165 besten Rezepte, die jeden zum Vegetarier machen"](http://www.amazon.de/Vegetarisch-besten-Rezepte-Vegetarier-Sonderleistung/dp/3833812621/ref=sr_1_1?ie=UTF8&qid=1335378040&sr=8-1)) aber ich habe es im Laufe der Zeit ziemlich abgeändert.
 

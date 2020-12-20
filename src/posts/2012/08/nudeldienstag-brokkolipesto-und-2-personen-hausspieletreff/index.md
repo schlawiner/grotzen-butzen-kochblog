@@ -6,7 +6,7 @@ tags:
 - Rezept
 ---
 
-[![](images/igp9438.jpg "brokkolipesto")](http://apfeleimer.wordpress.com/2012/08/15/nudeldienstag-brokkolipesto-und-2-personen-hausspieletreff/_igp9438/)
+![brokkolipesto](images/igp9438.jpg)
 
 Diesmal zum gestrigen Nudeldienstag musste **Brokkoli** weg. Aber es war doch auch Nudeldienstag? Was tun? Passt ja eigentlich nicht so zusammen. Ich habe schon Brokkoli in Röschen in den Nudeln probiert, und das hat mich nicht umgehauen, ich mag lieber Soße überall, nicht grobe Brocken an einigen Stellen. Da fiel mir ein, dass ich ja vor geraumer Zeit eine Art Brokkolipesto gemacht hatte, das ganz gut war. Damals noch mit Sonnenblumenkernen.
 
@@ -32,6 +32,6 @@ für 4-5 Portionen
 ## Zubereitung
 
 1. **Brokkoli** waschen, Röschen zerteilen, Strunk schälen und in Stücke zerschneiden. Alle Stücke in etwas Wasser 5 Minuten **garen** (der Brokkoli sollte nicht mehr roh, aber noch leuchtend grün sein).
-2. Währenddessen die **Mandeln rösten**, entweder [in der Mikrowelle wie ich es hier schonmal beschrieben habe](http://apfeleimer.wordpress.com/2012/08/08/mikrowellengerostete-salzmandeln/ "Mikrowellengeröstete Salzmandeln") (dann aber ohne Salz und Gewürze) oder einfach mit etwas Öl in Topf oder Pfanne, das habe ich diesmal so gemacht, weil ich für die Nudeln sowieso einen Topf brauchte. Die Mandeln kann man jetzt schnell noch in den Topf mit dem Brokkoli werfen und mitgaren, dann lassen sie sich etwas leichter pürieren.
+2. Währenddessen die **Mandeln rösten**, entweder [in der Mikrowelle wie ich es hier schonmal beschrieben habe](/posts/2012/08/mikrowellengerostete-salzmandeln/) (dann aber ohne Salz und Gewürze) oder einfach mit etwas Öl in Topf oder Pfanne, das habe ich diesmal so gemacht, weil ich für die Nudeln sowieso einen Topf brauchte. Die Mandeln kann man jetzt schnell noch in den Topf mit dem Brokkoli werfen und mitgaren, dann lassen sie sich etwas leichter pürieren.
 3. **Kräuter, Käse, Knoblauch, Mandeln, dann Brokkoli** und etwas vom Brokkolikochwasser (in dieser Reihenfolge) in ein hohes Gefäß (hoher kleiner Topf oder Schüssel) füllen und mit dem Pürierstab zerkleinern. Bei Bedarf noch etwas vom Brokkolikochwasser dazugeben, damit das Pürieren leichter geht.
 4. **Mit Salz, Pfeffer und Balsamicoessig** würzen, wer mag kann wie ich noch etwas Zucker dazugeben. Oder noch etwas Olivenöl.

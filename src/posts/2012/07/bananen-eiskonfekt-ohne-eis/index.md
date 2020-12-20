@@ -6,7 +6,7 @@ tags:
 - Rezept
 ---
 
-[![](images/igp9259.jpg "_IGP9259")](http://apfeleimer.wordpress.com/2012/07/11/bananen-eiskonfekt-ohne-eis/_igp9259/)
+![_IGP9259](images/igp9259.jpg)
 
 Bei einem Gewinnspiel auf einer Adventuregame-Seite werden gerade **Bananenrezepte** gesucht und als alter Adventurefan habe ich mich hinreissen lassen, mitzumachen. Das entstandene Rezept will ich natürlich nicht "verkomme lasse" und poste es gleich hier noch, damit ich es nicht verliere. Und da das Wetter ja gerade passt, will vielleicht auch der ein oder andere Leser es mal ausprobieren.
 
@@ -28,22 +28,22 @@ Inspiriert von vielen Rezepten, bei denen ganze Bananen am Stiel oder auch ohne 
 
 1\. Die **Banane** in 2-3 cm große Stücke schneiden und in einen Gefrierbeutel oder -dose verpackt mindestens 15 Minuten (oder über Nacht) ins Gefrierfach stecken. (Das ist wichtig, damit nachher die Glasur schnell fest wird.)
 
-[![](images/igp9246.jpg "_IGP9246")](http://apfeleimer.wordpress.com/2012/07/11/bananen-eiskonfekt-ohne-eis/_igp9246/)
+![_IGP9246](images/igp9246.jpg)
 
 2\. Inzwischen die halbe **Schokoladentafel** in Stücke brechen und zusammen mit dem **Öl** in der Mikrowelle vorsichtig zum Schmelzen bringen, es dauert ungefähr drei Minuten, würde ich sagen. Dazu immer höchstens eine Minute die Mikrowelle anmachen, umrühren, wiederholen, bis die Schoki flüssig, aber nicht verbrannt ist.
 
-[![](images/igp9255.jpg "_IGP9255")](http://apfeleimer.wordpress.com/2012/07/11/bananen-eiskonfekt-ohne-eis/_igp9255/)
+![_IGP9255](images/igp9255.jpg)
 
 3\. Jetzt auf einen flachen Teller die **Kokosflocken** gut verteilen. Hierauf kommen dann die noch frisch flüssig überzogenen Bananenstücke, damit sie nicht klebenbleiben – und damit sie lecker nach Kokos schmecken natürlich!
 
 4\. **Bananenstücke** aus dem Gefrierfach holen und einzeln mit einem Löffel in der flüssigen **Schokoladenglasur** wenden und dann auf die Kokosflocken auf dem Teller setzen.
 
-[![](images/igp9257.jpg "_IGP9257")](http://apfeleimer.wordpress.com/2012/07/11/bananen-eiskonfekt-ohne-eis/_igp9257/)
+![_IGP9257](images/igp9257.jpg)
 
 5\. Sind alle Stücke glasiert, warten, bis sie fest geworden sind – das geht schnell, da die Banane ja gefroren war. Jetzt wieder in den Beutel packen und **nochmal mindestens 15 Minuten nachgefrieren lassen**.
 
-[![](images/igp9258.jpg "_IGP9258")](http://apfeleimer.wordpress.com/2012/07/11/bananen-eiskonfekt-ohne-eis/_igp9258/)
+![_IGP9258](images/igp9258.jpg)
 
 6\. Einfach mit der Hand essen oder halbieren und mit Spießchen servieren.
 
-[![](images/igp9266.jpg "_IGP9266")](http://apfeleimer.wordpress.com/2012/07/11/bananen-eiskonfekt-ohne-eis/_igp9266/)
+![_IGP9266](images/igp9266.jpg)

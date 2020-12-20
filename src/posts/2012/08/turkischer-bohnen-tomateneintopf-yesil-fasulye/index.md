@@ -17,7 +17,7 @@ Viele lassen das Fleisch ganz weg, das passt mir natürlich gut, so ist es **von
 
 Zumal ich gerne meine **eigenen Tomaten vom Balkon** verwenden wollte, und die waren etwas klein. Hier sieht man sie, zum Größenverständnis, auf einer Untertasse:
 
-![](http://apfeleimer.files.wordpress.com/2012/08/kleinetomaten.jpg?w=300 "kleine Tomaten")
+![kleine Tomaten](images/kleinetomaten.jpg)
 
 Zusätzlich habe ich auch noch ein paar **Gewürze** hinzugefügt, die die anderen auch verwenden und die ich passend finde: Paprikapulver und scharfe Soße. Gebraten habe ich in **Olivenöl**, das kommt mir passender vor als die ursprünglich angegebenen Butter. Als Beilage haben wir **Reis** gegegessen, aber Fladenbrot passt bestimmt auch gut. Dazu gab es **Joghurt**. Zu guter Letzt habe ich auf Empfehlung eines Kommentators noch **Fetakäse** drauf gestreut, auch wenn das wohl nicht echt türkisch ist.
 

@@ -23,7 +23,7 @@ für 4 Portionen
 - 1 Staude **Mangold** (das waren bei mir etwa 500-600 Gramm)
 - 1 große **Zwiebel** (fein hacken)
 - 2 **Knoblauchzehen** (fein hacken)
-- etwas **scharfes** Gewürz, z. B. [meine scharfe Soße](http://apfeleimer.wordpress.com/2012/06/27/2-miniprojekte-eistee-mit-sirup-und-scharfe-sose/ "2 Miniprojekte: Eistee mit Sirup und scharfe Soße"), oder Sriracha, oder Tabasco, Cayennepfeffer, Chilipulver
+- etwas **scharfes** Gewürz, z. B. [meine scharfe Soße](/posts/2012/06/2-miniprojekte-eistee-mit-sirup-und-scharfe-sose/), oder Sriracha, oder Tabasco, Cayennepfeffer, Chilipulver
 - etwas **Öl** zum Anbraten (Olivenöl passt gut, da ein bisschen mediterran angehaucht)
 - 100 ml süße **Sahne** – das ist ein halber Becher, soviel hatte ich noch – man kann aber nach Geschmack auch bis zu 200ml nehmen, oder stattdessen 100ml Milch
 - 200 g **Feta**\-Käse (entspricht einer Packung)

@@ -9,6 +9,7 @@ tags:
 - Kuchen
 - Pizza
 - Tofu
+- Schmand
 ---
 
 ![Lauchkuchen](images/lauchkuchen.jpg)

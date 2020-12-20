@@ -15,7 +15,7 @@ tags:
 
 War überraschend lecker, das machen wir sicher nochmal. So viele gute Fenchelrezepte hab ich nämlich nicht. Fenchel kann schnell mal zu dominant und penetrant werden, das ist hier nicht so, er fügt sich gut ein und es schmeckt auch noch ziemlich echt nach Bolognese, nicht zu sehr verändert.
 
-Das Rezept habe ich abgewandelt aus dem Buch ["Was gibt's heute"](http://www.amazon.de/Was-gibt%C2%B4s-heute-Rezepte-Familienk%C3%BCche/dp/3833810459) (Penne mit Fenchel-Bolognese).
+Das Rezept habe ich abgewandelt aus dem Buch ["Was gibt's heute"](https://books.google.de/books?id=R6hsHudoxHYC) (Penne mit Fenchel-Bolognese).
 
 ## Zutaten
 

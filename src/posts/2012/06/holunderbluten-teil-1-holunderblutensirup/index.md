@@ -6,7 +6,7 @@ tags:
 - Rezept
 ---
 
-[![](http://apfeleimer.files.wordpress.com/2012/06/imgp9028.jpg?w=199 "HolunderblÃ¼ten putzen")](http://apfeleimer.wordpress.com/2012/06/12/holunderbluten-teil-1-holunderblutensirup/holunderbla%c2%bcten-putzen/) [![](http://apfeleimer.files.wordpress.com/2012/06/imgp9076.jpg?w=220 "HolunderblÃ¼ten als Sirup und Gelee")](http://apfeleimer.wordpress.com/2012/06/12/holunderbluten-teil-1-holunderblutensirup/holunderbla%c2%bcten-als-sirup-und-gelee/)
+![HolunderblÃ¼ten als Sirup und Gelee](images/imgp9076.jpg)
 
 Momentan blüht gerade der **Holunder**; höchste Zeit Köstlichkeiten daraus zu machen! Ich habe dieses Jahr keine [Pfannkuchen](http://www.chefkoch.de/rezepte/1145281220874263/Holunderblueten.html) draus gemacht, aber die sind auch sehr lecker; ich wollte mir lieber den Geschmack länger konservieren und habe mich an **Holunderblütensirup** und **Gelee** gemacht.
 

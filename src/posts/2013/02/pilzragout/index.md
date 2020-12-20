@@ -4,19 +4,19 @@ date: "2013-02-17"
 author: Tina
 tags:
 - Rezept
+- Pilze
 ---
 
-[![Pilzragout](images/pilzragout.jpg)](http://apfeleimer.wordpress.com/2013/02/17/pilzragout/pilzragout/)
+![Pilzragout](images/pilzragout.jpg)
 
 Dieses Rezept gibt es bei uns gerade besonders oft – kein Wunder, schließlich sind Champignons gerade häufig im Sonderangebot. Und nach den Sonderangeboten baue ich ja immer meinen wöchentlichen Kochplan auf. Nachdem mir das Rezept für Pilzragout aus einem meiner Kochbücher zu kompliziert erschien, habe ich dieses auf die "Basics" reduzierte Rezept entwickelt.
 
-Eine wichtige Rolle spielt meine [selbstgemachte **Gemüsebrühepaste**](http://apfeleimer.wordpress.com/2012/10/14/gemusebruhe-paste-eingemachtes-suppengewurz-und-inoffizieller-dreckwegtag/ "Gemüsebrühe-Paste / eingemachtes Suppengewürz und inoffizieller Dreckwegtag"), die hier mitgebraten wird – ein bisschen so wie das [Französische Mirepoix](http://de.wikipedia.org/wiki/Mirepoix "Mirepoix bei Wikipedia") (das genau wie meine Paste aus feingehacktem Sellerie, Möhre und Zwiebel besteht). Da meine Paste auch noch Kräuter, vor allem Petersilie, enthält, kann man sich dann auch die Zugabe derselben sparen. Wer stattdessen aber Gemüsebrühe in Pulver- oder anderer Form verwenden will, gibt diese erst später dazu und muss am Ende auch noch etwas feingehackte Petersilie ins Ragout rühren. Ich finde auch den **Wein** oder ein ähnliches herb-säuerliches Getränk wie abgestandenen Sekt oder Prosecco vom der letzten Feier (nix verkomme lasse!) wichtig. Aber ich weiß auch, dass einige keinen Alkohol im Essen (oder anderswo) haben wollen; da würde ich den Wein vielleicht durch eine Mischung aus Apfel- oder Traubensaft, Essig und Gemüsebrühe **ersetzen**. Übrigens auch sehr herb und wurde wohl früher auch in den Apfelwein gemischt, um Traubenwein näher zu kommen: Schlehen oder **Schlehensaft**. Hier aber nicht so passend, es sei denn man möchte dunkelrotes Pilzragout essen. Auch nichts dagegen einzuwenden, wenn ich so drüber nachdenke.
+Eine wichtige Rolle spielt meine [selbstgemachte **Gemüsebrühepaste**](/posts/2012/10/gemusebruhe-paste-eingemachtes-suppengewurz-und-inoffizieller-dreckwegtag/), die hier mitgebraten wird – ein bisschen so wie das [Französische Mirepoix](http://de.wikipedia.org/wiki/Mirepoix "Mirepoix bei Wikipedia") (das genau wie meine Paste aus feingehacktem Sellerie, Möhre und Zwiebel besteht). Da meine Paste auch noch Kräuter, vor allem Petersilie, enthält, kann man sich dann auch die Zugabe derselben sparen. Wer stattdessen aber Gemüsebrühe in Pulver- oder anderer Form verwenden will, gibt diese erst später dazu und muss am Ende auch noch etwas feingehackte Petersilie ins Ragout rühren. Ich finde auch den **Wein** oder ein ähnliches herb-säuerliches Getränk wie abgestandenen Sekt oder Prosecco vom der letzten Feier (nix verkomme lasse!) wichtig. Aber ich weiß auch, dass einige keinen Alkohol im Essen (oder anderswo) haben wollen; da würde ich den Wein vielleicht durch eine Mischung aus Apfel- oder Traubensaft, Essig und Gemüsebrühe **ersetzen**. Übrigens auch sehr herb und wurde wohl früher auch in den Apfelwein gemischt, um Traubenwein näher zu kommen: Schlehen oder **Schlehensaft**. Hier aber nicht so passend, es sei denn man möchte dunkelrotes Pilzragout essen. Auch nichts dagegen einzuwenden, wenn ich so drüber nachdenke.
 
 Man kann statt der Champignons bestimmt auch andere Pilze verwenden, zum Beispiel selbst gesammelte (natürlich nur, wenn man sich auskennt!). Habe ich allerdings noch nicht ausprobiert. Aber helle und dunkle Champignons hatte ich schon, das geht auf jeden Fall beides. Dunkle sollen ja ein bisschen aromatischer sein.
 
-\[gallery columns="2" ids="976,987"\]
 
-Eine schöne polnische Variante erhält man, wenn man [wie hier beschrieben und bebildert](http://apfeleimer.wordpress.com/2013/02/25/pilzragout-variation/ "Pilzragout-Variation mit Sauerkraut"), am Ende noch Sauerkraut mitkocht. Oder man verwendet das Ragout so wie es ist [als Soße zum Schnitzel](http://apfeleimer.wordpress.com/2013/03/02/pilzragout-variation-schnitzelsose/ "Pilzragout-Variation: Schnitzelsoße"), auch schön.
+Eine schöne polnische Variante erhält man, wenn man [wie hier beschrieben und bebildert](/posts/2013/02/pilzragout-variation/), am Ende noch Sauerkraut mitkocht. Oder man verwendet das Ragout so wie es ist [als Soße zum Schnitzel](/posts/2013/03/pilzragout-variation-schnitzelsose/ "Pilzragout-Variation: Schnitzelsoße"), auch schön.
 
 ## Zutaten
 

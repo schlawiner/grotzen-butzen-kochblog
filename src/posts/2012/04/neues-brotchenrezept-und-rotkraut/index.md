@@ -8,7 +8,7 @@ tags:
 - Brötchen
 ---
 
-[![](images/imgp8833.jpg "neues Brötchenrezept")](http://apfeleimer.wordpress.com/2012/04/23/neues-brotchenrezept-und-rotkraut/imgp8833/)
+![neues Brötchenrezept](images/imgp8833.jpg)
 
 Sonntag früh vor unserer Firmenführung bei Canyon (kann da Apfel mal wieder was schreiben, zB da drüber? Hallo? Ist da jemand?) habe ich noch mal Brötchen gebacken, diesmal nach einem "**Universalteig**"-Rezept aus Apfels neuem [Lieblingsbuch über den **Brotbackautomaten**](http://www.amazon.de/Neues-aus-Brotbackautomaten-Richard-Ehrlich/dp/3809428612/ref=sr_1_1?ie=UTF8&qid=1335210776&sr=8-1) (auch hier wünsche ich mir wohl umsonst, dass er mal selber was drüber schreibt, seufz). 
 
@@ -18,7 +18,7 @@ Die Brötchen selbst sind auch größer aufgegangen als beim anderen Rezept. All
 
 Mittags hat Apfel ein Rotkraut gemacht, das sehr lecker war.
 
-[![](images/imgp8837.jpg "Rotkraut 1")](http://apfeleimer.wordpress.com/2012/04/23/neues-brotchenrezept-und-rotkraut/imgp8837/)
+![Rotkraut 1](images/imgp8837.jpg)
 
 Dazu gab es Fastfood: vegetarische Schnitzel und Semmelknödelscheiben.
 
@@ -26,4 +26,4 @@ Das Rezept wird er sicher nicht verlinken oder kommentieren, also tue ich das ma
 
 Apropos aufwärmen: zum nächsten Mittagessen gab es das Rotkraut nochmal, aber ohne Schnitzel, die waren alle, dafür gab es Salat und die Knödelscheiben waren lecker angebraten – übrigens sehr empfehlenswert!
 
-[![](images/imgp8838.jpg "Rotkraut 2")](http://apfeleimer.wordpress.com/2012/04/23/neues-brotchenrezept-und-rotkraut/imgp8838/)
+![Rotkraut 2](images/imgp8838.jpg)

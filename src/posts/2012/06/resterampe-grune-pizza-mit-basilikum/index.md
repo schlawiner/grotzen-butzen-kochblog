@@ -4,13 +4,15 @@ date: "2012-06-04"
 author: Tina
 tags:
 - Rezept
+- Pizza
+- Mangold
 ---
 
-[![mit Mangold, Radieschenblättern, Blumenkohlblättern](images/imgp9079.jpg "Grünzeugpizza mit Basilikum")](http://apfeleimer.wordpress.com/2012/06/04/resterampe-grune-pizza-mit-basilikum/gra%c2%bcnzeugpizza-mit-basilikum/)
+![Grünzeugpizza mit Basilikum](images/imgp9079.jpg)
 
-Sieht gut aus, gell? Ist aber keine Spinatpizza, sondern mit den Blättern von **Balkonmangold**, **Balkonradieschen** und **Blumenkohl** gemacht. So [eine ähnliche habe ich ja kürzlich schonmal gepostet](http://apfeleimer.wordpress.com/2012/04/13/taste-the-waste-pizza-mit-blumenkohlgrn-statt-spinat-oder-rucola/), damals nur mit Blumenkohlblättern. Drunter ist eine bescheidene Pizza Margerita von Ja! und obendrauf frisch geerntetes Basilikum, das wir am Samstag geschenkt bekommen haben; die Besitzer der Basilikumpflanze fahren in Urlaub und können sie nicht mehr giessen, da musste sie wohl notgeschlachtet werden. Danke nochmal, demnächst kommt auch noch ein zweites Projekt, für das der Rest vom Basilikum verwendet wurde.
+Sieht gut aus, gell? Ist aber keine Spinatpizza, sondern mit den Blättern von **Balkonmangold**, **Balkonradieschen** und **Blumenkohl** gemacht. So [eine ähnliche habe ich ja kürzlich schonmal gepostet](/posts/2012/04/taste-the-waste-pizza-mit-blumenkohlgrn-statt-spinat-oder-rucola/), damals nur mit Blumenkohlblättern. Drunter ist eine bescheidene Pizza Margerita von Ja! und obendrauf frisch geerntetes Basilikum, das wir am Samstag geschenkt bekommen haben; die Besitzer der Basilikumpflanze fahren in Urlaub und können sie nicht mehr giessen, da musste sie wohl notgeschlachtet werden. Danke nochmal, demnächst kommt auch noch ein zweites Projekt, für das der Rest vom Basilikum verwendet wurde.
 
-[![](images/imgp9080.jpg "Grünzeug-Pizza mit Basilikum")](http://apfeleimer.wordpress.com/2012/06/04/resterampe-grune-pizza-mit-basilikum/gra%c2%bcnzeug-pizza-mit-basilikum/)
+![Grünzeug-Pizza mit Basilikum](images/imgp9080.jpg)
 
 ## Zutaten
 

@@ -6,11 +6,11 @@ tags:
 - Rezept
 ---
 
-[![](images/imgp9218.jpg "Grüner Eistee Holunder")](http://apfeleimer.wordpress.com/2012/06/27/2-miniprojekte-eistee-mit-sirup-und-scharfe-sose/gra%c2%bcner-eistee-holunder/)
+![Grüner Eistee Holunder](images/imgp9218.jpg)
 
 Eigentlich würden ja die Überschrift und die beiden Bilder reichen, um zu wissen was zu tun ist. Aber ich mag kleine Geschichten und zur Sicherheit schreibe ich auch nochmal genauer, wie ich es gemacht habe; denn bei der Soße gibt es auch ein paar Gefahren, vor denen gewarnt werden muss.
 
-[![](images/imgp9208.jpg "Viel scharf!")](http://apfeleimer.wordpress.com/2012/06/27/2-miniprojekte-eistee-mit-sirup-und-scharfe-sose/imgp9208/)
+![Viel scharf!](images/imgp9208.jpg)
 
 ### Eistee mit Sirup
 
@@ -22,7 +22,7 @@ Ich habe einfach **auf 1 Liter Wasser einen Teebeutel** genommen (sollte wie der
 
 Immer wenn ich mal Chilis kaufe, sind das **viel zu viele**, geht das noch einem so? Oder manchmal bekommt man auch von einem verweifelten **Chili-Balkongärtner viele überzählige Schoten** fast schon aufgedrängt; die scheinen eine ebenso reiche Ernte zu geben **wie Zucchini**. Jedenfalls habe ich kürzlich angefangen, diese vielen Chilischoten zu Soße einzukochen. Die ist **nicht nur haltbarer, sondern viel einfacher zu verwenden**. Statt jedesmal die Gummihandschuhe anzuziehen und die Chilis zu schneiden, dann das Brett mehrmals spülen, bis es keine Schärfe mehr an das nächste Schnittgut abgibt – oder sogar die Handschuhe vergessen und sich in den Augen reiben, aua, – kann man das ganze nur einmal machen und danach einfach jedesmal ein paar Tropfen aus der Flasche ins Essen giessen.
 
-[![](images/imgp9207.jpg "Chilis beim Aufkochen")](http://apfeleimer.wordpress.com/2012/06/27/2-miniprojekte-eistee-mit-sirup-und-scharfe-sose/imgp9207/)
+![Chilis beim Aufkochen](images/imgp9207.jpg)
 
 Ich habe dazu nur **Essig** und **Salz** verwendet, genau [wie Mark Bittman](http://dinersjournal.blogs.nytimes.com/2008/11/18/diy-hot-sauce/ "DIY Hot Sauce bei der NYTimes") das auch macht. Ich habe die **Chilischoten** gewaschen und die grünen Stiele entfernt, dann in einen Topf geworfen und **mit Essig bedeckt**. Dann ordentlich Salz hinzugeworfen (vielleicht **1 Esslöffel**) und das ganze **5 Minuten aufgekocht**. Mark Bittman ist ein kluger Mann und ich hätte auf ihn hören sollen, aber das wusste ich da noch nicht: **auf keinen Fall die Dämpfe einatmen**. Hustenanfälle sind garantiert. Fenster aufmachen ist auch eine gute Idee. Danach habe ich das ganze im Topf mit meinem **Pürierstab zur Soße püriert** und in eine Flasche gefüllt. Im Kühlschrank aufbewahren.
 
