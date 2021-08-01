@@ -6,7 +6,7 @@ tags:
 - Rezept
 ---
 
-![fladen](images/fladen.jpg)
+![Fladen](images/fladen.jpg)
 
 Endlich komme ich mal dazu, die Fladenbrote von neulich zu posten.
 

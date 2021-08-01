@@ -5,13 +5,14 @@ author: Tina
 tags:
 - Rezept
 - Nudeln
+- Nudelsoße
 - Fenchel
 - Bolognese
 - Möhren
 - Karotten
 ---
 
-![](images/imgp8787.jpg "Fenchelbolognese")
+![Fenchelbolognese](images/imgp8787.jpg)
 
 War überraschend lecker, das machen wir sicher nochmal. So viele gute Fenchelrezepte hab ich nämlich nicht. Fenchel kann schnell mal zu dominant und penetrant werden, das ist hier nicht so, er fügt sich gut ein und es schmeckt auch noch ziemlich echt nach Bolognese, nicht zu sehr verändert.
 

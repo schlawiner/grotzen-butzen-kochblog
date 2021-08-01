@@ -15,7 +15,7 @@ tags:
 - Feta
 ---
 
-![wurzelgemuese](images/wurzelgemuese.jpg)
+![Wurzelgemüse](images/wurzelgemuese.jpg)
 
 Dieses Rezept ist eins unserer **Dauerbrenner**, weil man wirklich fast alles reintun kann, was man so da hat an Wurzelgemüse. Außerdem ist es durch die besondere, erfrischend süßsäuerliche, **Marinade** überraschend anders als andere Rezepte für Grillgemüse. Auf dem Bild haben wir es mit Fenchel, roter Bete, Möhren und Pastinaken gemacht - plus **Kartoffeln**, die sind immer dabei.
 
@@ -39,12 +39,12 @@ für 4-5 Portionen
 - 3-4 Zweige Rosmarin oder 1 EL gemahlener Rosmarin
 - 100g schware Oliven (habe ich auch schon weggelassen und nicht sehr vermisst, passen aber gut)
 
-**Marinade**:
+### **Marinade**:
 
 - 2 EL Honig
 - 2 EL Zitronen- oder Limettensaft
 
-**Dip**:
+### **Dip**:
 
 - 500g Joghurt
 - eine handvoll Petersilie oder andere Kräuter nach belieben (ich nehme auch Fenchelgrün, wenn ich Fenchel im Gericht verwende)

@@ -3,7 +3,7 @@ title: "Hilfe, tunnelbauende Insekten auf meiner Artischockenpflanze!"
 date: "2014-05-08" 
 author: Tina
 tags:
-- Rezept
+- Garten
 ---
 
 ![Minierfliegenspuren](images/1399562755932.jpg)

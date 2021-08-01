@@ -9,7 +9,7 @@ tags:
 - Tomate
 ---
 
-![rucolapizza](images/rucolapizza.jpg)
+![Rucolapizza](images/rucolapizza.jpg)
 
 Wer schon länger mitliest, weiß: Wenn es mal wieder schnell gehen muss sind wir hier beim Apfeleimer nicht so; es muss nicht immer alles from Scratch (oder die allerbeste Qualität vom Bio-Wochenmarkt) sein, da gibt es auch mal **Fertigpizza** – dann aber immer ein bisschen verfeinert, vorzugsweise mit etwas, was es gerade als Rotpreisangebot im Supermarkt gab. 
 

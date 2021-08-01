@@ -11,7 +11,7 @@ tags:
 - Walnuss
 ---
 
-![pasta_mit_roter_bete](images/pasta_mit_roter_bete.jpg)
+![Pasta mit roter Bete](images/pasta_mit_roter_bete.jpg)
 
 Letzten Dienstag vorm [Spieletreff](http://www.spieletreff-neuwied.de "Die Homepage unseres Spieletreffs") gab es endlich mal wieder ein bisschen etwas ausgefallenes zu den obligatorischen Nudeln. Die Wochen davor hatten wir leider oft Tomatensoße aus dem Glas. Die war zwar sehr gut – eine spanische "Tomate Frito", die ich auch mal selber rekreeieren will, aber irgendwann reicht es mit dem Fertigzeug. (**Edit**: Die [Tomate Frito gibt es jetzt auch hier als Rezept](/posts/2013/03/nudeldienstag-tomate-frito/), ich hab sie endlich richtig nachbauen können.)
 

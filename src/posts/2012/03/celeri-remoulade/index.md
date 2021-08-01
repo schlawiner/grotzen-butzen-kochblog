@@ -7,7 +7,7 @@ tags:
 - Sellerie
 - Möhren
 - Karotten
-- Majonnaise
+- Mayonnaise
 - Walnuss
 - Apfel
 ---

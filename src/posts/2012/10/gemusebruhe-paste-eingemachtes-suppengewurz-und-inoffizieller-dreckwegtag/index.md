@@ -48,12 +48,12 @@ Verschiedene Suppengemüse und -kräuter zB:
 
 ## Zubereitung
 
-1. Gemüse und Kräuter **grob hacken** und in der Küchenmaschine **fein pürieren**. Jetzt **pro 100g Gemüsepaste 10g Salz** hineinmischen. ![im_der_maschine](images/im_der_maschine.jpg)
+1. Gemüse und Kräuter **grob hacken** und in der Küchenmaschine **fein pürieren**. Jetzt **pro 100g Gemüsepaste 10g Salz** hineinmischen. ![Paste in der Maschine](images/im_der_maschine.jpg)
     
 ![salzen](images/salzen.jpg) 
 Es kommt ordentlich viel Salz dazu, wie man sieht...
 2. Wer keine Küchenmaschine hat, hackt entweder von Hand alles sehr fein (ist sicher entspannend und erspart die tägliche Meditationssitzung) oder macht es mit dem Pürierstab: das ist normalerweise zu trocken und es fliegen einem die Brocken um die Ohren. Aber gibt man das Salz schon nach dem Schneiden zum Gemüse und lässt etwas Saft ziehen, geht das Pürieren besser, sagt eine Kommentatorin bei Chefkoch.
 3. Jetzt alles bis zum Rand **in die Gläser füllen**. Geschlossene Gläser kann man ganz gut einfach so ungekühlt im Regal aufbewahren, angebrochene im Kühlschrank. Wenn man immer nur mit einem sauberen Löffel Paste herausnimmt, hält sie sich so Wochen oder Monate, die geschlossenen sogar bis zu einem Jahr.
 
-![als_suppe](images/als_suppe.jpg) 
+![Paste als Suppe](images/als_suppe.jpg) 
 Das Wasser vom Ausspülen der Schüsseln trinke ich traditionell am Ende als leckere Suppe – in der Mikrowelle heißgemacht.

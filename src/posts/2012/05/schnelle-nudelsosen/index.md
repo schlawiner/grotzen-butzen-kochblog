@@ -1,5 +1,5 @@
 ---
-title: "Schnelle Nudelsoßen"
+title: "2 schnelle Nudelsoßen: Buttergemüse oder Zucchini"
 date: "2012-05-24" 
 author: Tina
 tags:
@@ -7,6 +7,8 @@ tags:
 - Nudeln
 - Nudelsoße
 - Käse
+- Buttergemüse
+- Zucchini
 ---
 
 ![Spaghetti mit Buttergemüse und geriebenem Gouda](images/imgp9003.jpg)

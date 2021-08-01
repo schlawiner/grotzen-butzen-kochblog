@@ -9,8 +9,13 @@ tags:
 - Knoblauch
 - Nudelsoße
 - Käse
----
 
+zutaten:
+- Nudeln
+
+zubereitung:
+- erster **schritt**
+---
 ![spinatsauce_nudeln](images/spinatsauce_nudeln.jpg)
 
 Oh Mann, wie lange ich an diesem Rezept herumgedoktert habe! 
@@ -28,10 +33,16 @@ Irgendwann gab ich klein bei und begab ich mich zu meinem alten Bekannten, dem [
 Natürlich habe ich deswegen das ganze auch noch etwas geändert – ich nehme viel mehr Spinat, und auch keinen Rahmspinat (da sind mir die Zutaten doch etwas fragwürdig), sondern **normalen tiefgefrorenen Blattspinat** ohne alles. Den Chefkoch-Standard, den Becher süßer Sahne, habe ich auch gekippt, oder zumindest in den dort fast ebenso beliebten Standard – **Schmand** – getauscht (schäm, ich mag ihn halt auch). Dafür aber weniger – durch die vorteilhaft feste Konsistenz haben halbvolle Schmandbecher wenigstens nicht die ärgerliche Tendenz, allenthalben im Kühlschrank oder anderswo umzufallen und ihren Inhalt überall zu verteilen, so wie süße Sahne es tut (Apfels Rucksack kann ein Lied davon ~~stinken~~ duften).
 
 ## Zutaten
+  <ul class="mt-2">
+    {%- for zutat in zutaten -%}
+      <li class="" property="recipeIngredient">{{ zutat | markdown | safe }}</li>
+    {%- endfor -%}
+  </ul>
+
 
 für 4 Portionen
 
-- 350-400 g Spinat, tiefgekühlt (das war bei mir etwa eine halbe Packung)
+- <span property="recipeIngredient">350-400 g Spinat, tiefgekühlt</span> (das war bei mir etwa eine halbe Packung)
 - Öl zum Braten
 - 100 ml Milch
 - 3 Zehen Knoblauch, fein gehackt oder aus der Knoblauchpresse
@@ -43,6 +54,12 @@ für 4 Portionen
 - etwas Essig, Zucker
 
 ## Zubereitung
+
+  <ol class="mt-2">
+    {%- for zubereitungschritt in zubereitung -%}
+      <li class="">{{ zubereitungschritt | markdown | safe }}</li>
+    {%- endfor -%}
+  </ol>
 
 1. **Zwiebel** und **zwei** der 3 **Knoblauchzehen** andünsten.
 2. **Spinat** unaufgetaut hinzugeben und mit etwas Milch aufgießen. Deckel drauf und nach Packungsanweisung garen (ca 5-10 Minuten).
