@@ -1,0 +1,15 @@
+---
+permalink: /index.json
+---
+[
+  {% for item in collections.post  %}
+    {
+      "title": "{{ item.data.title or item.data.renderData.title }}",
+      "url": "{{ item.url }}",
+      "date": "{{ item.date }}",
+      "tags": [{%- for tag in item.data.tags -%}{% if tag != "post" %}"{{ tag }}"{{ '' if loop.last else ',' }}{% endif %}
+    {%- endfor -%}]
+    }{{ '' if loop.last else ',' }}
+  {% endfor  %}
+]
+
