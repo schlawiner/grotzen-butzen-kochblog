@@ -9,6 +9,7 @@
         {% if tag == "Rezept" %}"Recipe"{% endif %}
       {%- endfor -%} 
       {% else %} "BlogPosting"{% endif %},
+  "@id": "https://kochen.trillitzsch.net{{ page.url }}",
   "name": "{{ title }}",
   "keywords": "{%- for tag in tags -%}{{ tag }},{%- endfor -%}",
   "inLanguage": "de",
@@ -17,7 +18,8 @@
   "isPartOf": {
     "@type": "Blog",
     "name": "Grotzen und Butzen",
-    "url": "https://kochen.trillitzsch.net"
+    "url": "https://kochen.trillitzsch.net",
+    "@id": "https://kochen.trillitzsch.net"
   }
 }
 </script>    
