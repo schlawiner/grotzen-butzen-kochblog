@@ -1,0 +1,17 @@
+[
+	{
+		"key":"Tina",
+		"name":"Tina Trillitzsch",
+		"bio": "Tina bloggt hier das meiste.",
+		"website":"https://spielen.trillitzsch.net",
+		"photo":"https://i.pravatar.cc/150?img=2",
+		"twitter":"apfeleimer"
+	},
+	{
+		"key":"holehan",
+		"name":"Florian Grässle",
+		"bio":"Flo heißt hier im Blog auch manchmal Apfel",
+		"website":"https://holehan.org/",
+		"photo":"https://i.pravatar.cc/150?img=4"
+	}
+]
