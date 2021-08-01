@@ -1,13 +1,13 @@
 ---
 title: Über-Seite
-layout: /layouts/post.njk
+layout: /layouts/single.njk
 # eleventyExcludeFromCollections: true
-tags: tech
 ---
-Bisher leer.
 
-Mal bisschen testen, die Textformiertung. 
+## Die Autoren
 
+- [Tina](/authors/tina/) ist "Birne"
+- [Flo](/authors/holehan/) ist "Apfel"
 ## Erstmal etwas Text - davor diese Überschrift H2
 
 Darunter ein Absatz mit irgendwelchem Text. Was weiß ich, was für welcher. Eigentlich egal.
@@ -15,7 +15,12 @@ Darunter ein Absatz mit irgendwelchem Text. Was weiß ich, was für welcher. Eig
 Jetzt mal Definition-Lists testen?
 
 Zu definieren:  
-: Definition -> kann markdown-it nicht ohne Plugin und ich weiß nicht, wie man das [Plugin](https://github.com/markdown-it/markdown-it-deflist) in Eleventy installiert.
+: Definition -> geht mit markdown-it-Plugin [Deflist](https://github.com/markdown-it/markdown-it-deflist) (schon installiert, aber Styling mangelhaft)\
+Auch mal mit Umbruch.
+: noch eins?
+    - mit bullet
+    - oder zweien
+
 
 ## Dann Listen:
 
@@ -44,6 +49,8 @@ Die sind auch schick, und durch gekonnte CSS-Trickserei haben sie nur dann Zebra
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
 | col 3 is | right-aligned |    $1 |
+
+Noch eine andere Tabelle:
 
 | Tables   | Are           |  Cool |
 |:---------|:--------------|:-------|
