@@ -1,13 +1,12 @@
 ---
 permalink: /tags/
 title: Alle Schlagwörter
+layout: /layouts/single.njk
 ---
-{% extends "layouts/post.njk" %}
-{% block main %}
-
+<ul>
 {% for tag in collections.tagList %}
   {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-  <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+  {# <li><a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a></li> #}
+  <li class="inline-block mx-0 mt-1 font-sans text-sm text-white"><a class="inline-block p-1 no-underline bg-green-600 rounded" href="{{ tagUrl | url }}">{{ tag }}</a></li>
 {% endfor %}
-
-{% endblock %}
+</ul>
