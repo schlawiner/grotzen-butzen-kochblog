@@ -11,7 +11,7 @@
       {% else %} "BlogPosting"{% endif %},
   "@id": "https://kochen.trillitzsch.net{{ page.url }}",
   "name": "{{ title }}",
-  "keywords": "{%- for tag in tags -%}{{ tag }},{%- endfor -%}",
+  "keywords": "{%- for tag in tags -%}{% if tag != "post" and tag != "Rezept" %}{{ tag }}{{ '' if loop.last else ', ' }}{% endif %}{%- endfor -%}",
   "inLanguage": "de",
   "datePublished": "{{ date }}",
   "author": {%if author.name %}}"{{ author.name }}"{% else %}"{{ author }}"{%endif%},
