@@ -5,12 +5,20 @@
 {
   "@context": "http://schema.org/",
   "@type": {% if tags %}
-       {%- for tag in tags -%}
-      {% if tag == "Rezept" %}"Recipe"{% endif %}
-    {%- endfor -%}
-  {% endif %}, 
-  "name": {{ title }}
-
+      {%- for tag in tags -%}
+        {% if tag == "Rezept" %}"Recipe"{% endif %}
+      {%- endfor -%} 
+      {% else %} "BlogPosting"{% endif %},
+  "name": "{{ title }}",
+  "keywords": "{%- for tag in tags -%}{{ tag }},{%- endfor -%}",
+  "inLanguage": "de",
+  "datePublished": "{{ date }}",
+  "author": {%if author.name %}}"{{ author.name }}"{% else %}"{{ author }}"{%endif%},
+  "isPartOf": {
+    "@type": "Blog",
+    "name": "Grotzen und Butzen",
+    "url": "https://kochen.trillitzsch.net"
+  }
 }
 </script>    
 <link rel="stylesheet" href="/assets/css/main.css" />
