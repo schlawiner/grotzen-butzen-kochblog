@@ -66,7 +66,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/assets/img");
   eleventyConfig.addPassthroughCopy('src/assets/json');
   // Find and copy any `jpg` files, maintaining directory structure.
- // eleventyConfig.addPassthroughCopy("**/*.jpg");
+  eleventyConfig.addPassthroughCopy("src/posts/**/*.jpg");
   // eleventyConfig.addPassthroughCopy("**/*.png");
 
     return {
