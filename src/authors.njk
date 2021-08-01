@@ -1,0 +1,40 @@
+---
+layout: layouts/single.njk
+pagination:
+   data: authors
+   size: 1
+   alias: author
+permalink: "/authors/{{author.key}}/"
+eleventyComputed:
+   title: "{{author.name}}"
+---
+
+{# <h2>{{ author.name }}</h2> #}
+
+<ul>
+       {% if author.website %}
+    <li>Website: <a href="{{author.website}}" target="_new" rel="noopener">{{author.website}}</a></li>
+        {% endif %}
+    {% if author.twitter %}
+    <li>Twitter: <a href="https://twitter.com/{{author.twitter}}" target="_new" rel="noopener">@{{author.twitter}}</a></li>
+    {% endif %}
+</ul>
+
+<div class="flex w-full mt-4 overflow-hidden bg-white border rounded-lg">
+{% if author.photo %}<img src="{{author.photo}}" style="float:left; max-height: 300px; padding-right: 10px">{% endif %}
+{% if author.bio %}<p>{{author.bio}}</p>{% endif %}
+</div>
+
+
+<h2>Beiträge von dieser Person:</h2>
+
+{# {% set posts = collections.post %}
+
+{% posts | getPostsByAuthor: author.key %} #}
+
+{# | getPostsByAuthor: author.key  #}
+<ul>
+{% for post in posts %}
+	<li><a href="{{post.url}}">{{post.data.title}}</a></li>
+{% endfor %}
+</ul>
