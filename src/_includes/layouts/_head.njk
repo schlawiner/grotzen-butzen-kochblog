@@ -23,7 +23,9 @@
   }
 }
 </script>    
-<link rel="stylesheet" href="/assets/css/main.css" />
+{%- for css in encore.main.css -%}
+  <link rel="stylesheet" href="{{ css }}" type="text/css"/>
+{%- endfor -%}
     {# <link href="https://fonts.googleapis.com/css2?family=Yrsa:wght@400;700&display=swap" rel="stylesheet">  #}
      {# <link href="https://fonts.googleapis.com/css2?family=Neuton:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">  #}
      {# <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -33,4 +35,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"> 
     <title>{{ title }}</title>
+{%- for js in encore.main.js -%}
+  <script src="{{ js }}" defer></script>
+{%- endfor -%}
 </head>

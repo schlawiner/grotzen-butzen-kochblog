@@ -11,6 +11,8 @@ module.exports = function (eleventyConfig) {
     .use(markdownItAttrs)
     .use(markdownItdeflist);
 
+  eleventyConfig.setUseGitIgnore(false);
+  
   eleventyConfig.setLibrary("md", markdownLib);
 
   eleventyConfig.addFilter("markdown", function (value) {
@@ -62,6 +64,7 @@ module.exports = function (eleventyConfig) {
     return [...tagSet];
   });
 
+  eleventyConfig.addPassthroughCopy("build");
   eleventyConfig.addPassthroughCopy("src/assets/js/");
   eleventyConfig.addPassthroughCopy("src/assets/img");
   eleventyConfig.addPassthroughCopy('src/assets/json');

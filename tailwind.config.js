@@ -1,5 +1,9 @@
 module.exports = {
-  purge: ['./src/**/*.njk',],
+  purge: {
+    mode: 'layers',
+    layers: ['components', 'utilities'],
+    content: ['./src/**/*.njk', './src/**/*.md'],
+  },
   mode: 'jit',
   theme: {
     fontFamily: {
